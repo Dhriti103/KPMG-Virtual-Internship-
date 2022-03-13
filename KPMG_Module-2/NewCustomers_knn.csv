@@ -1,0 +1,1231 @@
+,first_name,last_name,gender,past_3_years_bike_related_purchases,job_industry_category,wealth_segment,owns_car,tenure,address,postcode,state,property_valuation,Rank,age,age_group,RA_CODE_2016,RA_NAME_2016,RATIO,PERCENTAGE,Loyalty
+0,Chickie,Brister,Male,86,Manufacturing,Mass Customer,Yes,14,45 Shopko Center,4500,QLD,6,1,64.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+1,Peria,Rantoull,Female,3,Financial Services,Mass Customer,No,4,8350 Moulton Terrace,4500,QLD,4,120,47.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Bronze
+2,Madison,Lars,Male,11,Health,Mass Customer,No,19,9503 New Castle Street,4500,QLD,9,620,55.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Gold
+3,Andrea,Pendle,Female,86,Financial Services,High Net Worth,Yes,13,31281 Meadow Valley Way,4500,QLD,6,760,83.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+4,Philbert,Bangs,Male,67,IT,Mass Customer,Yes,6,02643 Moose Court,4500,QLD,7,951,56.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+5,Morly,Genery,Male,69,Property,Mass Customer,No,16,14 Mccormick Park,2113,NSW,11,1,51.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+6,Ardelis,Forrester,Female,10,Financial Services,Affluent Customer,No,10,5 Colorado Crossing,3505,VIC,5,1,47.0,40-49,22.0,Outer Regional Australia,1.0,100.0,Bronze
+7,Lucine,Stutt,Female,64,Manufacturing,Affluent Customer,Yes,5,207 Annamark Plaza,4814,QLD,1,4,43.0,40-49,32.0,Outer Regional Australia,1.0,100.0,Bronze
+8,Nancie,Vian,Female,74,Retail,Mass Customer,Yes,10,85 Carioca Point,4814,QLD,5,8,49.0,40-49,32.0,Outer Regional Australia,1.0,100.0,Silver
+9,Conway,Juarez,Male,27,Financial Services,Affluent Customer,No,17,66904 American Ash Hill,4814,QLD,5,904,55.0,50-59,32.0,Outer Regional Australia,1.0,100.0,Bronze
+10,Melinda,Hadlee,Female,34,Financial Services,Affluent Customer,No,19,115 Montana Place,2093,NSW,9,4,56.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+11,Averil,Ackery,Male,93,Retail,Mass Customer,Yes,7,344 Darwin Junction,2093,NSW,12,676,51.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+12,Micheil,Fleote,Male,48,Manufacturing,High Net Worth,No,16,174 Lotheville Crossing,2093,NSW,9,739,46.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+13,Druci,Brandli,Female,39,Entertainment,High Net Worth,Yes,22,89105 Pearson Terrace,4075,QLD,7,6,70.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+14,Bessy,Saladin,Female,22,Manufacturing,Mass Customer,Yes,16,60073 Pankratz Pass,4075,QLD,10,341,82.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+15,Keenan,Moriarty,Male,67,Financial Services,Mass Customer,Yes,2,077 Hansons Point,4075,QLD,8,684,27.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Bronze
+16,Rutledge,Hallt,Male,23,Financial Services,Mass Customer,No,8,7 Nevada Crossing,2620,NSW,7,6,45.0,40-49,10.0,Major Cities of Australia,0.7160068,71.6006793,Platinum
+17,Rutledge,Hallt,Male,23,Financial Services,Mass Customer,No,8,7 Nevada Crossing,2620,NSW,7,6,45.0,40-49,11.0,Inner Regional Australia,0.2609647,26.09647,Platinum
+18,Rutledge,Hallt,Male,23,Financial Services,Mass Customer,No,8,7 Nevada Crossing,2620,NSW,7,6,45.0,40-49,80.0,Major Cities of Australia,0.0174731,1.7473128,Bronze
+19,Rutledge,Hallt,Male,23,Financial Services,Mass Customer,No,8,7 Nevada Crossing,2620,NSW,7,6,45.0,40-49,81.0,Inner Regional Australia,0.0055554,0.5555379,Bronze
+20,Sybilla,MacCart,Female,88,Financial Services,Mass Customer,Yes,7,74 Welch Pass,2620,NSW,7,32,35.0,30-39,10.0,Major Cities of Australia,0.7160068,71.6006793,Bronze
+21,Sybilla,MacCart,Female,88,Financial Services,Mass Customer,Yes,7,74 Welch Pass,2620,NSW,7,32,35.0,30-39,11.0,Inner Regional Australia,0.2609647,26.09647,Bronze
+22,Sybilla,MacCart,Female,88,Financial Services,Mass Customer,Yes,7,74 Welch Pass,2620,NSW,7,32,35.0,30-39,80.0,Major Cities of Australia,0.0174731,1.7473128,Bronze
+23,Sybilla,MacCart,Female,88,Financial Services,Mass Customer,Yes,7,74 Welch Pass,2620,NSW,7,32,35.0,30-39,81.0,Inner Regional Australia,0.0055554,0.5555379,Bronze
+24,Renate,Whyte,Female,60,Health,High Net Worth,Yes,15,4189 Laurel Center,2620,NSW,7,828,58.0,50-59,10.0,Major Cities of Australia,0.7160068,71.6006793,Silver
+25,Renate,Whyte,Female,60,Health,High Net Worth,Yes,15,4189 Laurel Center,2620,NSW,7,828,58.0,50-59,11.0,Inner Regional Australia,0.2609647,26.09647,Silver
+26,Renate,Whyte,Female,60,Health,High Net Worth,Yes,15,4189 Laurel Center,2620,NSW,7,828,58.0,50-59,80.0,Major Cities of Australia,0.0174731,1.7473128,Bronze
+27,Renate,Whyte,Female,60,Health,High Net Worth,Yes,15,4189 Laurel Center,2620,NSW,7,828,58.0,50-59,81.0,Inner Regional Australia,0.0055554,0.5555379,Bronze
+28,Lolly,Prewer,Female,44,Health,Mass Customer,No,15,694 Coolidge Center,2620,NSW,7,988,24.0,18-29,10.0,Major Cities of Australia,0.7160068,71.6006793,Platinum
+29,Lolly,Prewer,Female,44,Health,Mass Customer,No,15,694 Coolidge Center,2620,NSW,7,988,24.0,18-29,11.0,Inner Regional Australia,0.2609647,26.09647,Platinum
+30,Lolly,Prewer,Female,44,Health,Mass Customer,No,15,694 Coolidge Center,2620,NSW,7,988,24.0,18-29,80.0,Major Cities of Australia,0.0174731,1.7473128,Bronze
+31,Lolly,Prewer,Female,44,Health,Mass Customer,No,15,694 Coolidge Center,2620,NSW,7,988,24.0,18-29,81.0,Inner Regional Australia,0.0055554,0.5555379,Bronze
+32,Duff,Karlowicz,Male,50,Manufacturing,Mass Customer,Yes,5,717 West Drive,2200,NSW,10,8,49.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+33,Rolland,Esmead,Male,41,Health,Affluent Customer,No,8,72008 7th Avenue,2200,NSW,8,233,81.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+34,Kissie,Line,Female,2,Manufacturing,Affluent Customer,Yes,7,629 Grasskamp Junction,2200,NSW,9,862,21.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+35,Ferdinand,Romanetti,Male,60,Financial Services,Affluent Customer,No,9,2 Sloan Way,2200,NSW,7,996,62.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+36,Barthel,Docket,Male,72,IT,Mass Customer,Yes,17,80 Scofield Junction,4151,QLD,5,10,36.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Silver
+37,Clarine,Piecha,Female,99,Health,High Net Worth,No,14,7523 Eggendart Hill,4151,QLD,10,865,57.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+38,Rockwell,Matson,Male,94,Retail,High Net Worth,No,3,3682 Crowley Point,4573,QLD,6,10,27.0,18-29,30.0,Major Cities of Australia,0.9967523,99.6752336,Bronze
+39,Rockwell,Matson,Male,94,Retail,High Net Worth,No,3,3682 Crowley Point,4573,QLD,6,10,27.0,18-29,31.0,Inner Regional Australia,0.0032477,0.3247664,Bronze
+40,Wheeler,Winward,Male,48,Manufacturing,Mass Customer,No,10,3 Golden Leaf Point,3216,VIC,8,12,22.0,18-29,20.0,Major Cities of Australia,0.9915374,99.1537388,Silver
+41,Wheeler,Winward,Male,48,Manufacturing,Mass Customer,No,10,3 Golden Leaf Point,3216,VIC,8,12,22.0,18-29,21.0,Inner Regional Australia,0.0084626,0.8462612,Silver
+42,Ingmar,Okenden,Male,97,Financial Services,Mass Customer,Yes,8,1 Graceland Plaza,3216,VIC,2,478,63.0,60-69,20.0,Major Cities of Australia,0.9915374,99.1537388,Silver
+43,Ingmar,Okenden,Male,97,Financial Services,Mass Customer,Yes,8,1 Graceland Plaza,3216,VIC,2,478,63.0,60-69,21.0,Inner Regional Australia,0.0084626,0.8462612,Silver
+44,Debby,Balmadier,Female,53,Financial Services,Affluent Customer,Yes,5,738 Spaight Drive,3216,VIC,8,691,29.0,18-29,20.0,Major Cities of Australia,0.9915374,99.1537388,Platinum
+45,Debby,Balmadier,Female,53,Financial Services,Affluent Customer,Yes,5,738 Spaight Drive,3216,VIC,8,691,29.0,18-29,21.0,Inner Regional Australia,0.0084626,0.8462612,Platinum
+46,Teodor,Mullinder,Male,56,Manufacturing,High Net Worth,No,11,43 Pond Junction,3216,VIC,5,832,59.0,50-59,20.0,Major Cities of Australia,0.9915374,99.1537388,Silver
+47,Teodor,Mullinder,Male,56,Manufacturing,High Net Worth,No,11,43 Pond Junction,3216,VIC,5,832,59.0,50-59,21.0,Inner Regional Australia,0.0084626,0.8462612,Silver
+48,Olag,Borsi,Male,60,Telecommunications,Mass Customer,No,9,0484 North Avenue,2032,NSW,11,13,31.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+49,Mick,Macewan,Male,32,Financial Services,Mass Customer,No,16,59254 Northland Alley,2032,NSW,10,206,54.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+50,Melba,Spellacy,Female,38,Health,Mass Customer,No,4,0591 Anzinger Circle,2232,NSW,10,14,45.0,40-49,10.0,Major Cities of Australia,0.9992708,99.927079,Silver
+51,Melba,Spellacy,Female,38,Health,Mass Customer,No,4,0591 Anzinger Circle,2232,NSW,10,14,45.0,40-49,11.0,Inner Regional Australia,0.0007292,0.072921,Silver
+52,Odessa,Mc Andrew,Female,97,Property,Mass Customer,No,8,31756 Meadow Valley Lane,2232,NSW,10,54,40.0,30-39,10.0,Major Cities of Australia,0.9992708,99.927079,Silver
+53,Odessa,Mc Andrew,Female,97,Property,Mass Customer,No,8,31756 Meadow Valley Lane,2232,NSW,10,54,40.0,30-39,11.0,Inner Regional Australia,0.0007292,0.072921,Silver
+54,Bengt,Bilson,Male,26,Manufacturing,High Net Worth,No,11,67 Grayhawk Circle,2232,NSW,10,99,49.0,40-49,10.0,Major Cities of Australia,0.9992708,99.927079,Bronze
+55,Bengt,Bilson,Male,26,Manufacturing,High Net Worth,No,11,67 Grayhawk Circle,2232,NSW,10,99,49.0,40-49,11.0,Inner Regional Australia,0.0007292,0.072921,Bronze
+56,Muffin,Grigolon,Male,7,Telecommunications,Mass Customer,No,12,4597 Marcy Point,2232,NSW,10,361,42.0,40-49,10.0,Major Cities of Australia,0.9992708,99.927079,Silver
+57,Muffin,Grigolon,Male,7,Telecommunications,Mass Customer,No,12,4597 Marcy Point,2232,NSW,10,361,42.0,40-49,11.0,Inner Regional Australia,0.0007292,0.072921,Silver
+58,Aloysius,Glowacz,Male,72,Financial Services,Affluent Customer,No,18,07 Susan Lane,2232,NSW,10,396,42.0,40-49,10.0,Major Cities of Australia,0.9992708,99.927079,Bronze
+59,Aloysius,Glowacz,Male,72,Financial Services,Affluent Customer,No,18,07 Susan Lane,2232,NSW,10,396,42.0,40-49,11.0,Inner Regional Australia,0.0007292,0.072921,Bronze
+60,Simonette,Borsi,Female,4,Manufacturing,Affluent Customer,Yes,6,66 Hoffman Court,2232,NSW,8,760,31.0,30-39,10.0,Major Cities of Australia,0.9992708,99.927079,Platinum
+61,Simonette,Borsi,Female,4,Manufacturing,Affluent Customer,Yes,6,66 Hoffman Court,2232,NSW,8,760,31.0,30-39,11.0,Inner Regional Australia,0.0007292,0.072921,Silver
+62,Deirdre,Sturgeon,Female,11,Retail,Mass Customer,Yes,9,7 Sycamore Terrace,2232,NSW,10,760,56.0,50-59,10.0,Major Cities of Australia,0.9992708,99.927079,Silver
+63,Deirdre,Sturgeon,Female,11,Retail,Mass Customer,Yes,9,7 Sycamore Terrace,2232,NSW,10,760,56.0,50-59,11.0,Inner Regional Australia,0.0007292,0.072921,Silver
+64,Ansell,Tolhurst,Male,77,Manufacturing,Affluent Customer,No,22,13 Montana Place,2232,NSW,10,797,72.0,70+,10.0,Major Cities of Australia,0.9992708,99.927079,Bronze
+65,Ansell,Tolhurst,Male,77,Manufacturing,Affluent Customer,No,22,13 Montana Place,2232,NSW,10,797,72.0,70+,11.0,Inner Regional Australia,0.0007292,0.072921,Bronze
+66,Beverly,Domnick,Female,56,IT,Mass Customer,No,9,8 Burning Wood Junction,2232,NSW,10,977,83.0,70+,10.0,Major Cities of Australia,0.9992708,99.927079,Platinum
+67,Beverly,Domnick,Female,56,IT,Mass Customer,No,9,8 Burning Wood Junction,2232,NSW,10,977,83.0,70+,11.0,Inner Regional Australia,0.0007292,0.072921,Platinum
+68,Mandie,Feares,Female,32,Health,Mass Customer,No,10,39 Kedzie Pass,4053,QLD,8,14,57.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+69,Zabrina,Margram,Female,87,Manufacturing,High Net Worth,Yes,11,1092 Kinsman Parkway,4053,QLD,8,515,57.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+70,Dukie,Swire,Male,88,Manufacturing,Affluent Customer,Yes,5,64 Granby Parkway,2500,NSW,8,16,67.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+71,Cobbie,Bruyett,Male,20,Financial Services,Mass Customer,Yes,20,8593 Prairie Rose Way,2500,NSW,8,674,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+72,Marcelia,Monkleigh,Female,61,Manufacturing,Mass Customer,Yes,4,610 Swallow Street,4051,QLD,6,17,28.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+73,Felice,Dechelette,Male,75,Entertainment,High Net Worth,No,3,4 Kingsford Trail,4051,QLD,4,928,24.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Bronze
+74,Winnifred,Beswetherick,Female,83,Financial Services,Mass Customer,No,14,61 4th Street,3040,VIC,10,17,45.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Gold
+75,Fitzgerald,Hellikes,Male,25,Health,Mass Customer,Yes,10,315 Center Park,3040,VIC,7,478,42.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+76,Odilia,Quick,Female,65,Manufacturing,Affluent Customer,Yes,11,1550 Russell Way,2222,NSW,11,19,83.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+77,Karly,Willavize,Female,2,Manufacturing,High Net Worth,No,12,193 North Point,2190,NSW,10,19,67.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+78,Teddie,Burchill,Male,11,Manufacturing,Mass Customer,Yes,13,321 Raven Plaza,2161,NSW,9,21,53.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+79,Joline,Skipperbottom,Female,59,Financial Services,High Net Worth,No,9,2 Warrior Crossing,2161,NSW,9,529,49.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+80,Nanni,Girodias,Female,61,Retail,High Net Worth,No,16,74 Shopko Pass,2161,NSW,9,617,63.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+81,Kellyann,Adshad,Female,62,Financial Services,Mass Customer,Yes,22,29 Tennyson Alley,2161,NSW,9,620,81.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+82,Gaston,Dallaghan,Male,44,Financial Services,Mass Customer,Yes,8,656 Fuller Street,2783,NSW,7,21,28.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+83,Otis,Ottey,Male,26,Financial Services,Mass Customer,No,3,1562 Merchant Street,4744,QLD,4,23,24.0,18-29,32.0,Outer Regional Australia,1.0,100.0,Silver
+84,Tabbatha,Averill,Female,5,Financial Services,Affluent Customer,Yes,13,663 8th Parkway,2257,NSW,8,23,44.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+85,Lorrie,Antonelli,Male,47,Financial Services,High Net Worth,Yes,17,06936 Bobwhite Circle,2257,NSW,7,57,39.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Bronze
+86,Brena,Schnitter,Female,78,Manufacturing,Mass Customer,No,4,67 Shelley Street,4703,QLD,5,25,39.0,30-39,31.0,Inner Regional Australia,0.976966,97.6965993,Silver
+87,Brena,Schnitter,Female,78,Manufacturing,Mass Customer,No,4,67 Shelley Street,4703,QLD,5,25,39.0,30-39,32.0,Outer Regional Australia,0.023034,2.3034007,Bronze
+88,Rourke,Gillbard,Male,11,Property,Mass Customer,No,17,75 Cordelia Trail,4817,QLD,4,26,76.0,70+,32.0,Outer Regional Australia,0.9936113,99.3611277,Silver
+89,Rourke,Gillbard,Male,11,Property,Mass Customer,No,17,75 Cordelia Trail,4817,QLD,4,26,76.0,70+,33.0,Remote Australia,0.0063887,0.6388723,Silver
+90,Arleen,Casbolt,Female,48,Financial Services,Affluent Customer,Yes,13,41042 Lotheville Crossing,4817,QLD,1,36,46.0,40-49,32.0,Outer Regional Australia,0.9936113,99.3611277,Silver
+91,Arleen,Casbolt,Female,48,Financial Services,Affluent Customer,Yes,13,41042 Lotheville Crossing,4817,QLD,1,36,46.0,40-49,33.0,Remote Australia,0.0063887,0.6388723,Silver
+92,Dyane,Burwell,Female,19,Retail,Mass Customer,Yes,7,51 Hooker Court,2640,NSW,2,26,69.0,60-69,11.0,Inner Regional Australia,0.9973323,99.7332303,Platinum
+93,Dyane,Burwell,Female,19,Retail,Mass Customer,Yes,7,51 Hooker Court,2640,NSW,2,26,69.0,60-69,12.0,Outer Regional Australia,0.0026677,0.2667697,Platinum
+94,Vladimir,Westmerland,Male,18,Manufacturing,Mass Customer,Yes,18,102 Charing Cross Terrace,2640,NSW,4,338,65.0,60-69,11.0,Inner Regional Australia,0.9973323,99.7332303,Platinum
+95,Vladimir,Westmerland,Male,18,Manufacturing,Mass Customer,Yes,18,102 Charing Cross Terrace,2640,NSW,4,338,65.0,60-69,12.0,Outer Regional Australia,0.0026677,0.2667697,Platinum
+96,Milty,Brauninger,Male,13,Financial Services,High Net Worth,No,11,54 6th Trail,2640,NSW,7,504,76.0,70+,11.0,Inner Regional Australia,0.9973323,99.7332303,Platinum
+97,Milty,Brauninger,Male,13,Financial Services,High Net Worth,No,11,54 6th Trail,2640,NSW,7,504,76.0,70+,12.0,Outer Regional Australia,0.0026677,0.2667697,Silver
+98,Flore,Cashen,Female,79,Health,High Net Worth,No,17,4 Vera Pass,2640,NSW,4,760,43.0,40-49,11.0,Inner Regional Australia,0.9973323,99.7332303,Bronze
+99,Flore,Cashen,Female,79,Health,High Net Worth,No,17,4 Vera Pass,2640,NSW,4,760,43.0,40-49,12.0,Outer Regional Australia,0.0026677,0.2667697,Bronze
+100,Claudine,Barstowk,Female,71,Property,High Net Worth,Yes,5,1859 Forest Circle,4000,QLD,11,26,55.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+101,Michal,Bryan,Female,1,Manufacturing,Mass Customer,Yes,16,4275 Bluestem Pass,4000,QLD,8,104,52.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+102,Barnebas,Apfel,Male,57,Manufacturing,Affluent Customer,Yes,2,05475 Elgar Place,4000,QLD,6,259,26.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+103,Nady,Withinshaw,Female,96,Financial Services,High Net Worth,No,8,7 Brentwood Circle,4000,QLD,7,641,54.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+104,Hamel,Curzey,Male,11,Financial Services,Mass Customer,Yes,9,6936 Homewood Avenue,4000,QLD,7,733,31.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Bronze
+105,Blinnie,Roze,Female,84,Entertainment,High Net Worth,No,11,44557 Rutledge Court,4171,QLD,7,26,61.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+106,Renell,Earley,Female,5,Financial Services,Mass Customer,Yes,11,79 Manufacturers Plaza,4171,QLD,5,500,67.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+107,Rhona,De Freyne,Female,45,Health,High Net Worth,No,8,11184 East Drive,3056,VIC,10,30,61.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+108,Hanson,Eastes,Male,74,Manufacturing,Mass Customer,Yes,5,5735 Starling Plaza,3056,VIC,9,395,31.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+109,Sharron,Claibourn,Female,62,Financial Services,High Net Worth,Yes,17,555 Hermina Avenue,2280,NSW,8,30,42.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+110,Brien,Heaton,Male,70,Health,Mass Customer,Yes,12,8 Novick Trail,2470,NSW,2,32,70.0,60-69,11.0,Inner Regional Australia,0.9984119,99.8411855,Bronze
+111,Brien,Heaton,Male,70,Health,Mass Customer,Yes,12,8 Novick Trail,2470,NSW,2,32,70.0,60-69,12.0,Outer Regional Australia,0.0015881,0.1588145,Bronze
+112,Jenny,Massy,Female,82,Telecommunications,Mass Customer,Yes,10,6 Meadow Ridge Pass,2470,NSW,2,715,58.0,50-59,11.0,Inner Regional Australia,0.9984119,99.8411855,Silver
+113,Jenny,Massy,Female,82,Telecommunications,Mass Customer,Yes,10,6 Meadow Ridge Pass,2470,NSW,2,715,58.0,50-59,12.0,Outer Regional Australia,0.0015881,0.1588145,Silver
+114,Mikel,McNess,Male,71,Financial Services,Mass Customer,No,9,3 Pleasure Drive,4122,QLD,9,32,40.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Silver
+115,Cristie,Bence,Female,49,Financial Services,High Net Worth,No,9,3413 Schmedeman Court,4122,QLD,8,828,21.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+116,Leeland,Borsi,Male,66,Telecommunications,High Net Worth,No,12,9 Stephen Center,4122,QLD,4,845,65.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+117,Maisie,Maddox,Female,27,Financial Services,Affluent Customer,No,20,8 Dennis Point,3226,VIC,9,32,44.0,40-49,21.0,Inner Regional Australia,1.0,100.0,Silver
+118,Guilbert,Bearns,Male,42,Financial Services,Mass Customer,Yes,5,47776 Packers Street,3226,VIC,8,845,39.0,30-39,21.0,Inner Regional Australia,1.0,100.0,Silver
+119,Farlie,Petford,Male,76,Financial Services,High Net Worth,No,13,2330 Butternut Trail,2017,NSW,10,36,53.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+120,Mitchell,MacCague,Male,58,Manufacturing,Mass Customer,No,15,240 Acker Avenue,3190,VIC,8,38,42.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Bronze
+121,Nico,Chadwick,Male,97,Financial Services,Affluent Customer,No,13,355 Roxbury Lane,3190,VIC,8,526,68.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Bronze
+122,Garik,Whitwell,Male,44,Property,Mass Customer,Yes,13,04 Dexter Way,3280,VIC,2,38,66.0,60-69,21.0,Inner Regional Australia,1.0,100.0,Silver
+123,Meriel,Tapp,Female,0,IT,Mass Customer,No,5,65 Milwaukee Hill,3280,VIC,2,114,26.0,18-29,21.0,Inner Regional Australia,1.0,100.0,Silver
+124,Antonin,Britt,Male,64,Manufacturing,Affluent Customer,Yes,8,011 Northland Trail,2160,NSW,9,40,28.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Gold
+125,Kort,Disley,Male,66,Health,Mass Customer,Yes,7,76 Donald Trail,2160,NSW,9,219,43.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+126,Sula,Thomann,Female,56,Financial Services,Mass Customer,No,6,7 Dayton Circle,2160,NSW,9,498,32.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+127,Shepherd,Dutchburn,Male,33,Financial Services,High Net Worth,Yes,9,8970 Anhalt Junction,2160,NSW,9,575,45.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+128,Vinny,Incogna,Female,73,Health,High Net Worth,No,10,8 Grayhawk Circle,2756,NSW,8,40,69.0,60-69,10.0,Major Cities of Australia,0.7364959,73.6495853,Bronze
+129,Vinny,Incogna,Female,73,Health,High Net Worth,No,10,8 Grayhawk Circle,2756,NSW,8,40,69.0,60-69,11.0,Inner Regional Australia,0.2537579,25.3757869,Bronze
+130,Vinny,Incogna,Female,73,Health,High Net Worth,No,10,8 Grayhawk Circle,2756,NSW,8,40,69.0,60-69,12.0,Outer Regional Australia,0.0097463,0.9746278,Bronze
+131,Valerie,Pickover,Female,34,Financial Services,Mass Customer,No,9,92214 Spenser Road,2756,NSW,8,78,56.0,50-59,10.0,Major Cities of Australia,0.7364959,73.6495853,Silver
+132,Valerie,Pickover,Female,34,Financial Services,Mass Customer,No,9,92214 Spenser Road,2756,NSW,8,78,56.0,50-59,11.0,Inner Regional Australia,0.2537579,25.3757869,Silver
+133,Valerie,Pickover,Female,34,Financial Services,Mass Customer,No,9,92214 Spenser Road,2756,NSW,8,78,56.0,50-59,12.0,Outer Regional Australia,0.0097463,0.9746278,Silver
+134,Jeanne,Darte,Female,70,Financial Services,Mass Customer,Yes,11,3 Homewood Park,2756,NSW,7,206,66.0,60-69,10.0,Major Cities of Australia,0.7364959,73.6495853,Silver
+135,Jeanne,Darte,Female,70,Financial Services,Mass Customer,Yes,11,3 Homewood Park,2756,NSW,7,206,66.0,60-69,11.0,Inner Regional Australia,0.2537579,25.3757869,Silver
+136,Jeanne,Darte,Female,70,Financial Services,Mass Customer,Yes,11,3 Homewood Park,2756,NSW,7,206,66.0,60-69,12.0,Outer Regional Australia,0.0097463,0.9746278,Bronze
+137,Kariotta,Naper,Female,8,Health,Mass Customer,No,21,87 Crescent Oaks Alley,2756,NSW,10,676,69.0,60-69,10.0,Major Cities of Australia,0.7364959,73.6495853,Silver
+138,Kariotta,Naper,Female,8,Health,Mass Customer,No,21,87 Crescent Oaks Alley,2756,NSW,10,676,69.0,60-69,11.0,Inner Regional Australia,0.2537579,25.3757869,Silver
+139,Kariotta,Naper,Female,8,Health,Mass Customer,No,21,87 Crescent Oaks Alley,2756,NSW,10,676,69.0,60-69,12.0,Outer Regional Australia,0.0097463,0.9746278,Silver
+140,Colene,Fishleigh,Female,24,Financial Services,Mass Customer,No,3,44 Darwin Lane,3149,VIC,10,42,36.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Bronze
+141,Genni,Fanstone,Female,25,Entertainment,Mass Customer,No,16,1 Fair Oaks Alley,3149,VIC,10,475,49.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+142,Cliff,Philipsson,Male,82,Argiculture,Mass Customer,No,16,600 Artisan Drive,3149,VIC,10,500,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+143,Neile,Argent,Female,79,Retail,Mass Customer,No,8,2548 Arrowood Pass,2024,NSW,10,42,75.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+144,Pietra,Buckleigh,Female,9,Financial Services,High Net Worth,No,13,387 Dixon Alley,2024,NSW,10,85,72.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+145,Corinna,Suggey,Female,52,Financial Services,Affluent Customer,No,9,938 Ilene Road,2761,NSW,8,44,55.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+146,Logan,Colomb,Male,74,Financial Services,Mass Customer,Yes,19,266 Lakewood Terrace,2761,NSW,8,840,74.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+147,Brooke,Arling,Male,76,Financial Services,High Net Worth,No,6,6 Melby Center,3027,VIC,5,44,60.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+148,Gipsy,Ewestace,Female,29,Retail,High Net Worth,Yes,5,08708 Moulton Park,2034,NSW,12,46,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+149,Hasheem,Groucock,Male,98,Manufacturing,High Net Worth,Yes,10,12351 Spenser Pass,2034,NSW,12,72,47.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+150,Mavra,Finan,Female,30,Property,Affluent Customer,Yes,4,88 Shopko Way,2034,NSW,9,967,54.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+151,Sheena,Kybbye,Female,14,Financial Services,Affluent Customer,Yes,19,306 Clemons Junction,4852,QLD,1,46,65.0,60-69,32.0,Outer Regional Australia,0.9961915,99.619149,Bronze
+152,Sheena,Kybbye,Female,14,Financial Services,Affluent Customer,Yes,19,306 Clemons Junction,4852,QLD,1,46,65.0,60-69,33.0,Remote Australia,0.0038085,0.380851,Bronze
+153,Jobina,Gobourn,Female,85,Financial Services,High Net Worth,Yes,14,18 Grim Road,4305,QLD,4,46,27.0,18-29,30.0,Major Cities of Australia,0.9981463,99.8146313,Bronze
+154,Jobina,Gobourn,Female,85,Financial Services,High Net Worth,Yes,14,18 Grim Road,4305,QLD,4,46,27.0,18-29,31.0,Inner Regional Australia,0.0018537,0.1853687,Bronze
+155,Adolpho,Bellerby,Male,46,Financial Services,High Net Worth,Yes,13,2763 Buhler Circle,4305,QLD,4,486,77.0,70+,30.0,Major Cities of Australia,0.9981463,99.8146313,Bronze
+156,Adolpho,Bellerby,Male,46,Financial Services,High Net Worth,Yes,13,2763 Buhler Circle,4305,QLD,4,486,77.0,70+,31.0,Inner Regional Australia,0.0018537,0.1853687,Bronze
+157,Lucien,Borsi,Male,83,Financial Services,High Net Worth,Yes,19,777 Fairfield Court,4305,QLD,3,486,55.0,50-59,30.0,Major Cities of Australia,0.9981463,99.8146313,Bronze
+158,Lucien,Borsi,Male,83,Financial Services,High Net Worth,Yes,19,777 Fairfield Court,4305,QLD,3,486,55.0,50-59,31.0,Inner Regional Australia,0.0018537,0.1853687,Bronze
+159,Agnola,Batterson,Female,86,Financial Services,Mass Customer,No,7,216 Bultman Park,4305,QLD,3,747,42.0,40-49,30.0,Major Cities of Australia,0.9981463,99.8146313,Silver
+160,Agnola,Batterson,Female,86,Financial Services,Mass Customer,No,7,216 Bultman Park,4305,QLD,3,747,42.0,40-49,31.0,Inner Regional Australia,0.0018537,0.1853687,Silver
+161,Gale,Disbrow,Female,59,Financial Services,Mass Customer,Yes,17,169 Bashford Drive,3741,VIC,7,46,44.0,40-49,22.0,Outer Regional Australia,1.0,100.0,Silver
+162,Thaxter,Kingsbury,Male,12,Argiculture,Mass Customer,No,20,3 Vermont Lane,2067,NSW,12,50,71.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+163,Heinrick,Shilstone,Male,60,Manufacturing,Affluent Customer,No,10,998 Gale Park,3174,VIC,8,50,44.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+164,Marinna,Kauschke,Female,21,Financial Services,Affluent Customer,Yes,8,9 Forster Circle,3174,VIC,3,595,48.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+165,Cal,Van den Velde,Male,22,Financial Services,Affluent Customer,Yes,6,77916 Moland Park,3174,VIC,6,755,25.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+166,Rodrique,Vernon,Male,70,Manufacturing,Affluent Customer,No,17,5864 Mcbride Trail,3174,VIC,8,820,43.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Bronze
+167,Taylor,Steuhlmeyer,Male,62,Financial Services,Affluent Customer,Yes,5,64 Mcguire Trail,4017,QLD,8,52,22.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Bronze
+168,Karlik,Penchen,Male,60,Retail,Mass Customer,No,11,5 Nevada Point,4017,QLD,6,96,27.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+169,Griswold,Kelsall,Male,55,Health,High Net Worth,Yes,11,74127 Blaine Point,3805,VIC,7,52,28.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Platinum
+170,Abner,Fraschetti,Male,33,Argiculture,Affluent Customer,No,13,67 Northport Avenue,3805,VIC,7,166,36.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Platinum
+171,Antonietta,Egle,Female,82,Financial Services,Mass Customer,No,7,590 Hagan Parkway,3805,VIC,7,259,48.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Gold
+172,Lavena,Seekings,Female,87,Retail,Mass Customer,No,16,293 Mayfield Street,3166,VIC,10,54,26.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Platinum
+173,Casandra,Betteridge,Female,29,Financial Services,Affluent Customer,Yes,9,68 Bluestem Center,3166,VIC,10,854,79.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+174,Martelle,Tuppeny,Female,52,Manufacturing,Mass Customer,No,9,261 Grayhawk Way,2226,NSW,10,54,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+175,Ermentrude,Heindle,Female,47,Argiculture,Mass Customer,No,7,307 Knutson Center,2226,NSW,10,191,52.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+176,Otes,Elegood,Male,67,Financial Services,High Net Worth,No,21,2632 Del Mar Point,2226,NSW,11,808,81.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+177,Lesley,Garey,Male,52,Telecommunications,Mass Customer,No,11,924 Lindbergh Court,2226,NSW,9,883,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+178,Briant,Ladley,Male,75,Argiculture,Mass Customer,No,12,2 Schlimgen Terrace,2750,NSW,8,57,42.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+179,Lacy,Drance,Female,27,Manufacturing,Affluent Customer,Yes,14,492 Waywood Lane,2750,NSW,8,133,44.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+180,Lucilia,Minshall,Female,71,IT,Mass Customer,Yes,7,0237 Mallard Place,2750,NSW,8,345,69.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+181,Nils,Champion,Male,69,Retail,Affluent Customer,No,13,261 Holy Cross Park,2750,NSW,9,549,37.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+182,Maximilian,Geffen,Male,96,Manufacturing,Mass Customer,Yes,20,8634 Wayridge Pass,2750,NSW,8,606,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+183,Gordon,Rewan,Male,42,Financial Services,Mass Customer,No,5,91 Calypso Trail,2750,NSW,8,651,34.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Platinum
+184,Jaimie,Lancastle,Male,71,Financial Services,Mass Customer,Yes,5,0 Bay Drive,2750,NSW,8,722,49.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+185,Marylou,Kirkup,Female,51,Financial Services,Mass Customer,No,14,76733 Sunbrook Terrace,3196,VIC,9,57,49.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+186,Whittaker,Borsi,Male,64,Financial Services,Mass Customer,Yes,8,683 Florence Way,3156,VIC,5,57,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Gold
+187,Kit,Easdon,Male,61,Property,Affluent Customer,No,12,3 Roth Junction,3156,VIC,8,433,43.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+188,Normy,Goodinge,U,5,IT,Mass Customer,No,4,7232 Fulton Parkway,3810,VIC,5,57,80.0,70+,20.0,Major Cities of Australia,0.9719788,97.1978788,Silver
+189,Normy,Goodinge,U,5,IT,Mass Customer,No,4,7232 Fulton Parkway,3810,VIC,5,57,80.0,70+,21.0,Inner Regional Australia,0.0280212,2.8021212,Silver
+190,Giulietta,Garbott,Female,59,Financial Services,Affluent Customer,Yes,14,48297 Stuart Circle,3810,VIC,5,355,20.0,18-29,20.0,Major Cities of Australia,0.9719788,97.1978788,Bronze
+191,Giulietta,Garbott,Female,59,Financial Services,Affluent Customer,Yes,14,48297 Stuart Circle,3810,VIC,5,355,20.0,18-29,21.0,Inner Regional Australia,0.0280212,2.8021212,Bronze
+192,Laurena,Borsi,Female,21,Financial Services,High Net Worth,No,10,7 Messerschmidt Crossing,3810,VIC,6,455,60.0,50-59,20.0,Major Cities of Australia,0.9719788,97.1978788,Silver
+193,Laurena,Borsi,Female,21,Financial Services,High Net Worth,No,10,7 Messerschmidt Crossing,3810,VIC,6,455,60.0,50-59,21.0,Inner Regional Australia,0.0280212,2.8021212,Silver
+194,Amby,Bodega,Male,63,Financial Services,Affluent Customer,Yes,17,669 Declaration Street,3810,VIC,6,974,53.0,50-59,20.0,Major Cities of Australia,0.9719788,97.1978788,Gold
+195,Amby,Bodega,Male,63,Financial Services,Affluent Customer,Yes,17,669 Declaration Street,3810,VIC,6,974,53.0,50-59,21.0,Inner Regional Australia,0.0280212,2.8021212,Gold
+196,Artemis,Swanson,Male,77,Argiculture,Mass Customer,Yes,13,5 Melvin Park,3810,VIC,5,979,45.0,40-49,20.0,Major Cities of Australia,0.9719788,97.1978788,Platinum
+197,Artemis,Swanson,Male,77,Argiculture,Mass Customer,Yes,13,5 Melvin Park,3810,VIC,5,979,45.0,40-49,21.0,Inner Regional Australia,0.0280212,2.8021212,Platinum
+198,Jedediah,Kedie,Male,31,Argiculture,Mass Customer,Yes,9,283 Acker Drive,2763,NSW,9,62,50.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+199,Roseanne,Caruth,Female,16,Health,Mass Customer,No,7,33652 Lyons Alley,2763,NSW,9,158,64.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+200,Lark,Gonet,Female,89,Health,High Net Worth,No,8,261 Orin Center,2763,NSW,8,259,50.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+201,Annabell,Downer,Female,33,Financial Services,Affluent Customer,No,20,8738 Lukken Terrace,2763,NSW,9,606,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+202,Wylie,Huntingdon,Male,99,Financial Services,Mass Customer,No,15,08822 Duke Road,2763,NSW,8,676,55.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+203,Kaine,Smallcombe,Male,59,Financial Services,High Net Worth,No,11,9 Mosinee Parkway,2072,NSW,10,62,80.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+204,Loise,Iltchev,Female,70,Manufacturing,High Net Worth,Yes,17,45 Becker Place,4504,QLD,6,62,54.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+205,Cristen,Maroney,Female,22,IT,High Net Worth,Yes,7,27 Karstens Crossing,4214,QLD,7,65,22.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+206,Manya,Abramovici,Female,42,Financial Services,High Net Worth,Yes,13,8 Randy Park,4214,QLD,8,304,66.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+207,Dorothy,Barnardo,Female,58,Retail,High Net Worth,No,12,9630 Cottonwood Avenue,2168,NSW,8,65,39.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Platinum
+208,Abbie,Oldman,Male,82,Health,High Net Worth,Yes,5,4 North Drive,2168,NSW,8,212,38.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Bronze
+209,Egon,Ortells,Male,35,Manufacturing,Affluent Customer,No,13,3 Sundown Hill,2168,NSW,9,274,45.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+210,Fara,Sarath,Female,75,Financial Services,Mass Customer,No,22,540 Forest Run Plaza,2168,NSW,7,386,73.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+211,Elvira,Darthe,Female,10,Financial Services,Affluent Customer,No,16,89 Green Ridge Point,2168,NSW,9,536,46.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+212,Dorian,Emery,Female,94,Manufacturing,Mass Customer,Yes,9,67 Beilfuss Plaza,2168,NSW,8,609,23.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+213,Evered,Gludor,Male,3,Manufacturing,High Net Worth,Yes,15,305 Sloan Junction,2168,NSW,8,967,70.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+214,Rosmunda,Duxbarry,Female,69,Property,Affluent Customer,Yes,5,989 Graedel Terrace,4208,QLD,11,65,25.0,18-29,30.0,Major Cities of Australia,1.0,99.9999999,Bronze
+215,Kermit,Lebond,Male,36,Financial Services,Mass Customer,No,4,71 Ludington Center,4208,QLD,8,295,42.0,40-49,30.0,Major Cities of Australia,1.0,99.9999999,Silver
+216,Rozamond,Riha,Female,54,Manufacturing,Affluent Customer,Yes,16,76 Bartelt Center,4078,QLD,7,68,37.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Platinum
+217,Tannie,Petrakov,Male,84,IT,Affluent Customer,No,10,691 Valley Edge Alley,4078,QLD,6,341,70.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+218,Patrice,Pariss,Male,96,Financial Services,Mass Customer,No,9,3745 Thierer Trail,4078,QLD,5,691,67.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+219,Gunner,Petti,Male,62,Financial Services,High Net Worth,Yes,3,29778 Mendota Drive,4036,QLD,5,68,22.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Bronze
+220,Ellsworth,Andrieux,Male,49,Financial Services,Affluent Customer,Yes,10,08912 Carberry Place,4036,QLD,7,248,50.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+221,Vivienne,Crayden,Female,82,Financial Services,High Net Worth,Yes,6,69 Algoma Center,4173,QLD,7,68,33.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Bronze
+222,Sherilyn,Canero,Female,11,Health,High Net Worth,Yes,13,8288 Lyons Way,2484,NSW,7,68,25.0,18-29,10.0,Major Cities of Australia,0.4964404,49.6440424,Silver
+223,Sherilyn,Canero,Female,11,Health,High Net Worth,Yes,13,8288 Lyons Way,2484,NSW,7,68,25.0,18-29,11.0,Inner Regional Australia,0.5035596,50.3559576,Silver
+224,Erasmus,Olenchenko,Male,56,Property,Mass Customer,Yes,5,415 Rockefeller Trail,2484,NSW,7,464,57.0,50-59,10.0,Major Cities of Australia,0.4964404,49.6440424,Silver
+225,Erasmus,Olenchenko,Male,56,Property,Mass Customer,Yes,5,415 Rockefeller Trail,2484,NSW,7,464,57.0,50-59,11.0,Inner Regional Australia,0.5035596,50.3559576,Silver
+226,Bessie,Roscow,Female,78,Financial Services,Mass Customer,No,9,4185 Florence Trail,2121,NSW,10,72,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+227,Gerianne,Kaysor,U,15,IT,Affluent Customer,No,5,882 Toban Lane,2121,NSW,11,599,80.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+228,Willard,Booton,Male,69,Health,High Net Worth,Yes,7,05 Ronald Regan Alley,2121,NSW,9,688,83.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+229,Bartram,Caltun,Male,28,Health,Affluent Customer,Yes,12,174 Farwell Point,2121,NSW,11,725,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+230,Benedikta,Naptin,Female,59,Retail,Mass Customer,Yes,15,345 Fieldstone Park,2121,NSW,11,956,26.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+231,Daryle,Marginson,Male,93,Argiculture,Mass Customer,Yes,9,21316 Ohio Place,2121,NSW,12,979,35.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+232,Kevina,Ferandez,Female,73,Financial Services,High Net Worth,No,15,9608 Heffernan Drive,4068,QLD,9,72,22.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Bronze
+233,Jenelle,Mc-Kerley,Female,40,Financial Services,Mass Customer,Yes,16,9 Springview Terrace,4068,QLD,5,378,80.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+234,Yancy,Clementet,Male,5,Financial Services,High Net Worth,No,15,9 Union Center,2147,NSW,9,72,54.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+235,Ahmed,Pickthorne,Male,46,Financial Services,High Net Worth,Yes,15,50 American Street,2147,NSW,9,329,62.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+236,Wheeler,Godsil,Male,51,Manufacturing,Affluent Customer,Yes,6,7 Spaight Drive,2147,NSW,9,626,28.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+237,Shepperd,Leonards,Male,17,Manufacturing,Mass Customer,Yes,5,38 Nobel Lane,2147,NSW,9,733,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+238,Mabelle,Wellbelove,Female,76,Financial Services,Affluent Customer,Yes,19,800 Emmet Park,2219,NSW,9,72,63.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+239,Marilin,Frome,Female,58,IT,Mass Customer,Yes,17,52 Bobwhite Court,2219,NSW,9,430,46.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+240,Tobias,Woodhams,Male,0,Health,Mass Customer,No,17,4 Valley Edge Plaza,2759,NSW,9,77,60.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+241,Teddy,Lagadu,Female,86,Financial Services,High Net Worth,No,6,2 Charing Cross Trail,2759,NSW,8,120,52.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+242,Ferdinand,Billie,Male,97,Manufacturing,Mass Customer,No,6,660 Carey Avenue,2759,NSW,8,700,56.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+243,Anthony,Morison,Male,7,Health,Mass Customer,No,12,276 Derek Circle,2759,NSW,9,797,83.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+244,Glennis,Flintoff,Female,36,Health,Affluent Customer,Yes,13,1601 Rutledge Lane,3030,VIC,7,78,65.0,60-69,20.0,Major Cities of Australia,0.9795998,97.9599788,Silver
+245,Glennis,Flintoff,Female,36,Health,Affluent Customer,Yes,13,1601 Rutledge Lane,3030,VIC,7,78,65.0,60-69,21.0,Inner Regional Australia,0.0204002,2.0400212,Silver
+246,Tracy,Andrejevic,U,71,IT,Mass Customer,Yes,11,5675 Burning Wood Trail,3030,VIC,7,361,80.0,70+,20.0,Major Cities of Australia,0.9795998,97.9599788,Silver
+247,Tracy,Andrejevic,U,71,IT,Mass Customer,Yes,11,5675 Burning Wood Trail,3030,VIC,7,361,80.0,70+,21.0,Inner Regional Australia,0.0204002,2.0400212,Silver
+248,Rodney,Trethewey,Male,16,Financial Services,Affluent Customer,No,15,737 Service Lane,3030,VIC,8,441,24.0,18-29,20.0,Major Cities of Australia,0.9795998,97.9599788,Silver
+249,Rodney,Trethewey,Male,16,Financial Services,Affluent Customer,No,15,737 Service Lane,3030,VIC,8,441,24.0,18-29,21.0,Inner Regional Australia,0.0204002,2.0400212,Silver
+250,Glendon,Malham,Male,36,Manufacturing,Mass Customer,No,17,6 Anzinger Pass,3030,VIC,6,722,56.0,50-59,20.0,Major Cities of Australia,0.9795998,97.9599788,Silver
+251,Glendon,Malham,Male,36,Manufacturing,Mass Customer,No,17,6 Anzinger Pass,3030,VIC,6,722,56.0,50-59,21.0,Inner Regional Australia,0.0204002,2.0400212,Silver
+252,Trudie,Phinnessy,Female,45,Financial Services,Mass Customer,Yes,15,077 Dennis Lane,3030,VIC,9,751,61.0,60-69,20.0,Major Cities of Australia,0.9795998,97.9599788,Silver
+253,Trudie,Phinnessy,Female,45,Financial Services,Mass Customer,Yes,15,077 Dennis Lane,3030,VIC,9,751,61.0,60-69,21.0,Inner Regional Australia,0.0204002,2.0400212,Silver
+254,Dru,Crellim,Female,57,Financial Services,Mass Customer,No,12,90 Morningstar Drive,3030,VIC,7,904,59.0,50-59,20.0,Major Cities of Australia,0.9795998,97.9599788,Silver
+255,Dru,Crellim,Female,57,Financial Services,Mass Customer,No,12,90 Morningstar Drive,3030,VIC,7,904,59.0,50-59,21.0,Inner Regional Australia,0.0204002,2.0400212,Silver
+256,Chanda,Mensler,Female,15,Manufacturing,Mass Customer,Yes,13,0 Mockingbird Plaza,2212,NSW,10,78,50.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+257,Katheryn,Kinner,Female,15,Entertainment,High Net Worth,No,6,1665 Kenwood Center,2518,NSW,6,78,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+258,Sumner,Carrivick,Male,53,Manufacturing,Mass Customer,No,15,5 4th Center,2097,NSW,12,78,26.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+259,Demetria,Bausor,Female,73,Entertainment,Mass Customer,Yes,9,97 Transport Plaza,2097,NSW,12,396,60.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+260,Chaim,Kingdon,Male,63,Financial Services,Affluent Customer,Yes,15,42590 Bellgrove Court,2097,NSW,9,599,26.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+261,Esther,Rooson,Female,14,Financial Services,Mass Customer,No,5,5186 Main Trail,2046,NSW,9,78,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+262,Donn,MacGregor,Male,80,Manufacturing,High Net Worth,No,5,0439 Mandrake Park,2046,NSW,10,536,56.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+263,Irvin,Bevans,Male,82,Manufacturing,Mass Customer,No,12,5880 Hauk Street,2046,NSW,11,644,59.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+264,Kellina,Haygreen,Female,38,Entertainment,Affluent Customer,No,18,5731 Bunker Hill Lane,2046,NSW,10,778,56.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+265,Gardie,Crellim,Male,58,Manufacturing,High Net Worth,No,8,564 Forest Dale Avenue,3161,VIC,12,84,46.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+266,Sean,O'Loughlin,Male,48,Manufacturing,High Net Worth,Yes,16,83 Old Gate Point,2576,NSW,10,85,60.0,50-59,11.0,Inner Regional Australia,1.0,100.0,Bronze
+267,Marysa,Rouchy,Female,8,Entertainment,Affluent Customer,No,5,411 Twin Pines Way,2026,NSW,9,85,23.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+268,Dorian,Stollen,Male,78,Financial Services,Mass Customer,Yes,18,72922 Cambridge Terrace,2026,NSW,11,219,42.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+269,Lea,Ilyinski,Female,75,Financial Services,High Net Worth,No,12,895 Glendale Park,2026,NSW,12,252,24.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+270,Emelen,Bidnall,Male,79,Health,Affluent Customer,Yes,11,11 Oak Terrace,2026,NSW,12,302,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Bronze
+271,Claresta,MacConnulty,Female,6,Financial Services,Mass Customer,Yes,20,0516 Fremont Point,2026,NSW,9,366,64.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+272,Leonora,Swetenham,Female,66,IT,Mass Customer,Yes,10,660 Hallows Place,2026,NSW,10,832,54.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+273,Kahaleel,Borsi,Male,5,Financial Services,High Net Worth,No,13,12 Arapahoe Park,2035,NSW,12,88,79.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+274,Justinn,Haruard,Female,48,Health,High Net Worth,No,11,00 Judy Terrace,2035,NSW,12,414,63.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+275,Gaultiero,Fibbens,Male,41,Financial Services,Affluent Customer,No,9,938 Bartillon Hill,2035,NSW,11,507,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+276,Ossie,Midden,Male,49,Manufacturing,Mass Customer,Yes,14,4915 Debra Center,2479,NSW,9,89,72.0,70+,11.0,Inner Regional Australia,1.0,100.0,Silver
+277,Sid,Carlone,Male,24,Health,Affluent Customer,No,16,76 Sunnyside Avenue,4670,QLD,2,89,50.0,40-49,31.0,Inner Regional Australia,0.9965872,99.65872,Bronze
+278,Sid,Carlone,Male,24,Health,Affluent Customer,No,16,76 Sunnyside Avenue,4670,QLD,2,89,50.0,40-49,32.0,Outer Regional Australia,0.0034128,0.34128,Bronze
+279,Gina,Mallon,Female,56,Health,Mass Customer,No,12,13025 Johnson Plaza,4670,QLD,2,102,28.0,18-29,31.0,Inner Regional Australia,0.9965872,99.65872,Silver
+280,Gina,Mallon,Female,56,Health,Mass Customer,No,12,13025 Johnson Plaza,4670,QLD,2,102,28.0,18-29,32.0,Outer Regional Australia,0.0034128,0.34128,Silver
+281,Ludovico,Juster,Male,93,Financial Services,Affluent Customer,No,15,1 Talisman Avenue,2125,NSW,10,89,29.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+282,Kippy,Barabisch,Male,11,Manufacturing,Mass Customer,No,4,840 Graceland Street,2125,NSW,11,215,21.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+283,Craggie,Dering,Male,47,Financial Services,Mass Customer,No,7,11 Paget Road,2125,NSW,10,436,69.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+284,Patricia,Everix,Female,34,Health,Mass Customer,No,19,91164 Washington Terrace,2263,NSW,7,89,44.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+285,Norah,Mapis,Female,75,Argiculture,Mass Customer,No,10,057 Victoria Crossing,2263,NSW,9,468,21.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+286,Charlie,Dmych,Male,60,Manufacturing,High Net Worth,No,13,920 Cambridge Way,2263,NSW,6,555,71.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+287,Olia,O' Mullan,Female,77,Health,Mass Customer,No,8,6315 Mendota Parkway,2263,NSW,7,904,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+288,Andromache,Bonafacino,Female,84,Retail,Mass Customer,No,11,74 Carpenter Street,2015,NSW,9,89,44.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+289,Levy,Abramamov,Male,94,Financial Services,Affluent Customer,Yes,14,6776 Anderson Center,4037,QLD,8,89,69.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+290,Nobe,McAughtry,Male,25,Financial Services,Mass Customer,No,12,1 Orin Hill,4510,QLD,5,89,43.0,40-49,30.0,Major Cities of Australia,0.9572321,95.7232142,Bronze
+291,Nobe,McAughtry,Male,25,Financial Services,Mass Customer,No,12,1 Orin Hill,4510,QLD,5,89,43.0,40-49,31.0,Inner Regional Australia,0.0427679,4.2767858,Bronze
+292,Roddy,Rubinshtein,Male,37,Retail,Mass Customer,Yes,4,3 Mcguire Crossing,4510,QLD,7,114,34.0,30-39,30.0,Major Cities of Australia,0.9572321,95.7232142,Bronze
+293,Roddy,Rubinshtein,Male,37,Retail,Mass Customer,Yes,4,3 Mcguire Crossing,4510,QLD,7,114,34.0,30-39,31.0,Inner Regional Australia,0.0427679,4.2767858,Bronze
+294,Zondra,Ringham,Female,36,Financial Services,Mass Customer,Yes,7,416 Lighthouse Bay Lane,4510,QLD,5,259,74.0,70+,30.0,Major Cities of Australia,0.9572321,95.7232142,Silver
+295,Zondra,Ringham,Female,36,Financial Services,Mass Customer,Yes,7,416 Lighthouse Bay Lane,4510,QLD,5,259,74.0,70+,31.0,Inner Regional Australia,0.0427679,4.2767858,Silver
+296,Jehu,Prestedge,Male,91,Manufacturing,High Net Worth,Yes,8,88 Annamark Avenue,2138,NSW,12,96,22.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+297,Welby,Lourenco,Male,6,Financial Services,High Net Worth,Yes,17,801 Atwood Alley,2138,NSW,9,144,46.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+298,Symon,Mawne,Male,18,Property,Mass Customer,Yes,15,37439 High Crossing Circle,3350,VIC,4,96,79.0,70+,21.0,Inner Regional Australia,1.0,100.0,Silver
+299,Sherrie,Godleman,Female,37,Manufacturing,Mass Customer,No,19,67 Shelley Crossing,3350,VIC,2,282,43.0,40-49,21.0,Inner Regional Australia,1.0,100.0,Gold
+300,Dennis,Varnham,Male,57,Entertainment,Affluent Customer,No,17,6455 Mayfield Street,3350,VIC,3,415,68.0,60-69,21.0,Inner Regional Australia,1.0,100.0,Silver
+301,Bobby,Summersby,Male,90,Financial Services,Affluent Customer,No,7,1478 Oak Valley Park,3350,VIC,2,575,78.0,70+,21.0,Inner Regional Australia,1.0,100.0,Silver
+302,Evangelin,Boc,Female,30,Manufacturing,High Net Worth,Yes,14,0 Meadow Ridge Street,3173,VIC,8,99,21.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Platinum
+303,Hanny,Treven,Female,84,Retail,Mass Customer,No,3,5 Quincy Street,4118,QLD,4,99,31.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Bronze
+304,Renie,Laundon,Female,32,Entertainment,Mass Customer,Yes,8,1 Shelley Pass,4118,QLD,3,993,48.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+305,Reynold,Elman,Male,19,Manufacturing,Mass Customer,No,9,966 Sunnyside Center,2390,NSW,2,102,82.0,70+,12.0,Outer Regional Australia,1.0,100.0,Silver
+306,Flossy,Concannon,Female,64,Financial Services,Affluent Customer,No,8,802 Mallory Park,3919,VIC,2,104,41.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+307,Cristen,Wiltshire,Female,59,Financial Services,High Net Worth,Yes,15,93 Judy Drive,3047,VIC,6,104,60.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+308,Griffith,Escot,Male,50,IT,Mass Customer,Yes,16,94 Manitowish Court,4116,QLD,3,104,75.0,70+,30.0,Major Cities of Australia,1.0,100.0,Bronze
+309,Jamie,Jiruca,Female,21,Argiculture,Mass Customer,No,18,5013 Erie Crossing,2230,NSW,9,104,58.0,50-59,10.0,Major Cities of Australia,0.9158146,91.5814637,Bronze
+310,Jamie,Jiruca,Female,21,Argiculture,Mass Customer,No,18,5013 Erie Crossing,2230,NSW,9,104,58.0,50-59,11.0,Inner Regional Australia,0.0841854,8.4185363,Bronze
+311,Almira,Mangion,Female,4,Financial Services,Affluent Customer,Yes,2,179 Anzinger Center,2230,NSW,12,382,26.0,18-29,10.0,Major Cities of Australia,0.9158146,91.5814637,Silver
+312,Almira,Mangion,Female,4,Financial Services,Affluent Customer,Yes,2,179 Anzinger Center,2230,NSW,12,382,26.0,18-29,11.0,Inner Regional Australia,0.0841854,8.4185363,Silver
+313,Cissiee,Baylis,Female,99,Financial Services,High Net Worth,No,16,18 Dottie Park,2230,NSW,11,700,70.0,60-69,10.0,Major Cities of Australia,0.9158146,91.5814637,Bronze
+314,Cissiee,Baylis,Female,99,Financial Services,High Net Worth,No,16,18 Dottie Park,2230,NSW,11,700,70.0,60-69,11.0,Inner Regional Australia,0.0841854,8.4185363,Bronze
+315,Winn,Wells,Male,66,Manufacturing,Affluent Customer,No,9,544 Pawling Road,2230,NSW,10,785,27.0,18-29,10.0,Major Cities of Australia,0.9158146,91.5814637,Silver
+316,Winn,Wells,Male,66,Manufacturing,Affluent Customer,No,9,544 Pawling Road,2230,NSW,10,785,27.0,18-29,11.0,Inner Regional Australia,0.0841854,8.4185363,Gold
+317,Shara,Bramhill,U,24,IT,Affluent Customer,No,2,01 Bunker Hill Drive,2230,NSW,10,883,80.0,70+,10.0,Major Cities of Australia,0.9158146,91.5814637,Silver
+318,Shara,Bramhill,U,24,IT,Affluent Customer,No,2,01 Bunker Hill Drive,2230,NSW,10,883,80.0,70+,11.0,Inner Regional Australia,0.0841854,8.4185363,Silver
+319,Lyon,Brittan,Male,14,Retail,High Net Worth,No,19,540 Sachs Road,3153,VIC,8,104,49.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+320,Isadora,Ducker,Female,15,Financial Services,Affluent Customer,Yes,8,2972 Holy Cross Crossing,3153,VIC,5,386,48.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+321,Liane,Abelevitz,Female,26,Financial Services,Mass Customer,No,3,85340 Hovde Way,3153,VIC,7,951,45.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+322,Aridatha,Sephton,Female,95,Financial Services,Mass Customer,No,5,422 Forster Circle,2340,NSW,1,104,60.0,50-59,11.0,Inner Regional Australia,0.9394254,93.9425428,Platinum
+323,Aridatha,Sephton,Female,95,Financial Services,Mass Customer,No,5,422 Forster Circle,2340,NSW,1,104,60.0,50-59,12.0,Outer Regional Australia,0.0605746,6.0574572,Platinum
+324,Franciska,Stigell,Female,95,Health,Mass Customer,Yes,7,6 Anderson Junction,3802,VIC,7,111,53.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+325,Jordan,Clampe,Male,37,Financial Services,Mass Customer,Yes,11,276 Westend Road,4207,QLD,5,111,82.0,70+,30.0,Major Cities of Australia,0.9742321,97.4232109,Silver
+326,Jordan,Clampe,Male,37,Financial Services,Mass Customer,Yes,11,276 Westend Road,4207,QLD,5,111,82.0,70+,31.0,Inner Regional Australia,0.0257679,2.5767891,Silver
+327,Glenn,Casbourne,Female,4,Manufacturing,Mass Customer,No,6,2 Morrow Alley,4207,QLD,1,144,40.0,30-39,30.0,Major Cities of Australia,0.9742321,97.4232109,Bronze
+328,Glenn,Casbourne,Female,4,Manufacturing,Mass Customer,No,6,2 Morrow Alley,4207,QLD,1,144,40.0,30-39,31.0,Inner Regional Australia,0.0257679,2.5767891,Bronze
+329,Charlena,Berney,Female,55,Manufacturing,High Net Worth,Yes,12,496 Logan Center,4207,QLD,4,195,56.0,50-59,30.0,Major Cities of Australia,0.9742321,97.4232109,Bronze
+330,Charlena,Berney,Female,55,Manufacturing,High Net Worth,Yes,12,496 Logan Center,4207,QLD,4,195,56.0,50-59,31.0,Inner Regional Australia,0.0257679,2.5767891,Bronze
+331,Abigale,Sives,Female,48,Health,Affluent Customer,Yes,14,2 Glendale Center,4207,QLD,4,230,58.0,50-59,30.0,Major Cities of Australia,0.9742321,97.4232109,Bronze
+332,Abigale,Sives,Female,48,Health,Affluent Customer,Yes,14,2 Glendale Center,4207,QLD,4,230,58.0,50-59,31.0,Inner Regional Australia,0.0257679,2.5767891,Bronze
+333,Zechariah,McReidy,Male,32,Manufacturing,High Net Worth,No,21,797 Westend Street,4207,QLD,6,329,43.0,40-49,30.0,Major Cities of Australia,0.9742321,97.4232109,Silver
+334,Zechariah,McReidy,Male,32,Manufacturing,High Net Worth,No,21,797 Westend Street,4207,QLD,6,329,43.0,40-49,31.0,Inner Regional Australia,0.0257679,2.5767891,Silver
+335,Agneta,McAmish,U,66,IT,Mass Customer,No,15,5773 Acker Way,4207,QLD,6,375,80.0,70+,30.0,Major Cities of Australia,0.9742321,97.4232109,Silver
+336,Agneta,McAmish,U,66,IT,Mass Customer,No,15,5773 Acker Way,4207,QLD,6,375,80.0,70+,31.0,Inner Regional Australia,0.0257679,2.5767891,Silver
+337,Kearney,Cuddehy,Male,88,Retail,Mass Customer,No,12,98 Shoshone Road,4207,QLD,6,634,24.0,18-29,30.0,Major Cities of Australia,0.9742321,97.4232109,Bronze
+338,Kearney,Cuddehy,Male,88,Retail,Mass Customer,No,12,98 Shoshone Road,4207,QLD,6,634,24.0,18-29,31.0,Inner Regional Australia,0.0257679,2.5767891,Bronze
+339,David,Napoleon,Male,72,Financial Services,High Net Worth,No,14,69 Garrison Point,2223,NSW,11,111,60.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+340,Dwayne,Doel,Male,80,Financial Services,Affluent Customer,Yes,17,5642 Debs Terrace,2223,NSW,11,401,44.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+341,Dolley,Starmont,Female,53,Manufacturing,Affluent Customer,No,18,4252 Dovetail Pass,4129,QLD,6,114,44.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Platinum
+342,Frederik,Milan,Male,45,Health,Mass Customer,No,5,56 Riverside Street,2546,NSW,5,114,24.0,18-29,12.0,Outer Regional Australia,1.0,100.0,Platinum
+343,Aldric,Birney,Male,21,Manufacturing,Mass Customer,Yes,14,5 Caliangt Center,2546,NSW,6,310,50.0,40-49,12.0,Outer Regional Australia,1.0,100.0,Bronze
+344,Rollo,Louedey,Male,64,Telecommunications,Affluent Customer,Yes,17,7 Cascade Park,2089,NSW,9,114,75.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+345,Alleen,Eaken,Female,56,Financial Services,Mass Customer,No,10,343 Lakewood Center,2089,NSW,12,259,83.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+346,Kippar,Brimilcome,Male,21,Health,Mass Customer,No,19,082 Welch Lane,2089,NSW,11,405,83.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+347,Jerrine,Cosbey,Female,21,Financial Services,High Net Worth,Yes,6,29307 Russell Avenue,3094,VIC,9,114,44.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+348,Viki,Coutts,Female,2,Property,Mass Customer,Yes,7,6 Golf View Alley,2287,NSW,4,120,69.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+349,Loleta,Aberdalgy,Female,45,Health,Mass Customer,No,11,99 Westend Court,2287,NSW,6,304,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+350,Ashby,Bispham,Male,71,Retail,Affluent Customer,No,4,83716 Russell Lane,2145,NSW,8,120,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+351,Sharai,Priddie,Female,13,Retail,Mass Customer,No,9,5202 Crowley Place,2145,NSW,9,252,61.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+352,Haskell,Moxted,Male,81,Manufacturing,Mass Customer,No,7,2941 Talisman Alley,2145,NSW,9,334,78.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+353,Aloysius,Killingsworth,Male,89,Financial Services,Mass Customer,No,12,625 Mandrake Junction,2145,NSW,9,478,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+354,Carola,Philler,Female,73,Health,High Net Worth,No,15,1037 Roth Park,2145,NSW,7,478,70.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+355,Berenice,Kaesmakers,Female,64,Retail,Mass Customer,No,11,563 Waywood Park,2145,NSW,9,575,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Gold
+356,Cecil,Gant,Male,52,Financial Services,High Net Worth,Yes,9,22435 Barnett Court,2145,NSW,8,668,45.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+357,Jesse,Alflat,Male,31,Financial Services,High Net Worth,No,5,49 Northfield Drive,2145,NSW,9,893,37.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+358,Rickert,Brasted,Male,47,Health,Mass Customer,No,10,20 Hoffman Park,2145,NSW,9,898,62.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+359,Alexander,Broadbent,Male,57,Financial Services,Mass Customer,No,9,265 Stephen Trail,2209,NSW,10,120,24.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+360,Feodor,Vickers,Male,60,Financial Services,Mass Customer,Yes,4,40809 Truax Way,2209,NSW,6,173,32.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+361,Sunny,Christescu,Female,90,Financial Services,Mass Customer,No,11,6668 Blue Bill Park Plaza,2209,NSW,10,250,47.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+362,Rowan,Summerly,Male,4,Entertainment,Mass Customer,No,9,58231 Tomscot Plaza,2209,NSW,10,372,47.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+363,Lanny,Currall,Male,37,Financial Services,High Net Worth,Yes,9,3 Redwing Center,2209,NSW,10,725,24.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+364,Ludvig,Andren,Male,44,Financial Services,High Net Worth,Yes,15,578 Waywood Circle,4306,QLD,5,125,81.0,70+,30.0,Major Cities of Australia,0.6472757,64.7275673,Bronze
+365,Ludvig,Andren,Male,44,Financial Services,High Net Worth,Yes,15,578 Waywood Circle,4306,QLD,5,125,81.0,70+,31.0,Inner Regional Australia,0.2860055,28.600552,Silver
+366,Ludvig,Andren,Male,44,Financial Services,High Net Worth,Yes,15,578 Waywood Circle,4306,QLD,5,125,81.0,70+,32.0,Outer Regional Australia,0.0667188,6.6718807,Silver
+367,Elsworth,Abbitt,Male,71,Health,Mass Customer,Yes,6,9722 Northport Way,3500,VIC,3,125,66.0,60-69,22.0,Outer Regional Australia,1.0,100.0,Silver
+368,Candy,Borsi,Female,23,Financial Services,Mass Customer,No,6,59252 Maryland Drive,3500,VIC,3,951,44.0,40-49,22.0,Outer Regional Australia,1.0,100.0,Platinum
+369,Rebeca,Aggas,Female,66,Health,Affluent Customer,No,21,7026 Katie Lane,3818,VIC,1,127,69.0,60-69,21.0,Inner Regional Australia,1.0,100.0,Silver
+370,Harwell,Kleinstein,Male,87,Retail,Affluent Customer,No,15,7 Huxley Trail,3818,VIC,5,420,28.0,18-29,21.0,Inner Regional Australia,1.0,100.0,Platinum
+371,Ricki,Dobrowski,Male,13,Manufacturing,Mass Customer,Yes,9,8 Eggendart Pass,2835,NSW,1,127,47.0,40-49,13.0,Remote Australia,0.8990604,89.9060405,Bronze
+372,Ricki,Dobrowski,Male,13,Manufacturing,Mass Customer,Yes,9,8 Eggendart Pass,2835,NSW,1,127,47.0,40-49,14.0,Very Remote Australia,0.1009396,10.0939595,Silver
+373,Caron,Kezar,Female,11,Health,Mass Customer,No,5,40553 Rigney Avenue,2835,NSW,1,349,68.0,60-69,13.0,Remote Australia,0.8990604,89.9060405,Platinum
+374,Caron,Kezar,Female,11,Health,Mass Customer,No,5,40553 Rigney Avenue,2835,NSW,1,349,68.0,60-69,14.0,Very Remote Australia,0.1009396,10.0939595,Silver
+375,Georgetta,Lovett,Female,42,Retail,Mass Customer,No,12,1 Bluejay Place,4405,QLD,1,127,82.0,70+,31.0,Inner Regional Australia,0.9343874,93.438741,Bronze
+376,Georgetta,Lovett,Female,42,Retail,Mass Customer,No,12,1 Bluejay Place,4405,QLD,1,127,82.0,70+,32.0,Outer Regional Australia,0.0656126,6.561259,Silver
+377,Bambi,Cogger,Female,51,Retail,Affluent Customer,Yes,5,28970 Monument Lane,2560,NSW,7,127,31.0,30-39,10.0,Major Cities of Australia,0.9654584,96.5458439,Silver
+378,Bambi,Cogger,Female,51,Retail,Affluent Customer,Yes,5,28970 Monument Lane,2560,NSW,7,127,31.0,30-39,11.0,Inner Regional Australia,0.0345416,3.4541561,Silver
+379,Ange,Chitham,Female,91,Argiculture,Mass Customer,No,10,00003 Hoffman Pass,2560,NSW,8,297,31.0,30-39,10.0,Major Cities of Australia,0.9654584,96.5458439,Bronze
+380,Ange,Chitham,Female,91,Argiculture,Mass Customer,No,10,00003 Hoffman Pass,2560,NSW,8,297,31.0,30-39,11.0,Inner Regional Australia,0.0345416,3.4541561,Bronze
+381,Kirsteni,Gritskov,Female,66,Financial Services,Mass Customer,No,4,743 Stuart Terrace,2560,NSW,7,575,23.0,18-29,10.0,Major Cities of Australia,0.9654584,96.5458439,Silver
+382,Kirsteni,Gritskov,Female,66,Financial Services,Mass Customer,No,4,743 Stuart Terrace,2560,NSW,7,575,23.0,18-29,11.0,Inner Regional Australia,0.0345416,3.4541561,Silver
+383,Lynnell,Shoesmith,Female,44,Health,High Net Worth,Yes,7,5331 Ilene Parkway,2560,NSW,8,700,41.0,40-49,10.0,Major Cities of Australia,0.9654584,96.5458439,Bronze
+384,Lynnell,Shoesmith,Female,44,Health,High Net Worth,Yes,7,5331 Ilene Parkway,2560,NSW,8,700,41.0,40-49,11.0,Inner Regional Australia,0.0345416,3.4541561,Bronze
+385,Brendis,Pineaux,Male,12,Manufacturing,Mass Customer,No,5,43030 Carberry Way,2560,NSW,4,719,44.0,40-49,10.0,Major Cities of Australia,0.9654584,96.5458439,Bronze
+386,Brendis,Pineaux,Male,12,Manufacturing,Mass Customer,No,5,43030 Carberry Way,2560,NSW,4,719,44.0,40-49,11.0,Inner Regional Australia,0.0345416,3.4541561,Bronze
+387,Tyne,Anshell,Female,71,Financial Services,Mass Customer,Yes,3,93 Sutherland Terrace,2560,NSW,8,979,29.0,18-29,10.0,Major Cities of Australia,0.9654584,96.5458439,Bronze
+388,Tyne,Anshell,Female,71,Financial Services,Mass Customer,Yes,3,93 Sutherland Terrace,2560,NSW,8,979,29.0,18-29,11.0,Inner Regional Australia,0.0345416,3.4541561,Bronze
+389,Aurie,Rhead,Female,78,Manufacturing,Affluent Customer,Yes,5,235 Mendota Court,2650,NSW,2,127,59.0,50-59,11.0,Inner Regional Australia,0.9896289,98.9628913,Silver
+390,Aurie,Rhead,Female,78,Manufacturing,Affluent Customer,Yes,5,235 Mendota Court,2650,NSW,2,127,59.0,50-59,12.0,Outer Regional Australia,0.0103711,1.0371087,Silver
+391,Theresina,Borsi,Female,30,Argiculture,Mass Customer,Yes,14,253 Katie Junction,2650,NSW,2,441,35.0,30-39,11.0,Inner Regional Australia,0.9896289,98.9628913,Silver
+392,Theresina,Borsi,Female,30,Argiculture,Mass Customer,Yes,14,253 Katie Junction,2650,NSW,2,441,35.0,30-39,12.0,Outer Regional Australia,0.0103711,1.0371087,Silver
+393,Errick,Burgin,Male,87,Entertainment,Mass Customer,No,11,417 Killdeer Alley,2650,NSW,2,744,23.0,18-29,11.0,Inner Regional Australia,0.9896289,98.9628913,Bronze
+394,Errick,Burgin,Male,87,Entertainment,Mass Customer,No,11,417 Killdeer Alley,2650,NSW,2,744,23.0,18-29,12.0,Outer Regional Australia,0.0103711,1.0371087,Bronze
+395,Farris,Skettles,Male,38,Financial Services,Mass Customer,Yes,13,49309 Redwing Lane,3240,VIC,7,132,56.0,50-59,21.0,Inner Regional Australia,1.0,100.0,Silver
+396,Sharline,Abyss,Female,11,Financial Services,Mass Customer,Yes,15,367 Bay Point,4011,QLD,4,133,61.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+397,Fonsie,Levane,Male,96,Financial Services,High Net Worth,Yes,19,83 Armistice Terrace,4011,QLD,3,163,70.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+398,Nowell,Preddy,Male,29,Manufacturing,Mass Customer,No,9,932 Glendale Avenue,2173,NSW,9,133,36.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Platinum
+399,Padraig,Snel,Male,89,Financial Services,Mass Customer,No,19,12683 Mifflin Point,2114,NSW,7,133,51.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+400,Dodi,Kiggel,Female,5,Financial Services,Mass Customer,Yes,13,05 Everett Trail,2114,NSW,11,405,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+401,Celia,Bryden,Female,12,Manufacturing,High Net Worth,No,21,2905 Towne Place,2114,NSW,9,450,78.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+402,Inglebert,Butland,Male,71,Financial Services,Mass Customer,Yes,7,51837 Canary Center,2114,NSW,9,719,56.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+403,Denny,Spleving,Female,84,Manufacturing,Affluent Customer,Yes,5,85420 Myrtle Road,2114,NSW,8,904,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+404,Malorie,Votier,Female,90,Manufacturing,Affluent Customer,No,4,6160 Weeping Birch Hill,4509,QLD,5,133,31.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Bronze
+405,Shepperd,Ricards,Male,28,Health,Mass Customer,Yes,16,7 Oakridge Lane,2284,NSW,4,133,54.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+406,Daryl,Pauncefort,Female,12,Financial Services,Mass Customer,Yes,12,0 Dexter Parkway,2380,NSW,3,133,42.0,40-49,12.0,Outer Regional Australia,1.0,100.0,Bronze
+407,Federico,Leuty,Male,59,Property,High Net Worth,Yes,11,720 Menomonie Crossing,2380,NSW,4,249,43.0,40-49,12.0,Outer Regional Australia,1.0,100.0,Silver
+408,Lotty,Loach,Female,76,Health,High Net Worth,Yes,7,78451 South Street,2380,NSW,3,871,60.0,50-59,12.0,Outer Regional Australia,1.0,100.0,Silver
+409,Norina,Blakeway,Female,60,Property,Mass Customer,Yes,3,75813 Lawn Lane,3081,VIC,8,133,42.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+410,Cami,Eitter,Female,34,Manufacturing,High Net Worth,Yes,11,1408 Hovde Circle,3081,VIC,9,551,43.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+411,My,Chaston,Male,92,Manufacturing,Affluent Customer,Yes,16,74613 Northport Park,3765,VIC,9,133,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+412,Isak,Bergstram,Male,14,Health,Affluent Customer,Yes,15,68 Karstens Pass,2176,NSW,9,142,21.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+413,Inglebert,Aspinal,Male,4,Financial Services,Mass Customer,No,11,612 Annamark Center,2176,NSW,8,507,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+414,Grannie,Cracker,Male,28,Retail,Mass Customer,Yes,20,87254 Hermina Pass,4217,QLD,8,142,73.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+415,Claudell,Rounsefell,Male,67,Financial Services,Affluent Customer,No,8,61416 Karstens Place,4217,QLD,5,444,28.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+416,Kylila,Basezzi,Female,94,Financial Services,Mass Customer,Yes,9,64 Armistice Point,4217,QLD,9,733,76.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+417,Nadiya,Balasini,Female,40,Financial Services,Mass Customer,No,15,92934 Mallory Trail,2164,NSW,9,146,71.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+418,Tyne,Coate,Female,82,Manufacturing,Mass Customer,No,17,90820 Thackeray Street,2218,NSW,8,146,56.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+419,Christie,Anders,Male,38,Retail,Mass Customer,No,16,48 Ludington Plaza,2153,NSW,10,146,52.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+420,Markus,Pendrey,Male,88,Health,Affluent Customer,Yes,12,2382 Anthes Crossing,2153,NSW,10,859,62.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+421,Ilise,Clissold,Female,58,Entertainment,High Net Worth,No,9,659 Comanche Plaza,2153,NSW,10,913,34.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+422,Agnella,Capener,Female,58,Health,High Net Worth,No,19,49185 Derek Circle,3977,VIC,6,146,52.0,50-59,20.0,Major Cities of Australia,0.9919111,99.191111,Silver
+423,Agnella,Capener,Female,58,Health,High Net Worth,No,19,49185 Derek Circle,3977,VIC,6,146,52.0,50-59,21.0,Inner Regional Australia,0.0080889,0.808889,Silver
+424,Alfonso,Massel,Male,70,Financial Services,Mass Customer,Yes,13,6065 Talisman Crossing,3977,VIC,7,201,81.0,70+,20.0,Major Cities of Australia,0.9919111,99.191111,Silver
+425,Alfonso,Massel,Male,70,Financial Services,Mass Customer,Yes,13,6065 Talisman Crossing,3977,VIC,7,201,81.0,70+,21.0,Inner Regional Australia,0.0080889,0.808889,Silver
+426,Raff,Waycott,Male,70,Manufacturing,Affluent Customer,Yes,14,94694 Eagle Crest Terrace,3977,VIC,7,259,70.0,60-69,20.0,Major Cities of Australia,0.9919111,99.191111,Platinum
+427,Raff,Waycott,Male,70,Manufacturing,Affluent Customer,Yes,14,94694 Eagle Crest Terrace,3977,VIC,7,259,70.0,60-69,21.0,Inner Regional Australia,0.0080889,0.808889,Silver
+428,Claudine,Dymick,Female,28,Health,Mass Customer,No,5,31675 Corry Way,3977,VIC,5,312,56.0,50-59,20.0,Major Cities of Australia,0.9919111,99.191111,Silver
+429,Claudine,Dymick,Female,28,Health,Mass Customer,No,5,31675 Corry Way,3977,VIC,5,312,56.0,50-59,21.0,Inner Regional Australia,0.0080889,0.808889,Silver
+430,Carolann,Raatz,Female,25,Financial Services,High Net Worth,No,21,817 Bunker Hill Place,3977,VIC,6,386,43.0,40-49,20.0,Major Cities of Australia,0.9919111,99.191111,Silver
+431,Carolann,Raatz,Female,25,Financial Services,High Net Worth,No,21,817 Bunker Hill Place,3977,VIC,6,386,43.0,40-49,21.0,Inner Regional Australia,0.0080889,0.808889,Silver
+432,Wyndham,Woolford,Male,1,Manufacturing,Mass Customer,No,10,9107 Pine View Plaza,3977,VIC,6,591,42.0,40-49,20.0,Major Cities of Australia,0.9919111,99.191111,Silver
+433,Wyndham,Woolford,Male,1,Manufacturing,Mass Customer,No,10,9107 Pine View Plaza,3977,VIC,6,591,42.0,40-49,21.0,Inner Regional Australia,0.0080889,0.808889,Silver
+434,Tomaso,Horsley,Male,97,Financial Services,Mass Customer,Yes,10,70360 Onsgard Plaza,3977,VIC,6,741,20.0,18-29,20.0,Major Cities of Australia,0.9919111,99.191111,Silver
+435,Tomaso,Horsley,Male,97,Financial Services,Mass Customer,Yes,10,70360 Onsgard Plaza,3977,VIC,6,741,20.0,18-29,21.0,Inner Regional Australia,0.0080889,0.808889,Platinum
+436,Bernardine,Delmonti,Female,39,Property,Mass Customer,No,17,0721 Meadow Ridge Pass,2540,NSW,8,146,50.0,40-49,11.0,Inner Regional Australia,0.991305,99.1305028,Silver
+437,Bernardine,Delmonti,Female,39,Property,Mass Customer,No,17,0721 Meadow Ridge Pass,2540,NSW,8,146,50.0,40-49,91.0,Inner Regional Australia,0.008695,0.8694972,Bronze
+438,Daisy,Spowart,Female,60,Health,Affluent Customer,Yes,4,115 Westridge Road,4570,QLD,3,146,54.0,50-59,31.0,Inner Regional Australia,0.9997879,99.978791,Bronze
+439,Daisy,Spowart,Female,60,Health,Affluent Customer,Yes,4,115 Westridge Road,4570,QLD,3,146,54.0,50-59,32.0,Outer Regional Australia,0.0002121,0.021209,Bronze
+440,Brigg,Himsworth,Male,63,Telecommunications,Mass Customer,Yes,9,771 Union Crossing,4570,QLD,6,882,48.0,40-49,31.0,Inner Regional Australia,0.9997879,99.978791,Bronze
+441,Brigg,Himsworth,Male,63,Telecommunications,Mass Customer,Yes,9,771 Union Crossing,4570,QLD,6,882,48.0,40-49,32.0,Outer Regional Australia,0.0002121,0.021209,Bronze
+442,Denys,Minshall,Female,30,Manufacturing,Affluent Customer,Yes,14,7 Myrtle Lane,2324,NSW,8,152,60.0,50-59,10.0,Major Cities of Australia,0.5811129,58.1112888,Bronze
+443,Denys,Minshall,Female,30,Manufacturing,Affluent Customer,Yes,14,7 Myrtle Lane,2324,NSW,8,152,60.0,50-59,11.0,Inner Regional Australia,0.4188871,41.8887112,Bronze
+444,Archibald,Blessed,Male,61,Financial Services,Mass Customer,Yes,18,7795 Memorial Drive,2016,NSW,11,153,53.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+445,Dorotea,Fenwick,Female,74,Financial Services,High Net Worth,No,12,72 Lukken Crossing,2016,NSW,11,715,71.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+446,Feodor,Englishby,Male,54,Health,Mass Customer,No,11,24695 Boyd Road,3201,VIC,5,154,60.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+447,Gannie,Bargh,Male,56,Financial Services,Mass Customer,Yes,13,1832 Burning Wood Place,3201,VIC,7,401,67.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+448,Skippie,Yearsley,Male,6,Financial Services,Mass Customer,No,9,95306 John Wall Avenue,4350,QLD,5,155,65.0,60-69,31.0,Inner Regional Australia,1.0,100.0,Silver
+449,Juliana,Mitchenson,Female,55,Manufacturing,Mass Customer,Yes,8,74 Russell Terrace,4350,QLD,4,166,33.0,30-39,31.0,Inner Regional Australia,1.0,100.0,Bronze
+450,Art,Shardlow,Male,57,Argiculture,Mass Customer,Yes,15,7 Clemons Circle,4350,QLD,2,415,58.0,50-59,31.0,Inner Regional Australia,1.0,100.0,Bronze
+451,Park,Borsi,Male,39,IT,Affluent Customer,No,14,07 Boyd Drive,4350,QLD,7,495,44.0,40-49,31.0,Inner Regional Australia,1.0,100.0,Bronze
+452,Frans,Idale,Male,1,Manufacturing,Mass Customer,No,10,96 Hermina Place,4350,QLD,2,795,52.0,50-59,31.0,Inner Regional Australia,1.0,100.0,Silver
+453,Hayes,Daveren,Male,32,Manufacturing,Affluent Customer,Yes,11,1 Becker Parkway,4350,QLD,2,856,68.0,60-69,31.0,Inner Regional Australia,1.0,100.0,Silver
+454,Bill,Borsi,Female,74,Property,Mass Customer,Yes,19,6704 Pine View Lane,2170,NSW,9,155,58.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+455,Allyson,Petchell,Female,16,Telecommunications,High Net Worth,No,10,98221 Pennsylvania Place,2170,NSW,8,191,51.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+456,Corrine,Baribal,Female,19,Financial Services,Affluent Customer,Yes,12,3 Mallory Circle,2170,NSW,8,206,73.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+457,Harlene,Nono,U,69,IT,Mass Customer,No,12,0307 Namekagon Crossing,2170,NSW,7,575,80.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+458,Dylan,Stranio,Male,47,Manufacturing,High Net Worth,Yes,9,3662 Beilfuss Lane,2170,NSW,8,773,68.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+459,Erminie,Rabidge,Female,64,Manufacturing,High Net Worth,No,17,1969 Melody Lane,2170,NSW,8,801,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Platinum
+460,Tessa,Friese,Female,89,Financial Services,Mass Customer,No,21,98158 Alpine Point,4212,QLD,9,157,45.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Bronze
+461,Cecelia,Cisar,Female,20,Property,Mass Customer,Yes,15,665 Sachs Way,4212,QLD,7,312,36.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Silver
+462,Fancie,Woofendell,Female,68,Health,Mass Customer,Yes,6,8 Crowley Center,4212,QLD,7,733,55.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+463,Tedra,Goodbanne,Female,4,Financial Services,Mass Customer,Yes,6,8 Debs Road,3934,VIC,9,158,44.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Bronze
+464,Giorgi,O'Shirine,Male,68,Retail,Mass Customer,Yes,15,6 Novick Alley,3934,VIC,8,219,40.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Bronze
+465,Ashlen,Willbond,Female,64,Health,High Net Worth,No,16,723 Grayhawk Way,3934,VIC,8,913,37.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Bronze
+466,Harland,Messenger,Male,90,Retail,Mass Customer,No,8,27 Crownhardt Center,3934,VIC,10,944,47.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Bronze
+467,Roberto,Harme,Male,27,Financial Services,High Net Worth,No,10,101 Starling Pass,2564,NSW,9,158,70.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+468,Nichole,Leisman,Male,37,Property,Affluent Customer,No,4,35151 Bunker Hill Crossing,2068,NSW,12,158,35.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+469,Amil,Ennor,Female,23,Health,Mass Customer,Yes,10,2093 Amoth Pass,3109,VIC,11,158,26.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+470,Lynnett,Tipper,Female,22,Health,High Net Worth,Yes,2,9 Ridgeview Avenue,3109,VIC,10,466,28.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Bronze
+471,Moina,Rosenbaum,Female,50,IT,Mass Customer,No,14,0 Memorial Road,3109,VIC,10,468,20.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+472,Carl,Troyes,Male,4,Property,Mass Customer,No,7,1217 Melody Alley,3109,VIC,10,791,49.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+473,Shawna,Hinrichsen,Female,60,Manufacturing,Affluent Customer,Yes,9,57343 Eagan Avenue,2326,NSW,2,163,52.0,50-59,10.0,Major Cities of Australia,0.889056,88.9056032,Silver
+474,Shawna,Hinrichsen,Female,60,Manufacturing,Affluent Customer,Yes,9,57343 Eagan Avenue,2326,NSW,2,163,52.0,50-59,11.0,Inner Regional Australia,0.110944,11.0943968,Silver
+475,Emilie,Brody,Female,3,Financial Services,Mass Customer,Yes,3,5388 Burrows Alley,2073,NSW,11,163,42.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+476,Queenie,Learie,Female,90,Property,Mass Customer,No,12,7 Sauthoff Park,2073,NSW,11,420,74.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+477,Robert,Corkill,Male,55,Health,Mass Customer,No,4,5612 Toban Point,2227,NSW,10,166,46.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+478,Hunfredo,Hayball,Male,7,IT,Affluent Customer,No,3,60461 Esch Avenue,2227,NSW,8,219,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+479,Guss,Karim,Male,95,Manufacturing,Mass Customer,No,7,4 Warner Circle,2227,NSW,11,312,53.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+480,Elvira,Kurten,Female,65,Financial Services,High Net Worth,No,12,65 Ridge Oak Court,2471,NSW,3,166,48.0,40-49,11.0,Inner Regional Australia,1.0,99.9999996,Platinum
+481,Regine,Bownes,Female,99,Retail,Affluent Customer,No,15,255 Loeprich Lane,3752,VIC,9,166,69.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+482,Alvira,Coulman,Female,42,Financial Services,Affluent Customer,No,14,823 Wayridge Trail,2205,NSW,9,166,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+483,Anthony,Lindstrom,Male,86,Financial Services,Affluent Customer,Yes,10,427 Oak Avenue,2205,NSW,10,495,24.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+484,Sawyer,Sponton,Male,36,Property,Mass Customer,Yes,10,5 Golf Terrace,2126,NSW,11,166,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+485,Gilbert,O'Fallone,Male,29,Entertainment,High Net Worth,No,1,6 Havey Pass,2126,NSW,11,595,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+486,Paten,Cayet,Male,56,Manufacturing,Affluent Customer,Yes,16,1398 Burning Wood Way,3850,VIC,1,174,27.0,18-29,21.0,Inner Regional Australia,1.0,100.0,Platinum
+487,Rozamond,Turtle,U,69,IT,Mass Customer,Yes,3,57025 New Castle Street,3850,VIC,3,324,80.0,70+,21.0,Inner Regional Australia,1.0,100.0,Silver
+488,Loria,Tappington,Female,72,Property,Mass Customer,No,5,3920 Swallow Junction,3038,VIC,8,174,66.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+489,Tanya,Kiefer,Female,54,Telecommunications,High Net Worth,No,7,4 Warner Park,2146,NSW,9,174,29.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+490,Rand,Winchcum,Male,34,Financial Services,Affluent Customer,No,3,4594 Jackson Hill,2146,NSW,7,810,21.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+491,Devonne,Alderwick,Female,79,Financial Services,High Net Worth,Yes,9,534 Lien Lane,3122,VIC,7,177,83.0,70+,20.0,Major Cities of Australia,1.0,100.0,Platinum
+492,Pace,Clemonts,Male,99,Retail,High Net Worth,No,10,335 Cambridge Hill,3122,VIC,7,358,31.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+493,Jacobo,Mucklow,Male,62,Financial Services,High Net Worth,Yes,22,5512 Ronald Regan Hill,3122,VIC,8,530,69.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Platinum
+494,Omero,McDonand,Male,51,Manufacturing,Mass Customer,No,16,48 Shoshone Park,2066,NSW,9,177,69.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+495,Opal,Cleare,Female,6,Property,Affluent Customer,Yes,20,247 Blue Bill Park Parkway,2066,NSW,9,429,44.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+496,Katleen,Arnoult,Female,6,Manufacturing,Mass Customer,Yes,13,540 Farragut Avenue,2066,NSW,9,507,45.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+497,Phyllis,Wibberley,Female,7,Retail,Affluent Customer,No,11,03 Bellgrove Avenue,2066,NSW,12,750,51.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+498,Briano,Janowski,Male,66,Financial Services,Mass Customer,No,7,3259 Eagan Parkway,2066,NSW,8,838,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Gold
+499,Jammie,Seldner,Female,42,Health,Mass Customer,Yes,15,8 Saint Paul Junction,2066,NSW,10,963,47.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+500,Iain,Haversham,Male,92,Retail,Mass Customer,Yes,13,170 Briar Crest Place,2120,NSW,10,177,71.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+501,Ivy,Farr,Female,56,IT,High Net Worth,No,19,08470 Kingsford Lane,2120,NSW,11,530,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+502,Keriann,Newham,Female,71,Financial Services,Mass Customer,No,5,0193 Northland Street,4179,QLD,9,177,46.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+503,Conroy,Rappaport,Male,39,Health,High Net Worth,No,9,5219 Pearson Drive,2148,NSW,9,181,57.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+504,Vittorio,Boxen,Male,94,Financial Services,Mass Customer,No,14,3 Anthes Court,2148,NSW,9,233,56.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+505,Geoff,Sitford,Male,97,Financial Services,Mass Customer,Yes,4,7 Elgar Road,2148,NSW,8,297,57.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+506,Claudette,Renackowna,Female,55,Manufacturing,Mass Customer,No,2,0800 Dahle Alley,2148,NSW,8,492,26.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+507,Nev,Prosh,Male,29,Health,Affluent Customer,Yes,17,6115 Forest Crossing,2148,NSW,8,612,71.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+508,Wolf,Craft,Male,93,Retail,Affluent Customer,Yes,5,7513 Swallow Drive,2148,NSW,9,646,26.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+509,Wilburt,Padden,Male,22,Manufacturing,Mass Customer,No,3,22 Muir Avenue,2148,NSW,5,845,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+510,Dorian,Rustman,Male,78,Manufacturing,Mass Customer,No,18,6156 Summit Center,4352,QLD,7,181,47.0,40-49,31.0,Inner Regional Australia,0.9621749,96.2174947,Bronze
+511,Dorian,Rustman,Male,78,Manufacturing,Mass Customer,No,18,6156 Summit Center,4352,QLD,7,181,47.0,40-49,32.0,Outer Regional Australia,0.0378251,3.7825053,Bronze
+512,Laurel,Devennie,Female,78,Manufacturing,Affluent Customer,No,13,069 Hoard Pass,4352,QLD,5,536,45.0,40-49,31.0,Inner Regional Australia,0.9621749,96.2174947,Bronze
+513,Laurel,Devennie,Female,78,Manufacturing,Affluent Customer,No,13,069 Hoard Pass,4352,QLD,5,536,45.0,40-49,32.0,Outer Regional Australia,0.0378251,3.7825053,Bronze
+514,Zebulen,Emtage,Male,52,Financial Services,High Net Worth,Yes,17,44 Ronald Regan Parkway,4352,QLD,7,733,58.0,50-59,31.0,Inner Regional Australia,0.9621749,96.2174947,Bronze
+515,Zebulen,Emtage,Male,52,Financial Services,High Net Worth,Yes,17,44 Ronald Regan Parkway,4352,QLD,7,733,58.0,50-59,32.0,Outer Regional Australia,0.0378251,3.7825053,Bronze
+516,Quillan,Guinane,Male,36,Financial Services,High Net Worth,Yes,21,803 Badeau Point,2177,NSW,8,181,75.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+517,Philbert,Raraty,Male,48,Manufacturing,Mass Customer,No,6,10 Dexter Park,2177,NSW,9,274,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+518,Francisca,Pottage,Female,63,IT,Mass Customer,No,8,8600 Forster Lane,2177,NSW,9,615,64.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Platinum
+519,Harlin,Mazin,Male,34,Manufacturing,Mass Customer,Yes,13,735 Westridge Road,2454,NSW,7,181,47.0,40-49,11.0,Inner Regional Australia,0.0180085,1.8008474,Silver
+520,Harlin,Mazin,Male,34,Manufacturing,Mass Customer,Yes,13,735 Westridge Road,2454,NSW,7,181,47.0,40-49,12.0,Outer Regional Australia,0.9819915,98.1991526,Silver
+521,Eustacia,Dornan,Female,68,Property,Mass Customer,No,5,1190 Hanson Street,3806,VIC,9,181,36.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Bronze
+522,Adriana,Saundercock,U,20,IT,High Net Worth,Yes,14,82 Gina Junction,3806,VIC,7,751,80.0,70+,20.0,Major Cities of Australia,1.0,100.0,Platinum
+523,Quentin,Gerleit,Female,32,Manufacturing,Mass Customer,No,4,88 Aberg Circle,3806,VIC,8,865,31.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+524,Fabio,Commuzzo,Male,5,Manufacturing,Mass Customer,No,18,66 Shopko Circle,3806,VIC,8,896,60.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+525,Maury,Galego,Male,65,Health,High Net Worth,Yes,3,370 Division Junction,3032,VIC,10,181,29.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Bronze
+526,Kyle,Michie,Female,6,Financial Services,Mass Customer,Yes,10,07226 Anzinger Avenue,3032,VIC,8,595,63.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+527,Reggie,Kernar,Female,26,Financial Services,High Net Worth,No,17,90 Northport Hill,2228,NSW,10,181,50.0,40-49,10.0,Major Cities of Australia,1.0,99.9999999,Bronze
+528,Brigitte,Whellams,Female,67,Financial Services,Mass Customer,Yes,17,77785 Veith Lane,2766,NSW,8,188,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+529,Maurizio,Comi,Male,74,IT,Affluent Customer,No,10,25805 Eagan Place,2766,NSW,9,190,25.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+530,Wilfrid,Gertray,Male,1,Financial Services,Mass Customer,No,16,38407 Sutteridge Circle,2766,NSW,8,568,79.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+531,Giselbert,Pickring,Male,94,Manufacturing,Affluent Customer,Yes,20,653 2nd Park,2766,NSW,8,662,62.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+532,Kinna,Kollasch,Female,7,Property,High Net Worth,No,9,232 Knutson Park,4060,QLD,10,188,35.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Bronze
+533,Elbertina,Fendley,Female,32,Property,Affluent Customer,No,8,743 Debra Court,2117,NSW,11,191,29.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+534,Gothart,Artus,Male,52,Health,Mass Customer,Yes,14,21824 Northridge Alley,2117,NSW,10,231,43.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+535,Mair,Erett,Female,15,Financial Services,Affluent Customer,No,18,79 Armistice Parkway,2117,NSW,7,409,64.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+536,Franklin,Wohler,Male,55,Health,Mass Customer,Yes,7,6966 Delladonna Street,2250,NSW,8,191,83.0,70+,10.0,Major Cities of Australia,0.9500713,95.0071325,Platinum
+537,Franklin,Wohler,Male,55,Health,Mass Customer,Yes,7,6966 Delladonna Street,2250,NSW,8,191,83.0,70+,11.0,Inner Regional Australia,0.0499287,4.9928675,Platinum
+538,Engracia,Dobbs,Female,84,Health,Mass Customer,No,15,72 Eliot Place,2250,NSW,8,202,62.0,60-69,10.0,Major Cities of Australia,0.9500713,95.0071325,Bronze
+539,Engracia,Dobbs,Female,84,Health,Mass Customer,No,15,72 Eliot Place,2250,NSW,8,202,62.0,60-69,11.0,Inner Regional Australia,0.0499287,4.9928675,Bronze
+540,Etan,Prinett,Male,97,Argiculture,Mass Customer,Yes,10,9082 Waywood Avenue,2250,NSW,8,420,52.0,50-59,10.0,Major Cities of Australia,0.9500713,95.0071325,Platinum
+541,Etan,Prinett,Male,97,Argiculture,Mass Customer,Yes,10,9082 Waywood Avenue,2250,NSW,8,420,52.0,50-59,11.0,Inner Regional Australia,0.0499287,4.9928675,Silver
+542,Joane,Caldes,Female,84,Financial Services,High Net Worth,Yes,13,42 3rd Plaza,2250,NSW,7,928,43.0,40-49,10.0,Major Cities of Australia,0.9500713,95.0071325,Silver
+543,Joane,Caldes,Female,84,Financial Services,High Net Worth,Yes,13,42 3rd Plaza,2250,NSW,7,928,43.0,40-49,11.0,Inner Regional Australia,0.0499287,4.9928675,Silver
+544,Consalve,Ballay,Male,41,IT,Mass Customer,Yes,7,72 Village Terrace,2250,NSW,8,987,62.0,60-69,10.0,Major Cities of Australia,0.9500713,95.0071325,Bronze
+545,Consalve,Ballay,Male,41,IT,Mass Customer,Yes,7,72 Village Terrace,2250,NSW,8,987,62.0,60-69,11.0,Inner Regional Australia,0.0499287,4.9928675,Bronze
+546,Alanna,Lerway,Female,26,Health,Mass Customer,Yes,11,593 Alpine Drive,3195,VIC,12,195,78.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+547,Vincent,Jopke,Male,6,Property,Affluent Customer,No,16,45788 Stang Plaza,3687,VIC,3,195,50.0,40-49,21.0,Inner Regional Australia,1.0,100.0,Silver
+548,Mandie,Jeffryes,Female,60,Financial Services,High Net Worth,No,7,96515 Di Loreto Pass,4109,QLD,9,195,41.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Bronze
+549,Collete,Dory,Female,66,Financial Services,High Net Worth,No,2,8625 Dakota Plaza,2210,NSW,9,195,32.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Bronze
+550,Laurie,Borsi,Male,31,Entertainment,Mass Customer,Yes,15,94 Barby Lane,2210,NSW,10,475,42.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+551,Leonid,Dorricott,Male,44,Financial Services,Affluent Customer,No,3,02 Hoffman Road,2448,NSW,3,195,28.0,18-29,12.0,Outer Regional Australia,1.0,100.0,Bronze
+552,Muffin,Bhar,Male,44,Financial Services,Affluent Customer,No,19,15 Weeping Birch Crossing,2448,NSW,4,879,55.0,50-59,12.0,Outer Regional Australia,1.0,100.0,Silver
+553,Glyn,Borsi,Male,47,Manufacturing,Affluent Customer,Yes,21,67 Bluejay Plaza,2300,NSW,9,202,77.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+554,Rosemonde,Cartwight,Female,44,Retail,Mass Customer,Yes,7,518 Paget Hill,4605,QLD,1,202,69.0,60-69,31.0,Inner Regional Australia,0.6854188,68.541881,Bronze
+555,Rosemonde,Cartwight,Female,44,Retail,Mass Customer,Yes,7,518 Paget Hill,4605,QLD,1,202,69.0,60-69,32.0,Outer Regional Australia,0.3145812,31.458119,Bronze
+556,Alano,Satchel,Male,2,Financial Services,Mass Customer,No,2,87107 Shelley Crossing,2429,NSW,7,202,23.0,18-29,11.0,Inner Regional Australia,0.8989795,89.897948,Silver
+557,Alano,Satchel,Male,2,Financial Services,Mass Customer,No,2,87107 Shelley Crossing,2429,NSW,7,202,23.0,18-29,12.0,Outer Regional Australia,0.1010205,10.102052,Silver
+558,Benoit,Harniman,Male,31,Telecommunications,Affluent Customer,No,9,1582 Bashford Drive,4018,QLD,7,206,45.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+559,Sile,Zappel,Female,47,IT,High Net Worth,No,15,44350 Buell Alley,4018,QLD,6,859,63.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+560,Jenelle,Fearnill,Female,12,Health,High Net Worth,No,19,06 Old Gate Park,2144,NSW,9,206,64.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+561,Amabel,Borsi,Female,71,Financial Services,Mass Customer,Yes,9,3128 Mallory Pass,2144,NSW,6,530,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+562,Tannie,Gambrell,Male,92,Financial Services,Affluent Customer,No,4,49 Surrey Point,4710,QLD,4,206,54.0,50-59,31.0,Inner Regional Australia,1.0,100.0,Silver
+563,Tabbie,Curner,Male,12,Retail,Mass Customer,No,6,89 Parkside Street,3021,VIC,6,212,25.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+564,Verla,Dumingos,Female,26,Telecommunications,Mass Customer,Yes,10,6784 Spohn Alley,3021,VIC,8,282,50.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+565,Paxon,Roomes,Male,78,Financial Services,High Net Worth,Yes,7,3 Express Lane,3021,VIC,7,320,45.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+566,Thorvald,Duckerin,Male,58,Manufacturing,Affluent Customer,Yes,1,4 Pine View Junction,3021,VIC,8,871,26.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Bronze
+567,Shane,Killen,Male,28,Entertainment,High Net Worth,No,10,7 Hazelcrest Place,2165,NSW,8,212,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+568,Parnell,Lamprey,Male,23,Financial Services,High Net Worth,No,12,7353 Mallard Junction,2165,NSW,6,322,44.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+569,Roberta,Goodale,Female,9,Property,Mass Customer,Yes,22,013 David Junction,4211,QLD,7,215,75.0,70+,30.0,Major Cities of Australia,0.9636193,96.3619329,Silver
+570,Roberta,Goodale,Female,9,Property,Mass Customer,Yes,22,013 David Junction,4211,QLD,7,215,75.0,70+,31.0,Inner Regional Australia,0.0363807,3.6380671,Silver
+571,Lura,Fawdrie,Female,66,Health,Mass Customer,Yes,4,67183 Anniversary Parkway,4211,QLD,3,396,20.0,18-29,30.0,Major Cities of Australia,0.9636193,96.3619329,Bronze
+572,Lura,Fawdrie,Female,66,Health,Mass Customer,Yes,4,67183 Anniversary Parkway,4211,QLD,3,396,20.0,18-29,31.0,Inner Regional Australia,0.0363807,3.6380671,Bronze
+573,Cathleen,Le Teve,Female,75,Financial Services,High Net Worth,No,18,32834 Caliangt Way,4211,QLD,3,691,71.0,70+,30.0,Major Cities of Australia,0.9636193,96.3619329,Silver
+574,Cathleen,Le Teve,Female,75,Financial Services,High Net Worth,No,18,32834 Caliangt Way,4211,QLD,3,691,71.0,70+,31.0,Inner Regional Australia,0.0363807,3.6380671,Silver
+575,Jared,Fendlow,Male,79,Financial Services,Mass Customer,No,15,6195 Bellgrove Lane,4211,QLD,7,832,58.0,50-59,30.0,Major Cities of Australia,0.9636193,96.3619329,Silver
+576,Jared,Fendlow,Male,79,Financial Services,Mass Customer,No,15,6195 Bellgrove Lane,4211,QLD,7,832,58.0,50-59,31.0,Inner Regional Australia,0.0363807,3.6380671,Silver
+577,Rosalinde,Cubuzzi,Female,50,Financial Services,Mass Customer,No,5,6 Lotheville Trail,2444,NSW,7,215,24.0,18-29,11.0,Inner Regional Australia,1.0,100.0,Bronze
+578,Bailey,Bereford,Male,44,Argiculture,Affluent Customer,Yes,11,36 Golf Course Circle,2444,NSW,6,524,71.0,70+,11.0,Inner Regional Australia,1.0,100.0,Silver
+579,Angie,Tansley,Male,68,Manufacturing,Mass Customer,No,8,8 Cardinal Junction,2444,NSW,7,544,71.0,70+,11.0,Inner Regional Australia,1.0,100.0,Bronze
+580,Meridith,Urwin,Female,62,Health,High Net Worth,Yes,10,535 Graedel Circle,2444,NSW,7,845,25.0,18-29,11.0,Inner Regional Australia,1.0,100.0,Silver
+581,Cami,Barnbrook,Female,8,Health,Affluent Customer,Yes,18,890 Truax Lane,4285,QLD,2,218,59.0,50-59,31.0,Inner Regional Australia,1.0,100.0,Gold
+582,Gretna,Thredder,Female,62,Financial Services,Mass Customer,No,18,1607 Westridge Drive,2203,NSW,11,223,56.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+583,Tobiah,Heinsius,Male,66,Health,High Net Worth,No,9,3630 Dawn Crossing,2446,NSW,8,223,22.0,18-29,11.0,Inner Regional Australia,0.9204554,92.0455363,Silver
+584,Tobiah,Heinsius,Male,66,Health,High Net Worth,No,9,3630 Dawn Crossing,2446,NSW,8,223,22.0,18-29,12.0,Outer Regional Australia,0.0795446,7.9544637,Silver
+585,Wallace,Newart,Male,91,IT,Mass Customer,No,17,29007 Dapin Street,4650,QLD,1,223,44.0,40-49,31.0,Inner Regional Australia,0.9993802,99.9380163,Bronze
+586,Wallace,Newart,Male,91,IT,Mass Customer,No,17,29007 Dapin Street,4650,QLD,1,223,44.0,40-49,32.0,Outer Regional Australia,0.0006198,0.0619837,Bronze
+587,Arel,Abramovitz,Male,72,Health,Mass Customer,No,16,32249 Sycamore Way,4650,QLD,4,433,64.0,60-69,31.0,Inner Regional Australia,0.9993802,99.9380163,Silver
+588,Arel,Abramovitz,Male,72,Health,Mass Customer,No,16,32249 Sycamore Way,4650,QLD,4,433,64.0,60-69,32.0,Outer Regional Australia,0.0006198,0.0619837,Silver
+589,Seymour,Fellibrand,Male,28,Financial Services,Affluent Customer,Yes,18,96081 Lakewood Hill,4650,QLD,2,708,50.0,40-49,31.0,Inner Regional Australia,0.9993802,99.9380163,Silver
+590,Seymour,Fellibrand,Male,28,Financial Services,Affluent Customer,Yes,18,96081 Lakewood Hill,4650,QLD,2,708,50.0,40-49,32.0,Outer Regional Australia,0.0006198,0.0619837,Silver
+591,Hersh,Stubbert,Male,0,Manufacturing,Mass Customer,Yes,15,68 Fairfield Street,4115,QLD,8,226,21.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Platinum
+592,Thorn,Stigers,Male,42,Financial Services,Mass Customer,No,19,6218 Delladonna Parkway,4115,QLD,8,466,49.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Bronze
+593,Riki,Wandtke,Female,25,Entertainment,Mass Customer,Yes,5,435 Mitchell Street,4115,QLD,7,748,59.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+594,Hatti,Carletti,U,35,IT,Affluent Customer,Yes,11,6 Iowa Center,2519,NSW,9,226,80.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+595,Wyn,Saynor,Male,54,Financial Services,High Net Worth,No,8,5 Briar Crest Road,2099,NSW,9,226,57.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+596,Carroll,Schlagman,Female,61,Health,Affluent Customer,No,13,15 Fisk Road,2099,NSW,9,795,70.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Platinum
+597,Hedwig,Jayme,Female,38,Property,Affluent Customer,No,11,6293 Hooker Point,2099,NSW,10,899,69.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+598,Maribeth,Stivani,Female,46,Financial Services,Mass Customer,No,7,945 Bobwhite Court,2430,NSW,8,226,67.0,60-69,11.0,Inner Regional Australia,1.0,100.0,Bronze
+599,Danny,Bodle,Male,50,Manufacturing,Mass Customer,Yes,18,68 Anthes Park,2007,NSW,9,231,78.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+600,Tiphanie,Blackader,Female,59,Retail,Mass Customer,No,17,71 Stone Corner Avenue,2007,NSW,11,297,74.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+601,Elmira,Vasilyev,Female,33,Manufacturing,High Net Worth,No,12,12 Eastlawn Terrace,2007,NSW,9,520,70.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+602,Deborah,Petrovsky,Female,53,Property,Mass Customer,No,16,036 Redwing Street,2011,NSW,7,233,78.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+603,Vitia,Axtens,Female,62,Financial Services,Mass Customer,Yes,15,42681 Carey Alley,2011,NSW,10,334,76.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+604,Murial,Bulloch,Female,59,Financial Services,Mass Customer,No,13,391 Old Shore Lane,2011,NSW,6,349,57.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+605,Margette,Gibard,Female,34,Manufacturing,Affluent Customer,Yes,9,37068 Montana Street,2011,NSW,7,658,79.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+606,Agace,Hedge,Female,25,Financial Services,Mass Customer,Yes,13,92 Petterle Place,3429,VIC,8,233,24.0,18-29,20.0,Major Cities of Australia,0.9808355,98.0835519,Platinum
+607,Agace,Hedge,Female,25,Financial Services,Mass Customer,Yes,13,92 Petterle Place,3429,VIC,8,233,24.0,18-29,21.0,Inner Regional Australia,0.0191645,1.9164481,Gold
+608,Ogdan,Blenkinship,Male,65,Health,Mass Customer,Yes,21,21712 Texas Court,3429,VIC,5,930,71.0,70+,20.0,Major Cities of Australia,0.9808355,98.0835519,Silver
+609,Ogdan,Blenkinship,Male,65,Health,Mass Customer,Yes,21,21712 Texas Court,3429,VIC,5,930,71.0,70+,21.0,Inner Regional Australia,0.0191645,1.9164481,Silver
+610,Latrena,Walklate,Female,97,Telecommunications,High Net Worth,Yes,13,87 Sheridan Junction,2281,NSW,8,237,78.0,70+,10.0,Major Cities of Australia,0.8713432,87.1343215,Bronze
+611,Latrena,Walklate,Female,97,Telecommunications,High Net Worth,Yes,13,87 Sheridan Junction,2281,NSW,8,237,78.0,70+,11.0,Inner Regional Australia,0.1286568,12.8656785,Bronze
+612,Kissiah,Foat,Female,30,Financial Services,Mass Customer,Yes,19,1690 Forster Place,2281,NSW,9,504,46.0,40-49,10.0,Major Cities of Australia,0.8713432,87.1343215,Silver
+613,Kissiah,Foat,Female,30,Financial Services,Mass Customer,Yes,19,1690 Forster Place,2281,NSW,9,504,46.0,40-49,11.0,Inner Regional Australia,0.1286568,12.8656785,Silver
+614,Israel,Brough,Male,29,Financial Services,Mass Customer,Yes,8,43863 Victoria Lane,2281,NSW,7,651,45.0,40-49,10.0,Major Cities of Australia,0.8713432,87.1343215,Bronze
+615,Israel,Brough,Male,29,Financial Services,Mass Customer,Yes,8,43863 Victoria Lane,2281,NSW,7,651,45.0,40-49,11.0,Inner Regional Australia,0.1286568,12.8656785,Bronze
+616,Mariquilla,Springthorpe,Female,30,Financial Services,Mass Customer,Yes,8,811 Melrose Park,2224,NSW,10,237,82.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+617,Leticia,Danovich,Female,84,Entertainment,Mass Customer,Yes,15,2 Logan Avenue,4307,QLD,1,237,80.0,70+,31.0,Inner Regional Australia,1.0,100.0,Silver
+618,Harman,Lynds,Male,4,Financial Services,Mass Customer,Yes,5,538 Gina Way,4105,QLD,8,240,60.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+619,Farra,Matyushkin,Female,18,Manufacturing,High Net Worth,Yes,9,52761 Portage Crossing,3170,VIC,9,241,48.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+620,Sonni,Milligan,Female,73,Retail,Mass Customer,Yes,14,04769 Dahle Plaza,3170,VIC,9,774,34.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+621,Robenia,Monks,Female,94,Manufacturing,Mass Customer,No,5,8 Fieldstone Street,4065,QLD,9,241,62.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+622,Roman,Eastwood,Male,57,Manufacturing,Affluent Customer,Yes,16,8957 Anhalt Alley,3004,VIC,4,241,52.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+623,Solomon,Bruck,Male,29,Health,Mass Customer,No,12,5 High Crossing Junction,4556,QLD,8,244,64.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+624,Gallagher,Bromell,Male,18,Financial Services,Mass Customer,No,17,91634 Badeau Crossing,4556,QLD,8,349,65.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+625,Petr,Westman,Male,5,Property,Mass Customer,No,7,98454 Dapin Park,4556,QLD,7,760,34.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Bronze
+626,Rowen,Sollas,Male,38,Health,Mass Customer,No,5,4 Anzinger Street,4556,QLD,8,817,61.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+627,Andy,Deeming,Male,79,Manufacturing,Affluent Customer,Yes,7,63386 Talisman Hill,4556,QLD,8,832,43.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+628,Krystyna,Airey,Female,2,Financial Services,Mass Customer,Yes,19,75760 Toban Junction,4006,QLD,5,244,71.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+629,Kiley,Grunder,Male,95,Financial Services,Affluent Customer,Yes,1,17393 Colorado Hill,4006,QLD,8,587,27.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Bronze
+630,Katharine,Redbourn,Female,8,Manufacturing,Affluent Customer,Yes,4,178 Waxwing Trail,3134,VIC,10,244,54.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+631,Elianora,Poolton,Female,15,Financial Services,Mass Customer,Yes,21,5 Macpherson Drive,3134,VIC,9,494,77.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+632,Cammy,Stoneham,Female,74,Financial Services,High Net Worth,No,14,8648 Green Alley,4680,QLD,3,244,58.0,50-59,31.0,Inner Regional Australia,0.9803566,98.0356634,Bronze
+633,Cammy,Stoneham,Female,74,Financial Services,High Net Worth,No,14,8648 Green Alley,4680,QLD,3,244,58.0,50-59,32.0,Outer Regional Australia,0.0117343,1.1734276,Bronze
+634,Cammy,Stoneham,Female,74,Financial Services,High Net Worth,No,14,8648 Green Alley,4680,QLD,3,244,58.0,50-59,33.0,Remote Australia,0.0079091,0.790909,Bronze
+635,Heloise,Fairpool,Female,17,Manufacturing,High Net Worth,No,17,005 Loeprich Way,4680,QLD,3,455,45.0,40-49,31.0,Inner Regional Australia,0.9803566,98.0356634,Silver
+636,Heloise,Fairpool,Female,17,Manufacturing,High Net Worth,No,17,005 Loeprich Way,4680,QLD,3,455,45.0,40-49,32.0,Outer Regional Australia,0.0117343,1.1734276,Silver
+637,Heloise,Fairpool,Female,17,Manufacturing,High Net Worth,No,17,005 Loeprich Way,4680,QLD,3,455,45.0,40-49,33.0,Remote Australia,0.0079091,0.790909,Silver
+638,George,Jose,Male,68,Retail,High Net Worth,Yes,20,535 Corben Point,4680,QLD,4,504,61.0,60-69,31.0,Inner Regional Australia,0.9803566,98.0356634,Silver
+639,George,Jose,Male,68,Retail,High Net Worth,Yes,20,535 Corben Point,4680,QLD,4,504,61.0,60-69,32.0,Outer Regional Australia,0.0117343,1.1734276,Silver
+640,George,Jose,Male,68,Retail,High Net Worth,Yes,20,535 Corben Point,4680,QLD,4,504,61.0,60-69,33.0,Remote Australia,0.0079091,0.790909,Silver
+641,Ferdy,Hornung,Male,57,Entertainment,High Net Worth,No,18,0686 Hallows Trail,4506,QLD,3,250,47.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+642,Shadow,Yakutin,Male,85,Health,Affluent Customer,Yes,6,06 Dwight Park,4119,QLD,2,252,55.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+643,Celeste,Fretson,Female,91,IT,Mass Customer,No,9,14709 Portage Avenue,2166,NSW,9,252,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+644,Gardiner,Gypps,Male,91,Retail,Mass Customer,Yes,13,1 Elgar Alley,2166,NSW,9,691,30.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+645,Rafi,Brettelle,Male,89,Health,High Net Worth,No,6,11 Brickson Park Alley,2166,NSW,10,786,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+646,Colas,Gabbitas,Male,98,Retail,High Net Worth,No,20,3094 Elka Place,2166,NSW,9,939,75.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+647,Dyann,Olechnowicz,Female,17,Manufacturing,Mass Customer,No,16,0474 Bowman Hill,3031,VIC,10,252,82.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+648,Delly,Sunman,Female,49,Retail,Mass Customer,No,15,652 Fuller Terrace,3206,VIC,12,252,62.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Platinum
+649,Natividad,Balducci,Female,39,Property,High Net Worth,Yes,10,4472 Washington Junction,3206,VIC,11,310,31.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+650,Malvin,Ryhorovich,Male,37,Financial Services,Mass Customer,No,5,5356 Sugar Plaza,4818,QLD,3,252,60.0,50-59,32.0,Outer Regional Australia,1.0,100.0,Silver
+651,Pansie,Beccero,Female,35,Financial Services,Affluent Customer,Yes,10,315 Hudson Road,4818,QLD,5,782,57.0,50-59,32.0,Outer Regional Australia,1.0,100.0,Bronze
+652,Tanya,Hamberston,Female,45,Financial Services,Mass Customer,Yes,9,7 Schiller Point,4113,QLD,6,259,21.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+653,Caitrin,Critten,Female,45,Manufacturing,Mass Customer,Yes,10,25 Lakeland Point,4113,QLD,7,603,49.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+654,Kaela,Romaines,Female,41,Manufacturing,High Net Worth,No,19,9193 Prairieview Drive,2155,NSW,10,259,50.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+655,Matias,Melloi,Male,61,Retail,Affluent Customer,No,11,1507 Schlimgen Trail,2155,NSW,10,444,45.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+656,Sigismund,Sedger,Male,9,Manufacturing,Affluent Customer,No,7,8069 Sunbrook Way,2155,NSW,10,473,22.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+657,Damian,Renard,Male,43,Retail,Affluent Customer,No,8,28 Prentice Trail,2155,NSW,10,744,45.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+658,Lezlie,Clemits,Female,2,Financial Services,Mass Customer,Yes,15,0504 Nevada Drive,2155,NSW,10,924,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+659,Evonne,Bembridge,Female,9,Retail,Mass Customer,Yes,14,13272 Basil Avenue,3103,VIC,9,259,52.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+660,Corene,Hallgate,Female,26,Financial Services,Mass Customer,Yes,14,2109 Shoshone Court,3103,VIC,12,526,57.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+661,Shannen,Lewin,Female,21,Argiculture,High Net Worth,No,6,29 Aberg Crossing,4210,QLD,6,259,30.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+662,Bogey,Attew,Male,88,IT,Mass Customer,Yes,10,4 Monterey Road,4165,QLD,9,259,29.0,18-29,30.0,Major Cities of Australia,0.992545,99.2544958,Bronze
+663,Bogey,Attew,Male,88,IT,Mass Customer,Yes,10,4 Monterey Road,4165,QLD,9,259,29.0,18-29,31.0,Inner Regional Australia,0.007455,0.7455042,Bronze
+664,Mandi,Adamsson,Female,40,Manufacturing,Mass Customer,Yes,5,25 Westerfield Road,4165,QLD,5,731,29.0,18-29,30.0,Major Cities of Australia,0.992545,99.2544958,Platinum
+665,Mandi,Adamsson,Female,40,Manufacturing,Mass Customer,Yes,5,25 Westerfield Road,4165,QLD,5,731,29.0,18-29,31.0,Inner Regional Australia,0.007455,0.7455042,Platinum
+666,Glory,Chilcott,Female,49,Telecommunications,High Net Worth,No,9,4286 Rowland Circle,4165,QLD,5,741,82.0,70+,30.0,Major Cities of Australia,0.992545,99.2544958,Silver
+667,Glory,Chilcott,Female,49,Telecommunications,High Net Worth,No,9,4286 Rowland Circle,4165,QLD,5,741,82.0,70+,31.0,Inner Regional Australia,0.007455,0.7455042,Silver
+668,Bryon,Goundry,Male,79,Manufacturing,Mass Customer,No,21,005 Kensington Street,4165,QLD,5,804,71.0,70+,30.0,Major Cities of Australia,0.992545,99.2544958,Silver
+669,Bryon,Goundry,Male,79,Manufacturing,Mass Customer,No,21,005 Kensington Street,4165,QLD,5,804,71.0,70+,31.0,Inner Regional Australia,0.007455,0.7455042,Silver
+670,Alex,Patshull,Female,37,Retail,Mass Customer,Yes,13,446 High Crossing Way,4165,QLD,5,974,56.0,50-59,30.0,Major Cities of Australia,0.992545,99.2544958,Bronze
+671,Alex,Patshull,Female,37,Retail,Mass Customer,Yes,13,446 High Crossing Way,4165,QLD,5,974,56.0,50-59,31.0,Inner Regional Australia,0.007455,0.7455042,Bronze
+672,Gerri,Schimann,Female,81,Property,Mass Customer,Yes,18,47 Kim Terrace,2566,NSW,8,259,52.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+673,Zach,Hedman,Male,87,Financial Services,Affluent Customer,Yes,4,62 Spaight Center,2566,NSW,9,320,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+674,Karrah,Howell,Female,63,Manufacturing,Mass Customer,No,17,4897 Melody Road,2566,NSW,9,851,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Platinum
+675,Cletis,Longley,Male,84,Manufacturing,High Net Worth,Yes,1,667 Waxwing Plaza,3199,VIC,7,271,25.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+676,Paquito,Atwood,Male,15,Manufacturing,Affluent Customer,No,9,2 Magdeline Street,3199,VIC,8,291,49.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+677,Sada,Branton,Female,34,Manufacturing,Affluent Customer,No,14,9736 Mitchell Pass,3199,VIC,6,378,47.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+678,Marissa,O'Scandall,Female,17,Financial Services,Affluent Customer,Yes,7,45000 Randy Court,3199,VIC,7,626,48.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+679,Bartram,Di Lucia,Male,70,Argiculture,Mass Customer,Yes,5,83509 Delaware Street,2480,NSW,3,271,61.0,60-69,11.0,Inner Regional Australia,1.0,100.0,Platinum
+680,Tomkin,Bernlin,Male,7,Health,Affluent Customer,Yes,9,0492 Kings Street,2480,NSW,3,475,20.0,18-29,11.0,Inner Regional Australia,1.0,100.0,Silver
+681,Romonda,Hallt,Female,69,Financial Services,Affluent Customer,No,15,703 Ludington Plaza,2480,NSW,4,498,61.0,60-69,11.0,Inner Regional Australia,1.0,100.0,Platinum
+682,Son,Varney,Male,75,Property,Mass Customer,Yes,10,189 Bayside Court,2480,NSW,7,725,28.0,18-29,11.0,Inner Regional Australia,1.0,100.0,Silver
+683,Theresa,Cowper,Female,99,Manufacturing,Mass Customer,No,3,88 Mifflin Pass,2529,NSW,10,271,45.0,40-49,10.0,Major Cities of Australia,0.9920412,99.2041214,Platinum
+684,Theresa,Cowper,Female,99,Manufacturing,Mass Customer,No,3,88 Mifflin Pass,2529,NSW,10,271,45.0,40-49,11.0,Inner Regional Australia,0.0079588,0.7958786,Platinum
+685,Dahlia,Shovlar,Female,90,Financial Services,Affluent Customer,Yes,7,655 Glendale Trail,3976,VIC,3,274,56.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+686,Caritta,Compston,Female,86,Manufacturing,Mass Customer,Yes,17,48971 Marquette Point,3976,VIC,5,653,63.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+687,Timi,Duny,Female,70,Telecommunications,High Net Worth,No,6,39192 Glendale Alley,2092,NSW,12,274,69.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+688,Toma,Woolforde,Female,67,Financial Services,Mass Customer,Yes,5,76 Melody Avenue,2092,NSW,12,830,30.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+689,Dominick,Asher,Male,50,Health,Affluent Customer,Yes,5,7307 Lake View Crossing,3804,VIC,9,278,59.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+690,Raye,Roo,Female,64,Financial Services,Mass Customer,Yes,16,1199 Express Plaza,3046,VIC,9,278,46.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+691,Juliann,Siemantel,Female,86,Entertainment,Mass Customer,No,22,28 Parkside Park,3046,VIC,8,760,74.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+692,Dorolice,Osmon,Female,46,Financial Services,Affluent Customer,No,15,602 Clove Center,3046,VIC,6,810,61.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Platinum
+693,Becka,Hacon,Female,81,Financial Services,Affluent Customer,No,17,1 Namekagon Point,3791,VIC,9,278,56.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+694,Cirillo,Frossell,Male,7,Financial Services,Mass Customer,No,6,602 Meadow Vale Lane,2111,NSW,12,278,53.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+695,Katy,Crooke,Female,0,Health,Mass Customer,No,13,67081 Burrows Center,2111,NSW,12,546,44.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+696,Judie,Pirkis,Female,2,Financial Services,Affluent Customer,Yes,4,6 Loftsgordon Pass,2111,NSW,11,583,26.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+697,Dexter,Shutle,Male,81,Financial Services,Mass Customer,No,17,07 Dayton Court,4005,QLD,7,284,63.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+698,Konstanze,Hovie,Female,88,Health,Mass Customer,No,11,351 Sunfield Lane,4370,QLD,7,285,55.0,50-59,31.0,Inner Regional Australia,0.9842681,98.426814,Bronze
+699,Konstanze,Hovie,Female,88,Health,Mass Customer,No,11,351 Sunfield Lane,4370,QLD,7,285,55.0,50-59,32.0,Outer Regional Australia,0.0157319,1.573186,Bronze
+700,Bink,Bentje,Male,3,Financial Services,High Net Worth,Yes,19,8427 Moulton Place,2680,NSW,3,285,64.0,60-69,12.0,Outer Regional Australia,1.0,100.0,Silver
+701,Taber,Szymon,Male,70,Argiculture,Affluent Customer,No,13,984 Del Sol Junction,4659,QLD,8,287,74.0,70+,31.0,Inner Regional Australia,1.0,100.0,Silver
+702,Debbi,Dannatt,Female,2,Financial Services,Affluent Customer,No,6,3 Pepper Wood Hill,4218,QLD,10,287,63.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+703,Alon,Borsi,Male,17,Financial Services,Affluent Customer,No,9,770 Crest Line Parkway,4218,QLD,3,329,22.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+704,Giulia,Hazart,Female,57,Financial Services,Mass Customer,No,11,81 Donald Parkway,4218,QLD,11,371,43.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Bronze
+705,Giana,Staresmeare,Female,96,Retail,Affluent Customer,Yes,9,8737 Scoville Center,2770,NSW,7,289,45.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+706,Huberto,Mollatt,Male,82,Financial Services,Mass Customer,Yes,14,31121 Pierstorff Center,2770,NSW,7,483,60.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+707,Davie,Blay,Male,94,Financial Services,Mass Customer,No,8,7021 5th Alley,2770,NSW,7,808,36.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+708,Reinald,Bembrigg,Male,54,Financial Services,Affluent Customer,No,10,858 Portage Hill,2770,NSW,7,862,68.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+709,Marie-jeanne,Breawood,Female,37,Health,High Net Worth,No,8,6 Prairieview Pass,2770,NSW,6,871,68.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+710,Inglis,Pickaver,Male,33,Telecommunications,Affluent Customer,No,1,14067 Armistice Plaza,2770,NSW,8,963,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+711,Morton,Petkens,Male,50,Manufacturing,High Net Worth,Yes,10,385 Montana Place,3012,VIC,1,289,31.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Platinum
+712,Karoly,Burgoine,Male,57,Health,High Net Worth,Yes,21,18 Morning Circle,3012,VIC,2,865,74.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+713,Vittoria,Whitney,Female,95,Financial Services,High Net Worth,No,12,3 Surrey Court,2019,NSW,11,291,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Platinum
+714,Estevan,Eastment,Male,54,Health,Mass Customer,Yes,21,61926 Tomscot Hill,2019,NSW,8,396,79.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+715,Calhoun,Mussington,Male,98,Health,Mass Customer,No,12,176 Fallview Plaza,2019,NSW,9,782,29.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+716,Dimitri,Tribbeck,Male,89,Financial Services,Affluent Customer,No,20,93235 Hoard Trail,3165,VIC,6,291,63.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+717,Shelli,Bartholomaus,Female,88,Health,Mass Customer,Yes,6,356 Carberry Avenue,3082,VIC,7,291,58.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+718,Darwin,Bumpas,Male,24,Health,Affluent Customer,Yes,18,6812 Gina Point,3082,VIC,7,856,43.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+719,Biddie,Gorce,Female,68,Financial Services,Mass Customer,Yes,5,2116 Continental Terrace,2795,NSW,7,295,34.0,30-39,11.0,Inner Regional Australia,0.9780248,97.8024822,Silver
+720,Biddie,Gorce,Female,68,Financial Services,Mass Customer,Yes,5,2116 Continental Terrace,2795,NSW,7,295,34.0,30-39,12.0,Outer Regional Australia,0.0219752,2.1975178,Silver
+721,Rupert,Marrow,Male,73,Property,High Net Worth,No,19,2 7th Way,2760,NSW,8,297,51.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+722,Don,Spratling,Male,82,Property,Affluent Customer,Yes,7,078 Erie Point,2760,NSW,10,963,53.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+723,Zollie,Crinidge,Male,39,Retail,Mass Customer,Yes,10,0 Esker Avenue,4019,QLD,5,297,34.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Bronze
+724,Kelcie,Kingaby,Female,54,IT,Mass Customer,Yes,6,0 Summit Center,4019,QLD,4,893,21.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+725,Daisy,Pollen,Female,97,Financial Services,Mass Customer,No,7,61825 Debs Terrace,3167,VIC,9,302,28.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+726,Linette,Boman,Female,56,Financial Services,Affluent Customer,No,11,7 Michigan Hill,2076,NSW,11,304,72.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+727,Liane,Poizer,Female,59,Property,High Net Worth,No,13,390 Express Plaza,2076,NSW,11,495,69.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Platinum
+728,Brynna,Tivers,Female,81,Financial Services,Mass Customer,No,6,0 Mayfield Parkway,4272,QLD,7,304,47.0,40-49,30.0,Major Cities of Australia,0.9801307,98.0130678,Silver
+729,Brynna,Tivers,Female,81,Financial Services,Mass Customer,No,6,0 Mayfield Parkway,4272,QLD,7,304,47.0,40-49,31.0,Inner Regional Australia,0.0198693,1.9869322,Silver
+730,Art,Carolan,Male,1,Financial Services,Affluent Customer,Yes,11,57903 Hanson Parkway,2570,NSW,9,304,67.0,60-69,10.0,Major Cities of Australia,0.834818,83.4817967,Silver
+731,Art,Carolan,Male,1,Financial Services,Affluent Customer,Yes,11,57903 Hanson Parkway,2570,NSW,9,304,67.0,60-69,11.0,Inner Regional Australia,0.165182,16.5182033,Silver
+732,Karol,Salthouse,Female,53,Financial Services,Mass Customer,Yes,18,10236 Mifflin Avenue,2570,NSW,8,568,53.0,50-59,10.0,Major Cities of Australia,0.834818,83.4817967,Platinum
+733,Karol,Salthouse,Female,53,Financial Services,Mass Customer,Yes,18,10236 Mifflin Avenue,2570,NSW,8,568,53.0,50-59,11.0,Inner Regional Australia,0.165182,16.5182033,Platinum
+734,Randall,Mason,Male,95,Health,Mass Customer,Yes,12,83497 Memorial Plaza,2570,NSW,11,870,47.0,40-49,10.0,Major Cities of Australia,0.834818,83.4817967,Silver
+735,Randall,Mason,Male,95,Health,Mass Customer,Yes,12,83497 Memorial Plaza,2570,NSW,11,870,47.0,40-49,11.0,Inner Regional Australia,0.165182,16.5182033,Silver
+736,Sonia,Dunstall,Female,0,Financial Services,Mass Customer,No,10,99 Park Meadow Hill,2570,NSW,9,960,46.0,40-49,10.0,Major Cities of Australia,0.834818,83.4817967,Silver
+737,Sonia,Dunstall,Female,0,Financial Services,Mass Customer,No,10,99 Park Meadow Hill,2570,NSW,9,960,46.0,40-49,11.0,Inner Regional Australia,0.165182,16.5182033,Silver
+738,Alfi,Sabbins,Female,63,Financial Services,High Net Worth,Yes,18,763 Ridgeway Place,2344,NSW,3,304,62.0,60-69,11.0,Inner Regional Australia,0.6993464,69.9346388,Silver
+739,Alfi,Sabbins,Female,63,Financial Services,High Net Worth,Yes,18,763 Ridgeway Place,2344,NSW,3,304,62.0,60-69,12.0,Outer Regional Australia,0.3006536,30.0653612,Silver
+740,Seamus,Cains,Male,61,Manufacturing,High Net Worth,No,7,4882 Dakota Center,2305,NSW,8,312,32.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+741,Julietta,Setchfield,Female,73,Financial Services,High Net Worth,Yes,3,4 Manufacturers Crossing,4170,QLD,8,312,30.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+742,Maddalena,Hencke,Female,61,Financial Services,High Net Worth,No,22,64037 Swallow Crossing,4170,QLD,5,810,69.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+743,Jeno,Strafford,Male,67,Financial Services,High Net Worth,No,7,891 Sachtjen Hill,4170,QLD,9,879,80.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+744,Rhodie,Gaskall,Female,83,Financial Services,Mass Customer,Yes,9,251 Pierstorff Alley,4170,QLD,9,956,58.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+745,Roch,Symson,Female,96,Manufacturing,High Net Worth,No,18,016 Westport Park,3073,VIC,9,312,43.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+746,Callean,Wass,Male,65,Financial Services,Affluent Customer,No,14,0593 Stoughton Center,3073,VIC,8,820,33.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Bronze
+747,Eugenie,Brinson,Female,79,Entertainment,Mass Customer,Yes,17,7109 Grayhawk Avenue,3073,VIC,6,936,58.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+748,Audry,Fann,Female,3,Health,Mass Customer,Yes,15,19 Debs Parkway,3029,VIC,6,312,64.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+749,Ebony,Conrad,Female,8,Financial Services,Mass Customer,Yes,16,990 Hoffman Avenue,3029,VIC,7,334,22.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+750,Skipp,Swales,Male,15,Entertainment,High Net Worth,Yes,22,76 Green Ridge Drive,3029,VIC,7,436,48.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+751,Charmain,Styles,Female,49,Property,High Net Worth,Yes,18,423 Holy Cross Lane,3029,VIC,7,574,57.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+752,Jamal,Dudgeon,Male,83,Financial Services,Mass Customer,No,7,2712 Namekagon Crossing,3029,VIC,5,591,57.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+753,Xenia,Maleck,Female,41,Telecommunications,Mass Customer,No,12,5 Southridge Hill,3029,VIC,7,666,62.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+754,Kathe,Oller,Female,47,Manufacturing,Mass Customer,Yes,5,817 Loftsgordon Road,3029,VIC,4,926,62.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+755,Clari,Voas,Female,74,Health,Affluent Customer,Yes,14,4110 Mifflin Center,2127,NSW,8,312,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+756,Cheston,Hritzko,Male,70,Manufacturing,Mass Customer,Yes,19,3 Service Center,2127,NSW,9,420,76.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+757,Aldin,Newsome,Male,24,Financial Services,Mass Customer,No,17,058 Morningstar Center,2127,NSW,9,648,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+758,Honey,Gosdin,Female,0,Property,Mass Customer,No,17,066 Warner Trail,2582,NSW,9,322,40.0,30-39,11.0,Inner Regional Australia,0.9926401,99.2640077,Silver
+759,Honey,Gosdin,Female,0,Property,Mass Customer,No,17,066 Warner Trail,2582,NSW,9,322,40.0,30-39,12.0,Outer Regional Australia,0.0073599,0.7359923,Silver
+760,Sonny,McCart,Male,35,Manufacturing,High Net Worth,No,9,52752 Barby Hill,3020,VIC,9,324,29.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+761,Rochette,Haddacks,Female,44,Retail,Affluent Customer,Yes,13,822 Di Loreto Junction,3020,VIC,8,591,25.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Platinum
+762,Wrennie,Dwelly,Female,23,Manufacturing,Mass Customer,No,18,179 Carey Terrace,3020,VIC,9,674,82.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+763,Deirdre,Burgoine,Female,14,Health,High Net Worth,No,7,0 Stoughton Park,3000,VIC,1,326,67.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+764,Haleigh,Borsi,Female,17,Financial Services,Mass Customer,Yes,18,49 Jana Point,4503,QLD,4,326,69.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+765,Lissa,Gawn,Female,86,Health,Mass Customer,Yes,17,14183 Iowa Center,4503,QLD,5,632,59.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+766,Shellysheldon,Bichard,Male,96,Financial Services,Mass Customer,Yes,16,7199 Springview Parkway,4503,QLD,5,634,68.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+767,Aldridge,Poskitt,Male,84,Financial Services,Mass Customer,No,12,7 Fordem Point,4161,QLD,5,326,40.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Silver
+768,Carry,Costi,Female,32,Property,Mass Customer,No,11,5316 Farwell Hill,2800,NSW,4,329,49.0,40-49,11.0,Inner Regional Australia,0.9868065,98.6806451,Silver
+769,Carry,Costi,Female,32,Property,Mass Customer,No,11,5316 Farwell Hill,2800,NSW,4,329,49.0,40-49,12.0,Outer Regional Australia,0.0131935,1.3193549,Silver
+770,Ajay,Worham,Female,80,Manufacturing,Mass Customer,Yes,12,5 Homewood Road,2800,NSW,6,606,42.0,40-49,11.0,Inner Regional Australia,0.9868065,98.6806451,Silver
+771,Ajay,Worham,Female,80,Manufacturing,Mass Customer,Yes,12,5 Homewood Road,2800,NSW,6,606,42.0,40-49,12.0,Outer Regional Australia,0.0131935,1.3193549,Silver
+772,Nil,Shirer,Male,64,Entertainment,Mass Customer,Yes,7,4793 Mcbride Pass,3013,VIC,8,329,24.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Bronze
+773,Mel,Rochford,Female,11,Retail,Mass Customer,Yes,4,56334 Vera Crossing,3013,VIC,9,774,32.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+774,Diane,Furman,Female,67,Manufacturing,Affluent Customer,Yes,13,6660 Riverside Circle,3013,VIC,9,930,28.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Bronze
+775,Erhard,O'Moylane,Male,33,Retail,Affluent Customer,Yes,9,01124 Dottie Lane,3630,VIC,2,334,43.0,40-49,21.0,Inner Regional Australia,1.0,100.0,Platinum
+776,Ariel,McCloid,Male,4,Financial Services,High Net Worth,Yes,6,99 Quincy Parkway,3630,VIC,1,486,28.0,18-29,21.0,Inner Regional Australia,1.0,100.0,Silver
+777,Lincoln,Boler,Male,53,Financial Services,Affluent Customer,No,14,5 Summer Ridge Court,3207,VIC,8,338,46.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+778,Reinold,Natt,Male,16,Financial Services,High Net Worth,Yes,8,70 Evergreen Hill,3207,VIC,8,937,57.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+779,Kylynn,Drowsfield,Female,80,Financial Services,High Net Worth,Yes,7,5 Trailsway Avenue,3059,VIC,9,338,46.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Gold
+780,Nicole,Ruckhard,Female,93,Health,Affluent Customer,Yes,17,23694 Leroy Place,4560,QLD,3,341,52.0,50-59,30.0,Major Cities of Australia,0.7793143,77.9314259,Bronze
+781,Nicole,Ruckhard,Female,93,Health,Affluent Customer,Yes,17,23694 Leroy Place,4560,QLD,3,341,52.0,50-59,31.0,Inner Regional Australia,0.2206857,22.0685741,Bronze
+782,Celestina,Lethardy,Female,38,IT,Mass Customer,Yes,11,53 Memorial Street,3163,VIC,10,341,53.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+783,Garreth,Minett,Male,93,Financial Services,Affluent Customer,Yes,10,21667 Randy Crossing,3163,VIC,7,604,60.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+784,Orly,Nesbitt,Female,6,Manufacturing,High Net Worth,Yes,14,7 Beilfuss Road,3163,VIC,6,657,36.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+785,Keelby,Sudlow,Male,96,Manufacturing,High Net Worth,No,12,8042 Cherokee Court,3163,VIC,8,820,33.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+786,Egor,Mariette,Male,42,Financial Services,Affluent Customer,No,3,79 Mockingbird Plaza,3163,VIC,7,862,41.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+787,Rodolphe,Glenton,Male,88,Financial Services,Affluent Customer,No,11,4787 Golf Terrace,3163,VIC,7,871,47.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Bronze
+788,Diego,Van den Broek,Male,17,Manufacturing,Affluent Customer,Yes,13,8 Schlimgen Drive,4055,QLD,7,345,57.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Gold
+789,Wilbert,O'Loughnan,Male,14,Financial Services,Mass Customer,Yes,6,22580 Doe Crossing Drive,4055,QLD,9,708,38.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Silver
+790,Cissiee,Pollington,Female,43,Property,Mass Customer,Yes,7,69710 Northfield Center,2256,NSW,9,345,80.0,70+,10.0,Major Cities of Australia,0.9957887,99.5788656,Silver
+791,Cissiee,Pollington,Female,43,Property,Mass Customer,Yes,7,69710 Northfield Center,2256,NSW,9,345,80.0,70+,11.0,Inner Regional Australia,0.0042113,0.4211344,Platinum
+792,Cherye,Stanfield,Female,0,Manufacturing,Affluent Customer,No,13,56766 Mariners Cove Place,2256,NSW,9,797,40.0,30-39,10.0,Major Cities of Australia,0.9957887,99.5788656,Silver
+793,Cherye,Stanfield,Female,0,Manufacturing,Affluent Customer,No,13,56766 Mariners Cove Place,2256,NSW,9,797,40.0,30-39,11.0,Inner Regional Australia,0.0042113,0.4211344,Silver
+794,Eddy,Sturch,Male,22,Financial Services,High Net Worth,Yes,17,1 Kinsman Crossing,4158,QLD,6,345,61.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+795,Sandor,Stirland,Male,67,Manufacturing,High Net Worth,No,12,48578 Farmco Park,3235,VIC,10,349,40.0,30-39,21.0,Inner Regional Australia,1.0,100.0,Bronze
+796,Delinda,Ech,Female,74,Argiculture,Mass Customer,Yes,17,28 Golf View Terrace,3101,VIC,10,349,77.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+797,Amara,Clow,Female,47,Financial Services,Mass Customer,Yes,13,99376 Namekagon Street,3101,VIC,12,797,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+798,Hussein,Tapenden,Male,19,Health,Affluent Customer,Yes,12,0197 Sachs Avenue,2747,NSW,8,349,68.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Platinum
+799,Marc,Keunemann,Male,57,Health,Affluent Customer,Yes,14,283 Golf View Lane,2747,NSW,8,708,49.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+800,Alick,Baise,Male,62,Health,Mass Customer,Yes,1,096 Gateway Road,2747,NSW,8,851,23.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+801,Kaylyn,Jakaway,Female,45,Health,Affluent Customer,No,10,67 Heath Circle,2290,NSW,8,356,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+802,Thaddus,Joder,Male,31,Manufacturing,Mass Customer,No,7,27185 Fisk Drive,2290,NSW,8,698,64.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+803,Brynn,Goodyear,Female,30,Health,Mass Customer,Yes,11,3 Sheridan Lane,3075,VIC,7,356,77.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+804,Afton,Andrassy,Female,78,Retail,Mass Customer,No,7,220 Cody Alley,3075,VIC,8,956,23.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+805,Otis,Borsi,Male,59,Manufacturing,Affluent Customer,No,12,04 Oakridge Plaza,2075,NSW,11,358,51.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+806,Beverlee,Querree,Female,42,Financial Services,High Net Worth,Yes,12,891 Ohio Terrace,2075,NSW,12,549,30.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+807,Tamas,Swatman,U,65,Entertainment,Affluent Customer,No,5,78 Clarendon Drive,4551,QLD,8,358,80.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+808,Debbie,Tillman,Female,3,Manufacturing,High Net Worth,Yes,13,527 Jay Trail,4551,QLD,8,582,31.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Bronze
+809,Allsun,Biner,Female,67,Financial Services,Mass Customer,Yes,10,9 Walton Way,2641,NSW,2,361,24.0,18-29,11.0,Inner Regional Australia,1.0,100.0,Silver
+810,Kenneth,Elleyne,Male,13,Financial Services,Mass Customer,No,13,27429 Dottie Plaza,3145,VIC,11,361,64.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+811,Clotilda,Southers,Female,62,Financial Services,Mass Customer,Yes,15,42 Donald Hill,2323,NSW,4,361,22.0,18-29,10.0,Major Cities of Australia,0.9431564,94.3156414,Silver
+812,Clotilda,Southers,Female,62,Financial Services,Mass Customer,Yes,15,42 Donald Hill,2323,NSW,4,361,22.0,18-29,11.0,Inner Regional Australia,0.0568436,5.6843586,Silver
+813,Dallas,Lavalde,Female,18,Financial Services,Mass Customer,No,12,16898 Donald Plaza,2323,NSW,4,530,23.0,18-29,10.0,Major Cities of Australia,0.9431564,94.3156414,Bronze
+814,Dallas,Lavalde,Female,18,Financial Services,Mass Customer,No,12,16898 Donald Plaza,2323,NSW,4,530,23.0,18-29,11.0,Inner Regional Australia,0.0568436,5.6843586,Bronze
+815,Lanie,Cobbold,Male,57,Financial Services,Mass Customer,Yes,9,936 Porter Lane,2323,NSW,5,595,43.0,40-49,10.0,Major Cities of Australia,0.9431564,94.3156414,Bronze
+816,Lanie,Cobbold,Male,57,Financial Services,Mass Customer,Yes,9,936 Porter Lane,2323,NSW,5,595,43.0,40-49,11.0,Inner Regional Australia,0.0568436,5.6843586,Bronze
+817,Arman,Yakubov,Male,68,Property,High Net Worth,Yes,17,11121 Jackson Crossing,2323,NSW,4,691,44.0,40-49,10.0,Major Cities of Australia,0.9431564,94.3156414,Platinum
+818,Arman,Yakubov,Male,68,Property,High Net Worth,Yes,17,11121 Jackson Crossing,2323,NSW,4,691,44.0,40-49,11.0,Inner Regional Australia,0.0568436,5.6843586,Platinum
+819,Geoff,Gwillym,Male,89,Health,Affluent Customer,No,8,1 Eliot Plaza,2323,NSW,4,760,23.0,18-29,10.0,Major Cities of Australia,0.9431564,94.3156414,Bronze
+820,Geoff,Gwillym,Male,89,Health,Affluent Customer,No,8,1 Eliot Plaza,2323,NSW,4,760,23.0,18-29,11.0,Inner Regional Australia,0.0568436,5.6843586,Bronze
+821,Augustus,Bourley,Male,60,Health,Affluent Customer,No,18,3 Hoepker Parkway,4152,QLD,10,366,40.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Bronze
+822,Suzy,Trounson,Female,13,Financial Services,Mass Customer,Yes,20,0627 Golf Center,4152,QLD,9,420,74.0,70+,30.0,Major Cities of Australia,1.0,100.0,Bronze
+823,Daisi,Tinwell,Female,84,Financial Services,Mass Customer,No,11,19561 Express Street,2777,NSW,8,366,50.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+824,Launce,Gale,Male,86,Financial Services,Mass Customer,No,21,4 Fordem Avenue,2777,NSW,9,913,83.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+825,Gerik,Woodroof,Male,18,Financial Services,High Net Worth,Yes,9,41 Kropf Road,3175,VIC,7,366,62.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+826,Leisha,McConway,Female,3,Financial Services,Mass Customer,Yes,13,95 Del Mar Court,3175,VIC,8,632,46.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+827,Madella,Marquiss,Female,51,Financial Services,Affluent Customer,No,18,0 Larry Park,3175,VIC,8,644,45.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+828,Arty,Fontelles,Male,50,IT,High Net Worth,No,4,7872 South Junction,3197,VIC,4,370,27.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Platinum
+829,Clemmie,Bartoszewicz,Female,87,Financial Services,Mass Customer,No,8,727 Morrow Parkway,3197,VIC,9,865,63.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+830,Whit,Emloch,Male,30,Health,Mass Customer,Yes,6,105 Carpenter Court,2220,NSW,9,372,58.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+831,Ian,Rabat,Male,54,Financial Services,Affluent Customer,No,11,3 Loeprich Point,3204,VIC,11,372,46.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+832,Ashleigh,Borsi,Female,46,Financial Services,Mass Customer,Yes,6,922 Utah Avenue,3204,VIC,12,780,25.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+833,Reginald,Jermy,Male,7,Financial Services,High Net Worth,Yes,20,540 Katie Street,4128,QLD,8,375,61.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+834,Ardis,Taree,Female,97,Manufacturing,Affluent Customer,Yes,5,0 Emmet Trail,4128,QLD,9,625,61.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+835,Julita,Prene,Female,14,Manufacturing,High Net Worth,Yes,13,5 Myrtle Junction,4128,QLD,2,913,42.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+836,Link,Gorini,Male,60,IT,High Net Worth,No,10,9495 Jenna Way,4600,QLD,2,375,47.0,40-49,31.0,Inner Regional Australia,0.0327314,3.2731372,Bronze
+837,Link,Gorini,Male,60,IT,High Net Worth,No,10,9495 Jenna Way,4600,QLD,2,375,47.0,40-49,32.0,Outer Regional Australia,0.9672686,96.7268628,Bronze
+838,Harriet,Brattan,Female,81,Financial Services,High Net Worth,No,2,66 Ruskin Parkway,3579,VIC,1,378,35.0,30-39,22.0,Outer Regional Australia,1.0,100.0,Gold
+839,Gabrila,Toopin,Female,7,Manufacturing,Mass Customer,No,12,1914 Oakridge Place,2456,NSW,6,378,59.0,50-59,11.0,Inner Regional Australia,0.9986001,99.8600125,Platinum
+840,Gabrila,Toopin,Female,7,Manufacturing,Mass Customer,No,12,1914 Oakridge Place,2456,NSW,6,378,59.0,50-59,12.0,Outer Regional Australia,0.0013999,0.1399875,Platinum
+841,Arty,Strudwick,Male,85,Health,Mass Customer,Yes,8,62 Melrose Court,2211,NSW,10,382,58.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+842,Melosa,McOwan,Female,25,Financial Services,Mass Customer,No,12,900 Victoria Way,2211,NSW,9,843,20.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+843,Alexa,Dillet,Female,65,Entertainment,Affluent Customer,No,17,84650 Novick Point,2261,NSW,7,382,77.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+844,Jacqui,Devey,Female,79,Financial Services,High Net Worth,Yes,13,656 Kennedy Crossing,2261,NSW,8,555,26.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+845,Adria,Van den Velde,Female,39,Manufacturing,Affluent Customer,Yes,9,6030 Becker Plaza,2261,NSW,7,810,43.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+846,Palmer,Heaven,Male,82,Financial Services,Affluent Customer,Yes,9,5 Hoard Parkway,3754,VIC,6,382,26.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+847,Porter,Buckenhill,Male,46,Manufacturing,High Net Worth,Yes,9,376 Talmadge Street,4124,QLD,7,386,67.0,60-69,30.0,Major Cities of Australia,0.9960373,99.6037266,Bronze
+848,Porter,Buckenhill,Male,46,Manufacturing,High Net Worth,Yes,9,376 Talmadge Street,4124,QLD,7,386,67.0,60-69,31.0,Inner Regional Australia,0.0039627,0.3962734,Bronze
+849,Kizzee,Kemston,Female,11,Health,Mass Customer,No,13,5979 Green Ridge Way,2767,NSW,8,386,60.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+850,Giffie,Offill,Male,51,Telecommunications,Affluent Customer,No,5,89 Riverside Court,4740,QLD,3,386,29.0,18-29,31.0,Inner Regional Australia,0.9136219,91.3621942,Platinum
+851,Giffie,Offill,Male,51,Telecommunications,Affluent Customer,No,5,89 Riverside Court,4740,QLD,3,386,29.0,18-29,32.0,Outer Regional Australia,0.0861659,8.6165928,Platinum
+852,Giffie,Offill,Male,51,Telecommunications,Affluent Customer,No,5,89 Riverside Court,4740,QLD,3,386,29.0,18-29,34.0,Very Remote Australia,0.0002121,0.0212129,Bronze
+853,Eleonora,Wiszniewski,Female,49,Financial Services,Affluent Customer,No,9,6227 Quincy Terrace,4740,QLD,2,788,41.0,40-49,31.0,Inner Regional Australia,0.9136219,91.3621942,Silver
+854,Eleonora,Wiszniewski,Female,49,Financial Services,Affluent Customer,No,9,6227 Quincy Terrace,4740,QLD,2,788,41.0,40-49,32.0,Outer Regional Australia,0.0861659,8.6165928,Bronze
+855,Eleonora,Wiszniewski,Female,49,Financial Services,Affluent Customer,No,9,6227 Quincy Terrace,4740,QLD,2,788,41.0,40-49,34.0,Very Remote Australia,0.0002121,0.0212129,Silver
+856,Tamar,Windmill,Female,92,Manufacturing,Affluent Customer,No,10,4669 Troy Place,2207,NSW,10,386,82.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+857,Kipp,Stockport,Male,36,Retail,Mass Customer,Yes,6,02 Roth Drive,2022,NSW,11,386,39.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Bronze
+858,Packston,Wackett,Male,10,Financial Services,Mass Customer,No,19,7 Northridge Court,3192,VIC,9,386,71.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+859,Nora,Anselm,Female,84,Entertainment,High Net Worth,Yes,15,2 Emmet Parkway,4342,QLD,5,396,61.0,60-69,31.0,Inner Regional Australia,1.0,100.0,Silver
+860,Bastien,Ibbeson,Male,53,IT,Mass Customer,No,12,43094 Kedzie Pass,2487,NSW,5,401,45.0,40-49,10.0,Major Cities of Australia,0.9796343,97.9634332,Platinum
+861,Bastien,Ibbeson,Male,53,IT,Mass Customer,No,12,43094 Kedzie Pass,2487,NSW,5,401,45.0,40-49,11.0,Inner Regional Australia,0.0203657,2.0365668,Platinum
+862,Otha,Langworthy,Female,91,Financial Services,Mass Customer,Yes,13,678 Lyons Trail,3130,VIC,10,401,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+863,Ted,Izacenko,Male,3,Entertainment,High Net Worth,No,9,2 Shasta Place,3130,VIC,10,668,62.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Bronze
+864,Leese,Huckleby,Female,67,Manufacturing,High Net Worth,Yes,16,73 Riverside Trail,3777,VIC,7,405,44.0,40-49,21.0,Inner Regional Australia,1.0,100.0,Platinum
+865,Corinna,Beretta,Female,24,Health,High Net Worth,No,12,72 Mccormick Circle,3023,VIC,7,408,26.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Gold
+866,Pancho,Edis,Male,1,Financial Services,Mass Customer,No,13,64467 Pankratz Pass,3023,VIC,7,899,51.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Platinum
+867,Laurie,Odlin,Female,75,Health,High Net Worth,No,10,15669 Arizona Trail,3194,VIC,10,409,39.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Platinum
+868,Marcelia,Copins,Female,81,Financial Services,Mass Customer,Yes,21,330 Melby Terrace,2259,NSW,8,409,75.0,70+,10.0,Major Cities of Australia,0.9664907,96.6490681,Bronze
+869,Marcelia,Copins,Female,81,Financial Services,Mass Customer,Yes,21,330 Melby Terrace,2259,NSW,8,409,75.0,70+,11.0,Inner Regional Australia,0.0335093,3.3509319,Bronze
+870,Kippar,Whyatt,Male,13,Property,Mass Customer,No,10,264 Valley Edge Pass,2259,NSW,7,666,62.0,60-69,10.0,Major Cities of Australia,0.9664907,96.6490681,Silver
+871,Kippar,Whyatt,Male,13,Property,Mass Customer,No,10,264 Valley Edge Pass,2259,NSW,7,666,62.0,60-69,11.0,Inner Regional Australia,0.0335093,3.3509319,Silver
+872,Ginger,Borsi,Male,94,Financial Services,Mass Customer,No,11,160 Fremont Point,2259,NSW,8,840,83.0,70+,10.0,Major Cities of Australia,0.9664907,96.6490681,Bronze
+873,Ginger,Borsi,Male,94,Financial Services,Mass Customer,No,11,160 Fremont Point,2259,NSW,8,840,83.0,70+,11.0,Inner Regional Australia,0.0335093,3.3509319,Bronze
+874,Adriena,Giffin,Female,27,Argiculture,Affluent Customer,Yes,5,1 Manitowish Court,2259,NSW,9,888,64.0,60-69,10.0,Major Cities of Australia,0.9664907,96.6490681,Bronze
+875,Adriena,Giffin,Female,27,Argiculture,Affluent Customer,Yes,5,1 Manitowish Court,2259,NSW,9,888,64.0,60-69,11.0,Inner Regional Australia,0.0335093,3.3509319,Bronze
+876,Tanner,Terlinden,Male,84,Manufacturing,Mass Customer,No,14,2637 Monument Trail,3106,VIC,11,409,26.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+877,Hilliard,Dullard,Male,65,Manufacturing,Mass Customer,No,17,37919 Old Gate Park,2163,NSW,8,409,67.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Platinum
+878,Wyn,Meach,Male,37,Manufacturing,Mass Customer,No,9,79 Armistice Junction,2765,NSW,9,415,83.0,70+,10.0,Major Cities of Australia,0.9225362,92.2536205,Silver
+879,Wyn,Meach,Male,37,Manufacturing,Mass Customer,No,9,79 Armistice Junction,2765,NSW,9,415,83.0,70+,11.0,Inner Regional Australia,0.0774638,7.7463795,Silver
+880,Freddi,Litherborough,Female,46,Financial Services,Mass Customer,No,7,7873 Meadow Vale Plaza,2460,NSW,3,418,33.0,30-39,11.0,Inner Regional Australia,0.7896504,78.9650394,Bronze
+881,Freddi,Litherborough,Female,46,Financial Services,Mass Customer,No,7,7873 Meadow Vale Plaza,2460,NSW,3,418,33.0,30-39,12.0,Outer Regional Australia,0.2103496,21.0349606,Bronze
+882,Lek,Pimblett,Male,88,Financial Services,Mass Customer,Yes,6,97 Merrick Center,2460,NSW,2,620,66.0,60-69,11.0,Inner Regional Australia,0.7896504,78.9650394,Silver
+883,Lek,Pimblett,Male,88,Financial Services,Mass Customer,Yes,6,97 Merrick Center,2460,NSW,2,620,66.0,60-69,12.0,Outer Regional Australia,0.2103496,21.0349606,Silver
+884,Salomon,Perkins,Male,76,Financial Services,Affluent Customer,Yes,1,45 Banding Hill,2009,NSW,10,419,24.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+885,Clevey,Aisthorpe,Male,27,Financial Services,Mass Customer,Yes,8,0 Veith Way,2009,NSW,9,502,45.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+886,Sherill,Borsi,Female,33,Financial Services,Mass Customer,No,3,53 Moulton Avenue,2880,NSW,1,420,30.0,18-29,12.0,Outer Regional Australia,0.9700061,97.0006077,Platinum
+887,Sherill,Borsi,Female,33,Financial Services,Mass Customer,No,3,53 Moulton Avenue,2880,NSW,1,420,30.0,18-29,13.0,Remote Australia,0.0189175,1.8917532,Platinum
+888,Sherill,Borsi,Female,33,Financial Services,Mass Customer,No,3,53 Moulton Avenue,2880,NSW,1,420,30.0,18-29,14.0,Very Remote Australia,0.0110764,1.1076391,Platinum
+889,Selle,Casper,Female,98,Health,Mass Customer,Yes,10,34 Jay Hill,2880,NSW,1,684,43.0,40-49,12.0,Outer Regional Australia,0.9700061,97.0006077,Silver
+890,Selle,Casper,Female,98,Health,Mass Customer,Yes,10,34 Jay Hill,2880,NSW,1,684,43.0,40-49,13.0,Remote Australia,0.0189175,1.8917532,Silver
+891,Selle,Casper,Female,98,Health,Mass Customer,Yes,10,34 Jay Hill,2880,NSW,1,684,43.0,40-49,14.0,Very Remote Australia,0.0110764,1.1076391,Silver
+892,Donaugh,Benedict,Male,3,Property,Mass Customer,No,12,30049 Brown Road,2233,NSW,9,420,30.0,18-29,10.0,Major Cities of Australia,0.9830072,98.3007172,Silver
+893,Donaugh,Benedict,Male,3,Property,Mass Customer,No,12,30049 Brown Road,2233,NSW,9,420,30.0,18-29,11.0,Inner Regional Australia,0.0169928,1.6992828,Silver
+894,Jobie,Runacres,Female,96,Financial Services,Mass Customer,Yes,18,24960 Shopko Crossing,2528,NSW,7,427,47.0,40-49,10.0,Major Cities of Australia,1.0,99.9999997,Silver
+895,Byrom,Ramas,Male,23,Manufacturing,High Net Worth,No,12,2 Jackson Place,2528,NSW,7,555,28.0,18-29,10.0,Major Cities of Australia,1.0,99.9999997,Bronze
+896,Yuma,Dennick,Male,40,Manufacturing,Mass Customer,Yes,6,89244 Macpherson Trail,2528,NSW,8,778,49.0,40-49,10.0,Major Cities of Australia,1.0,99.9999997,Silver
+897,Herbert,Henryson,Male,21,Financial Services,Mass Customer,No,4,05123 Bobwhite Plaza,2528,NSW,9,820,26.0,18-29,10.0,Major Cities of Australia,1.0,99.9999997,Bronze
+898,Guenna,Filisov,Female,52,Manufacturing,High Net Worth,No,13,43 Stoughton Drive,2154,NSW,9,427,53.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+899,Carita,Sand,Female,25,Retail,Mass Customer,No,16,846 Loftsgordon Crossing,2154,NSW,11,464,44.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+900,Stephi,Highton,Female,30,Telecommunications,Mass Customer,Yes,12,293 Mendota Park,2154,NSW,10,930,34.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+901,Ottilie,Wanless,Female,51,Financial Services,Affluent Customer,No,8,2 David Pass,2720,NSW,4,430,81.0,70+,11.0,Inner Regional Australia,0.9360299,93.6029861,Silver
+902,Ottilie,Wanless,Female,51,Financial Services,Affluent Customer,No,8,2 David Pass,2720,NSW,4,430,81.0,70+,12.0,Outer Regional Australia,0.0639701,6.3970139,Silver
+903,Kipper,Circuit,Male,23,Argiculture,Mass Customer,Yes,4,3867 Barby Hill,2140,NSW,8,430,47.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+904,Frederigo,Cribbott,Male,35,Health,Mass Customer,No,16,42280 Namekagon Crossing,2140,NSW,8,754,56.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+905,Gregg,Aimeric,U,52,IT,Mass Customer,No,7,72423 Surrey Street,3753,VIC,5,433,80.0,70+,20.0,Major Cities of Australia,0.8073946,80.7394628,Silver
+906,Gregg,Aimeric,U,52,IT,Mass Customer,No,7,72423 Surrey Street,3753,VIC,5,433,80.0,70+,21.0,Inner Regional Australia,0.1926054,19.2605372,Silver
+907,Frederich,Glantz,Male,37,Manufacturing,High Net Worth,Yes,10,9 Glacier Hill Circle,2762,NSW,8,436,24.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+908,Rodolph,Denniss,Male,28,Property,Affluent Customer,Yes,7,91281 Transport Center,3356,VIC,2,436,47.0,40-49,21.0,Inner Regional Australia,1.0,100.0,Silver
+909,Dorie,Dunleavy,Female,24,Health,Affluent Customer,No,12,1 Mcguire Lane,3356,VIC,4,830,59.0,50-59,21.0,Inner Regional Australia,1.0,100.0,Silver
+910,Bryan,Jachtym,Male,59,Manufacturing,Mass Customer,Yes,15,56 Moland Crossing,3356,VIC,3,988,47.0,40-49,21.0,Inner Regional Australia,1.0,100.0,Silver
+911,Johna,Bunker,U,93,IT,Mass Customer,Yes,14,3686 Waubesa Way,3065,VIC,6,436,80.0,70+,20.0,Major Cities of Australia,1.0,100.0,Silver
+912,Giralda,MacPeake,Female,59,Entertainment,High Net Worth,Yes,14,6 Killdeer Way,2705,NSW,1,441,80.0,70+,12.0,Outer Regional Australia,1.0,100.0,Platinum
+913,Irving,Babcock,Male,60,Health,High Net Worth,Yes,15,36 Killdeer Crossing,2705,NSW,1,967,36.0,30-39,12.0,Outer Regional Australia,1.0,100.0,Silver
+914,Gleda,Howerd,Female,59,IT,Mass Customer,No,6,481 Moulton Place,2440,NSW,2,444,58.0,50-59,11.0,Inner Regional Australia,0.6768052,67.6805191,Silver
+915,Gleda,Howerd,Female,59,IT,Mass Customer,No,6,481 Moulton Place,2440,NSW,2,444,58.0,50-59,12.0,Outer Regional Australia,0.3231948,32.3194809,Silver
+916,Jo,Roberts,Female,41,Financial Services,High Net Worth,Yes,11,20139 Lakewood Plaza,2440,NSW,3,937,76.0,70+,11.0,Inner Regional Australia,0.6768052,67.6805191,Platinum
+917,Jo,Roberts,Female,41,Financial Services,High Net Worth,Yes,11,20139 Lakewood Plaza,2440,NSW,3,937,76.0,70+,12.0,Outer Regional Australia,0.3231948,32.3194809,Silver
+918,Melany,Ladewig,Female,76,Financial Services,Mass Customer,Yes,10,3864 Sheridan Alley,4130,QLD,7,444,49.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+919,Mikol,Eck,Male,99,Financial Services,Mass Customer,Yes,21,15621 Twin Pines Crossing,4130,QLD,9,748,46.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Bronze
+920,Garwin,Nurden,Male,54,Property,High Net Worth,Yes,5,0 Union Parkway,3142,VIC,11,444,63.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Platinum
+921,Bunny,Leebetter,Female,83,Manufacturing,High Net Worth,Yes,8,4 Lukken Lane,4301,QLD,4,444,55.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+922,Deana,Canton,Female,67,Property,Mass Customer,Yes,14,92 Ludington Street,4301,QLD,3,455,47.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Bronze
+923,Cord,Dunsmore,Male,12,Manufacturing,Mass Customer,Yes,13,596 Boyd Park,4301,QLD,3,552,22.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+924,Cecily,Faircley,Female,42,IT,Affluent Customer,Yes,19,8 Bluejay Road,4301,QLD,1,739,74.0,70+,30.0,Major Cities of Australia,1.0,100.0,Bronze
+925,Sada,Dowyer,Female,47,Financial Services,High Net Worth,Yes,3,4 Meadow Ridge Place,2090,NSW,10,450,23.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+926,Padriac,Collacombe,Male,67,Health,Affluent Customer,No,13,76 Mendota Park,2090,NSW,10,563,54.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+927,Meade,Bampton,Male,69,Health,High Net Worth,No,17,7870 Stuart Crossing,2090,NSW,7,755,39.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+928,Anet,Roseman,Female,84,Financial Services,Mass Customer,No,9,31 Melody Circle,3814,VIC,4,450,25.0,18-29,21.0,Inner Regional Australia,1.0,100.0,Platinum
+929,Katie,Warhurst,Female,0,Retail,High Net Worth,Yes,14,96 Rutledge Drive,3064,VIC,5,450,30.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+930,Craggy,Happel,Male,37,Manufacturing,High Net Worth,Yes,8,23 Del Sol Alley,3064,VIC,6,859,43.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+931,Frieda,Tavinor,Female,43,Financial Services,Affluent Customer,No,10,7 Mallory Lane,3064,VIC,6,972,23.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Platinum
+932,Stearne,Trolley,Male,42,Financial Services,High Net Worth,No,14,638 Caliangt Avenue,2137,NSW,11,450,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+933,Tristam,Larose,Male,70,Financial Services,Mass Customer,No,17,9645 Moose Terrace,2137,NSW,11,455,37.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+934,Briana,Trill,Female,5,Health,High Net Worth,No,11,0433 La Follette Road,2137,NSW,11,672,77.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+935,Dory,Malpass,Female,19,Financial Services,Affluent Customer,Yes,13,3653 Steensland Road,4103,QLD,8,455,49.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Gold
+936,Marcellina,Baynton,Female,60,Financial Services,Mass Customer,No,16,56 Comanche Terrace,3141,VIC,10,455,75.0,70+,20.0,Major Cities of Australia,1.0,100.0,Platinum
+937,Gregorius,Leal,Male,7,Retail,Affluent Customer,Yes,21,66 Merry Court,2033,NSW,12,455,70.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+938,Kori,Sparsholt,Female,59,Financial Services,Mass Customer,Yes,19,37 Rigney Park,2171,NSW,9,455,81.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+939,Tina,Dunstan,Female,13,Retail,Affluent Customer,No,13,98555 Victoria Hill,2171,NSW,7,483,83.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+940,Davide,Senten,Male,22,Manufacturing,Mass Customer,No,11,23737 Bartillon Street,2171,NSW,9,688,81.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+941,Lucky,Klainman,Female,24,Retail,Mass Customer,No,8,0796 Barnett Plaza,3758,VIC,4,455,74.0,70+,21.0,Inner Regional Australia,1.0,100.0,Platinum
+942,Lela,Billing,Female,38,Financial Services,Mass Customer,Yes,18,095 Glacier Hill Circle,2571,NSW,7,468,51.0,50-59,11.0,Inner Regional Australia,1.0,100.0,Silver
+943,Ceciley,Harg,Female,50,Retail,Mass Customer,Yes,4,409 Starling Lane,4172,QLD,7,471,31.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Platinum
+944,Torry,de la Valette Parisot,Male,95,Telecommunications,Mass Customer,Yes,18,36963 Pierstorff Terrace,3168,VIC,9,471,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+945,Irvine,Headon,Male,99,IT,Affluent Customer,Yes,20,9 Hovde Way,2322,NSW,5,473,65.0,60-69,10.0,Major Cities of Australia,0.9956143,99.5614274,Bronze
+946,Irvine,Headon,Male,99,IT,Affluent Customer,Yes,20,9 Hovde Way,2322,NSW,5,473,65.0,60-69,11.0,Inner Regional Australia,0.0043857,0.4385726,Bronze
+947,Gabey,Kennicott,Female,55,Financial Services,Affluent Customer,No,17,8 Fordem Place,2322,NSW,6,552,63.0,60-69,10.0,Major Cities of Australia,0.9956143,99.5614274,Silver
+948,Gabey,Kennicott,Female,55,Financial Services,Affluent Customer,No,17,8 Fordem Place,2322,NSW,6,552,63.0,60-69,11.0,Inner Regional Australia,0.0043857,0.4385726,Silver
+949,Vyky,Pegg,Female,64,Manufacturing,Mass Customer,Yes,11,31854 Anniversary Terrace,2322,NSW,7,988,78.0,70+,10.0,Major Cities of Australia,0.9956143,99.5614274,Silver
+950,Vyky,Pegg,Female,64,Manufacturing,Mass Customer,Yes,11,31854 Anniversary Terrace,2322,NSW,7,988,78.0,70+,11.0,Inner Regional Australia,0.0043857,0.4385726,Silver
+951,Blondie,Borsi,Female,43,Financial Services,High Net Worth,No,11,780 Norway Maple Hill,2565,NSW,8,478,26.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+952,Bertrando,Carass,Male,45,Property,Mass Customer,No,8,1 Quincy Road,2565,NSW,5,983,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+953,Georgi,Borsi,Male,29,Manufacturing,High Net Worth,No,11,59 Garrison Terrace,3215,VIC,4,485,52.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+954,Kelsey,Hatt,Female,69,Financial Services,High Net Worth,No,8,309 Maple Wood Pass,3930,VIC,6,486,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+955,Bevvy,Openshaw,Female,68,Financial Services,Affluent Customer,Yes,10,902 Westend Lane,2318,NSW,3,486,46.0,40-49,10.0,Major Cities of Australia,0.0768818,7.6881819,Platinum
+956,Bevvy,Openshaw,Female,68,Financial Services,Affluent Customer,Yes,10,902 Westend Lane,2318,NSW,3,486,46.0,40-49,11.0,Inner Regional Australia,0.9231182,92.3118181,Platinum
+957,Carr,Hopkynson,Male,64,Manufacturing,Affluent Customer,No,16,5990 Fairfield Pass,2318,NSW,6,888,50.0,40-49,10.0,Major Cities of Australia,0.0768818,7.6881819,Silver
+958,Carr,Hopkynson,Male,64,Manufacturing,Affluent Customer,No,16,5990 Fairfield Pass,2318,NSW,6,888,50.0,40-49,11.0,Inner Regional Australia,0.9231182,92.3118181,Platinum
+959,Penrod,Tomasicchio,Male,5,Health,High Net Worth,No,19,30 Harper Trail,2318,NSW,9,899,53.0,50-59,10.0,Major Cities of Australia,0.0768818,7.6881819,Bronze
+960,Penrod,Tomasicchio,Male,5,Health,High Net Worth,No,19,30 Harper Trail,2318,NSW,9,899,53.0,50-59,11.0,Inner Regional Australia,0.9231182,92.3118181,Bronze
+961,Alexina,Mabley,Female,72,Manufacturing,Mass Customer,Yes,10,9 Rieder Junction,2573,NSW,9,486,46.0,40-49,11.0,Inner Regional Australia,1.0,100.0,Silver
+962,Dawn,Pyffe,Female,56,Retail,Mass Customer,No,11,734 Veith Way,3155,VIC,8,492,56.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Platinum
+963,Perry,Whitehurst,Male,79,Manufacturing,High Net Worth,Yes,8,0 Nelson Crossing,3155,VIC,7,524,41.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+964,Cariotta,Borsi,Female,10,Entertainment,Affluent Customer,Yes,17,2336 Continental Point,2527,NSW,7,502,47.0,40-49,10.0,Major Cities of Australia,0.9683674,96.8367447,Silver
+965,Cariotta,Borsi,Female,10,Entertainment,Affluent Customer,Yes,17,2336 Continental Point,2527,NSW,7,502,47.0,40-49,11.0,Inner Regional Australia,0.0316326,3.1632553,Silver
+966,Killian,Nettles,Male,44,Financial Services,Affluent Customer,No,4,16 Pepper Wood Junction,3803,VIC,7,507,41.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+967,Fredia,Favelle,Female,94,Financial Services,Mass Customer,Yes,19,4 Arapahoe Terrace,4014,QLD,8,507,47.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Bronze
+968,Jammal,Devenny,Male,57,Retail,High Net Worth,No,12,18 Sage Plaza,3152,VIC,9,507,22.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Bronze
+969,Andree,Breeds,Female,31,Financial Services,Affluent Customer,Yes,11,93 Scofield Pass,3152,VIC,6,637,67.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+970,Adriane,Richardson,Female,81,Manufacturing,High Net Worth,No,9,4 Randy Street,3070,VIC,8,513,46.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Gold
+971,Jodi,Lermit,Female,94,Health,Mass Customer,Yes,10,05 Corry Center,4021,QLD,2,513,68.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+972,Emelia,Ackwood,Female,72,Financial Services,Mass Customer,Yes,10,1 South Street,4183,QLD,9,515,33.0,30-39,33.0,Remote Australia,1.0,99.9999995,Bronze
+973,Andee,Huke,Female,91,Manufacturing,Mass Customer,No,9,4810 Kim Park,3858,VIC,2,515,50.0,40-49,21.0,Inner Regional Australia,0.905158,90.5157988,Bronze
+974,Andee,Huke,Female,91,Manufacturing,Mass Customer,No,9,4810 Kim Park,3858,VIC,2,515,50.0,40-49,22.0,Outer Regional Australia,0.094842,9.4842012,Bronze
+975,Isa,Fominov,Male,75,Financial Services,Mass Customer,Yes,5,80388 Ryan Place,2010,NSW,9,515,20.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+976,Darlleen,Shalcras,Female,77,Health,Mass Customer,No,11,383 Graceland Avenue,2010,NSW,10,801,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+977,Sim,Constantinou,Male,91,Property,Mass Customer,No,5,41002 Loomis Park,2010,NSW,9,944,29.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+978,Sylas,Duffill,Male,56,Property,Mass Customer,Yes,14,21875 Grover Drive,2010,NSW,9,1000,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+979,Maddalena,Angood,Female,79,Manufacturing,Affluent Customer,No,12,1 Bluejay Court,2320,NSW,4,515,22.0,18-29,10.0,Major Cities of Australia,0.9333184,93.3318368,Silver
+980,Maddalena,Angood,Female,79,Manufacturing,Affluent Customer,No,12,1 Bluejay Court,2320,NSW,4,515,22.0,18-29,11.0,Inner Regional Australia,0.0666816,6.6681632,Silver
+981,Chryste,Oddboy,Female,44,Manufacturing,High Net Worth,Yes,4,2115 Maryland Alley,2320,NSW,9,947,33.0,30-39,10.0,Major Cities of Australia,0.9333184,93.3318368,Bronze
+982,Chryste,Oddboy,Female,44,Manufacturing,High Net Worth,Yes,4,2115 Maryland Alley,2320,NSW,9,947,33.0,30-39,11.0,Inner Regional Australia,0.0666816,6.6681632,Bronze
+983,Sofie,Worsfold,Female,87,Retail,Mass Customer,Yes,9,7 Maple Wood Plaza,4125,QLD,6,520,67.0,60-69,30.0,Major Cities of Australia,0.9979425,99.7942537,Silver
+984,Sofie,Worsfold,Female,87,Retail,Mass Customer,Yes,9,7 Maple Wood Plaza,4125,QLD,6,520,67.0,60-69,31.0,Inner Regional Australia,0.0020575,0.2057463,Silver
+985,Angele,Cadore,Female,5,Financial Services,Mass Customer,Yes,7,85894 Amoth Court,4125,QLD,7,939,67.0,60-69,30.0,Major Cities of Australia,0.9979425,99.7942537,Silver
+986,Angele,Cadore,Female,5,Financial Services,Mass Customer,Yes,7,85894 Amoth Court,4125,QLD,7,939,67.0,60-69,31.0,Inner Regional Australia,0.0020575,0.2057463,Silver
+987,Free,Rowland,Male,42,Financial Services,Mass Customer,Yes,12,24929 Spaight Junction,3796,VIC,8,520,65.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+988,Worthington,Cohane,Male,60,Entertainment,High Net Worth,No,2,846 Daystar Lane,2000,NSW,12,520,31.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+989,Antony,Tuma,Male,11,Telecommunications,High Net Worth,Yes,13,93264 Almo Plaza,3078,VIC,10,526,68.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+990,Hilario,McCulloch,Male,61,Retail,Mass Customer,No,8,799 Luster Road,3051,VIC,8,530,36.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+991,Jim,Haddrell,Male,55,Financial Services,Mass Customer,No,9,53 Dryden Trail,2358,NSW,3,530,66.0,60-69,11.0,Inner Regional Australia,0.6418776,64.1877555,Platinum
+992,Jim,Haddrell,Male,55,Financial Services,Mass Customer,No,9,53 Dryden Trail,2358,NSW,3,530,66.0,60-69,12.0,Outer Regional Australia,0.3581224,35.8122445,Platinum
+993,Gretel,Paschke,Female,10,Financial Services,Mass Customer,Yes,17,72 Melrose Street,4074,QLD,7,536,65.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+994,Jethro,Mertel,Male,16,Argiculture,Mass Customer,Yes,15,3460 Dapin Street,2262,NSW,6,536,43.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+995,Dwain,Hatch,Male,62,Health,Affluent Customer,No,15,5 Hovde Lane,3028,VIC,8,536,27.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Bronze
+996,Bertine,Smalles,Female,85,Financial Services,Mass Customer,Yes,9,7 Johnson Hill,3028,VIC,8,708,38.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Bronze
+997,Lucretia,D'Agostini,Female,41,Manufacturing,High Net Worth,No,15,4 Gale Center,3185,VIC,7,536,43.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Bronze
+998,Claude,Bowstead,Female,37,Manufacturing,Mass Customer,No,7,5263 Stone Corner Crossing,2217,NSW,12,536,24.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+999,Terrence,Dalligan,Male,60,Manufacturing,High Net Worth,Yes,2,240 Main Hill,3200,VIC,6,544,24.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Bronze
+1000,Sammy,Borsi,Female,99,Financial Services,Mass Customer,No,5,0 Kipling Way,2289,NSW,7,546,49.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+1001,Morganica,Ainsbury,Female,37,Entertainment,High Net Worth,Yes,9,1 Raven Way,2151,NSW,10,546,49.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+1002,Reiko,Degenhardt,Female,83,Financial Services,High Net Worth,Yes,5,50897 Northfield Road,4280,QLD,6,552,46.0,40-49,30.0,Major Cities of Australia,0.5244139,52.441388,Silver
+1003,Reiko,Degenhardt,Female,83,Financial Services,High Net Worth,Yes,5,50897 Northfield Road,4280,QLD,6,552,46.0,40-49,31.0,Inner Regional Australia,0.4755861,47.558612,Silver
+1004,Manny,Mandy,Male,36,Argiculture,Mass Customer,No,16,6 Union Center,4280,QLD,7,820,45.0,40-49,30.0,Major Cities of Australia,0.5244139,52.441388,Silver
+1005,Manny,Mandy,Male,36,Argiculture,Mass Customer,No,16,6 Union Center,4280,QLD,7,820,45.0,40-49,31.0,Inner Regional Australia,0.4755861,47.558612,Silver
+1006,Worthington,Ahmed,Male,79,Financial Services,High Net Worth,No,13,39408 Manufacturers Road,3335,VIC,3,555,49.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+1007,Chico,Dye,Male,46,Manufacturing,High Net Worth,No,13,168 Schlimgen Center,2526,NSW,9,555,28.0,18-29,10.0,Major Cities of Australia,1.0,99.9999994,Silver
+1008,Davidde,Cockroft,Male,70,Manufacturing,High Net Worth,No,8,8 Kim Avenue,2158,NSW,12,555,74.0,70+,10.0,Major Cities of Australia,0.9576667,95.7666742,Bronze
+1009,Davidde,Cockroft,Male,70,Manufacturing,High Net Worth,No,8,8 Kim Avenue,2158,NSW,12,555,74.0,70+,11.0,Inner Regional Australia,0.0423333,4.2333258,Bronze
+1010,Donn,Chaney,Male,15,Financial Services,Mass Customer,No,13,4 Schlimgen Trail,4701,QLD,3,561,71.0,70+,31.0,Inner Regional Australia,0.9961226,99.6122582,Bronze
+1011,Donn,Chaney,Male,15,Financial Services,Mass Customer,No,13,4 Schlimgen Trail,4701,QLD,3,561,71.0,70+,32.0,Outer Regional Australia,0.0038774,0.3877418,Bronze
+1012,Yorgos,Dewhurst,Male,6,Argiculture,Affluent Customer,No,16,4 Talmadge Road,4701,QLD,1,760,71.0,70+,31.0,Inner Regional Australia,0.9961226,99.6122582,Silver
+1013,Yorgos,Dewhurst,Male,6,Argiculture,Affluent Customer,No,16,4 Talmadge Road,4701,QLD,1,760,71.0,70+,32.0,Outer Regional Australia,0.0038774,0.3877418,Silver
+1014,Kamila,Parsonage,Female,80,Property,Mass Customer,No,5,31 Mccormick Court,4131,QLD,8,562,68.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+1015,Barth,Sapshed,Male,4,Financial Services,Mass Customer,Yes,13,65 Milwaukee Lane,4520,QLD,10,563,27.0,18-29,30.0,Major Cities of Australia,0.4820457,48.2045689,Bronze
+1016,Barth,Sapshed,Male,4,Financial Services,Mass Customer,Yes,13,65 Milwaukee Lane,4520,QLD,10,563,27.0,18-29,31.0,Inner Regional Australia,0.5179543,51.7954311,Bronze
+1017,Olive,Mozzi,Female,87,Retail,Affluent Customer,Yes,20,26667 Rigney Place,2567,NSW,9,563,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+1018,Catha,Davitt,Female,79,Property,High Net Worth,Yes,6,192 South Junction,2567,NSW,7,843,63.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1019,Benedict,Rosas,Male,73,Financial Services,High Net Worth,Yes,15,898 Muir Court,2142,NSW,6,563,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+1020,Maurizia,Ritmeyer,Female,95,Entertainment,Mass Customer,Yes,3,0 Express Lane,2142,NSW,6,684,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1021,Virginia,De Antoni,Female,17,Telecommunications,High Net Worth,Yes,12,88093 Pierstorff Plaza,2030,NSW,10,563,57.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+1022,Nicolas,O'Donnell,Male,40,Financial Services,Mass Customer,Yes,14,3319 Anthes Crossing,3177,VIC,7,568,35.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+1023,Oswald,MacCarlich,Male,81,Entertainment,Mass Customer,No,14,16 Mosinee Place,4717,QLD,1,568,30.0,18-29,32.0,Outer Regional Australia,1.0,100.0,Bronze
+1024,Ailyn,Howgate,Female,66,Manufacturing,Mass Customer,Yes,2,197 Northport Plaza,4213,QLD,7,568,20.0,18-29,30.0,Major Cities of Australia,0.9649124,96.4912426,Bronze
+1025,Ailyn,Howgate,Female,66,Manufacturing,Mass Customer,Yes,2,197 Northport Plaza,4213,QLD,7,568,20.0,18-29,31.0,Inner Regional Australia,0.0350876,3.5087574,Bronze
+1026,Esdras,Birchett,Male,81,Entertainment,Mass Customer,Yes,21,5287 Clarendon Plaza,2258,NSW,9,568,71.0,70+,10.0,Major Cities of Australia,0.9054689,90.5468906,Silver
+1027,Esdras,Birchett,Male,81,Entertainment,Mass Customer,Yes,21,5287 Clarendon Plaza,2258,NSW,9,568,71.0,70+,11.0,Inner Regional Australia,0.0945311,9.4531094,Silver
+1028,Jesse,Crosio,Male,75,Financial Services,Mass Customer,Yes,13,9313 Mayer Street,3133,VIC,8,575,27.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+1029,Cordi,Thornton,Female,47,Telecommunications,Mass Customer,No,11,2978 Mccormick Center,2028,NSW,10,575,49.0,40-49,10.0,Major Cities of Australia,1.0,99.9999998,Silver
+1030,Flin,Yoskowitz,Male,9,Health,Mass Customer,Yes,11,9940 Manley Drive,2574,NSW,7,583,26.0,18-29,11.0,Inner Regional Australia,1.0,100.0,Silver
+1031,Noel,Sturch,Female,26,Health,Mass Customer,No,10,0736 West Crossing,3585,VIC,1,583,70.0,60-69,22.0,Outer Regional Australia,1.0,100.0,Silver
+1032,Letizia,Poore,Female,27,Manufacturing,Affluent Customer,No,15,95796 Mcbride Drive,3677,VIC,3,583,83.0,70+,21.0,Inner Regional Australia,1.0,100.0,Silver
+1033,Raynard,Borsi,Male,32,Health,Affluent Customer,No,14,20187 Loomis Court,4132,QLD,6,587,25.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Bronze
+1034,Delcina,Hursey,Female,22,Financial Services,Mass Customer,Yes,7,804 Washington Point,4132,QLD,4,620,53.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+1035,Wendye,Kleinplatz,Female,48,Manufacturing,Affluent Customer,No,14,01 Reindahl Circle,4132,QLD,3,643,25.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Bronze
+1036,Jacklin,Duchant,Female,77,Argiculture,Mass Customer,No,17,9 Memorial Road,4132,QLD,4,939,81.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+1037,Ethelred,Sissel,Male,83,Health,High Net Worth,No,18,65 Rutledge Parkway,2539,NSW,8,587,47.0,40-49,11.0,Inner Regional Australia,0.9860056,98.6005587,Bronze
+1038,Ethelred,Sissel,Male,83,Health,High Net Worth,No,18,65 Rutledge Parkway,2539,NSW,8,587,47.0,40-49,12.0,Outer Regional Australia,0.0139944,1.3994413,Bronze
+1039,Dena,Pabst,Female,39,Manufacturing,High Net Worth,Yes,17,02023 Loeprich Drive,3037,VIC,7,590,34.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+1040,Levin,Coxen,Male,13,Property,Mass Customer,No,20,32 Hazelcrest Court,2753,NSW,8,594,66.0,60-69,10.0,Major Cities of Australia,0.7964377,79.6437709,Silver
+1041,Levin,Coxen,Male,13,Property,Mass Customer,No,20,32 Hazelcrest Court,2753,NSW,8,594,66.0,60-69,11.0,Inner Regional Australia,0.2035623,20.3562291,Silver
+1042,Esther,McOnie,Female,59,Financial Services,Mass Customer,No,14,844 Forster Place,2096,NSW,12,599,82.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+1043,Anson,Dearnaly,Male,68,Health,Affluent Customer,Yes,11,6060 Veith Crossing,2103,NSW,11,602,24.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+1044,Rozamond,Sommer,Female,27,IT,Affluent Customer,Yes,12,608 Dapin Court,3129,VIC,10,604,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+1045,Jamison,Cashin,Male,70,Health,Mass Customer,Yes,5,7 Dunning Avenue,2477,NSW,8,609,51.0,50-59,11.0,Inner Regional Australia,1.0,100.0,Silver
+1046,Truman,Arlett,Male,58,Manufacturing,High Net Worth,Yes,16,3 Spohn Circle,2477,NSW,5,648,63.0,60-69,11.0,Inner Regional Australia,1.0,100.0,Silver
+1047,Sheilakathryn,Huff,Female,45,Financial Services,High Net Worth,Yes,14,04 Miller Drive,2477,NSW,6,921,63.0,60-69,11.0,Inner Regional Australia,1.0,100.0,Bronze
+1048,Nicol,Swinford,Male,65,Property,High Net Worth,No,16,976 Roxbury Alley,4157,QLD,7,609,45.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Bronze
+1049,Agna,Cowpe,Female,88,Property,Mass Customer,Yes,7,2 Main Lane,4114,QLD,3,612,53.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+1050,Lucius,Hatchell,Male,37,Retail,Mass Customer,Yes,14,432 Ronald Regan Court,3782,VIC,8,612,70.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+1051,Hyman,Petrolli,Male,8,Financial Services,Affluent Customer,Yes,4,290 Menomonie Circle,3782,VIC,7,715,56.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+1052,Farlie,Brookz,Male,62,Health,Mass Customer,Yes,6,6692 Independence Way,2070,NSW,12,615,58.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+1053,Mariette,Borsi,Female,47,Property,Affluent Customer,Yes,17,770 Farmco Point,2049,NSW,11,617,65.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1054,Nolly,Ivanchikov,Male,13,Manufacturing,High Net Worth,Yes,11,6792 Kropf Hill,2049,NSW,11,948,28.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1055,Beverlee,Ungerechts,Female,49,Manufacturing,Mass Customer,No,8,602 Toban Center,4020,QLD,7,617,48.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+1056,Ewell,Paulusch,Male,31,Manufacturing,Mass Customer,Yes,8,8194 Lien Street,4032,QLD,7,620,24.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Bronze
+1057,Ross,Vidgen,Male,17,Retail,Affluent Customer,No,12,2874 Bay Hill,4032,QLD,9,682,74.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+1058,Terrel,Keynd,Male,30,Manufacturing,Mass Customer,No,9,65 David Pass,4221,QLD,7,626,60.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+1059,Augie,Swallwell,Male,42,Property,Affluent Customer,Yes,13,7 Golden Leaf Avenue,2400,NSW,2,626,82.0,70+,12.0,Outer Regional Australia,0.9779915,97.7991479,Silver
+1060,Augie,Swallwell,Male,42,Property,Affluent Customer,Yes,13,7 Golden Leaf Avenue,2400,NSW,2,626,82.0,70+,13.0,Remote Australia,0.0220085,2.2008521,Silver
+1061,Dillon,Bannister,Male,7,Financial Services,Mass Customer,No,11,43 Dayton Drive,2062,NSW,9,626,76.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1062,Osbourn,Gherardini,Male,43,Financial Services,High Net Worth,Yes,16,5 Dryden Road,2782,NSW,7,626,34.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1063,Reinhard,Oscroft,Male,23,Health,High Net Worth,No,18,045 Magdeline Court,3690,VIC,1,634,71.0,70+,21.0,Inner Regional Australia,1.0,100.0,Silver
+1064,Dmitri,Borsi,Male,72,Financial Services,High Net Worth,Yes,15,4 Mallory Pass,3690,VIC,4,810,31.0,30-39,21.0,Inner Regional Australia,1.0,100.0,Platinum
+1065,Menard,Venmore,Male,97,Retail,High Net Worth,No,8,5 Hoard Trail,2197,NSW,10,637,43.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1066,Kata,Harrop,Female,70,Retail,Affluent Customer,Yes,13,2 Ridgeway Avenue,2196,NSW,10,637,71.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1067,Burk,Wortley,Male,22,Health,Mass Customer,No,6,04 Union Crossing,2196,NSW,10,997,20.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1068,Pierrette,Gummie,Female,18,Retail,Affluent Customer,No,14,29 Maple Trail,3143,VIC,8,637,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Bronze
+1069,Demott,Mullaly,Male,42,Property,Mass Customer,No,13,28 Hazelcrest Drive,2525,NSW,8,642,39.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1070,Austine,Speedy,Female,38,Argiculture,High Net Worth,Yes,14,69 Sunfield Terrace,2558,NSW,8,646,81.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1071,Sindee,Jasik,Female,18,Health,Mass Customer,Yes,15,0689 Melby Park,4030,QLD,9,648,79.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+1072,Leticia,Hovenden,Female,98,Retail,Mass Customer,Yes,1,54782 Lake View Parkway,3178,VIC,9,653,24.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+1073,Dolorita,Strutton,Female,7,Manufacturing,Affluent Customer,No,17,07 Acker Pass,3178,VIC,8,904,30.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+1074,Annabelle,Hanwell,Female,11,Manufacturing,High Net Worth,Yes,15,99 Sherman Parkway,3083,VIC,12,655,70.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+1075,Darryl,Hovee,Female,2,Financial Services,Mass Customer,Yes,19,381 Emmet Terrace,2047,NSW,12,655,77.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+1076,Nicol,Bertot,Female,25,Financial Services,Affluent Customer,Yes,18,7 Elgar Hill,3060,VIC,5,658,44.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+1077,Nobe,Trowsdale,Male,12,Financial Services,Mass Customer,No,16,36506 Bartillon Point,3816,VIC,3,658,53.0,50-59,21.0,Inner Regional Australia,1.0,100.0,Silver
+1078,Stephen,Tittershill,Male,73,Financial Services,High Net Worth,No,6,8 Scott Drive,3150,VIC,11,658,30.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+1079,Shane,Diss,Female,50,Financial Services,High Net Worth,Yes,16,22 Shelley Plaza,3198,VIC,8,662,41.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Bronze
+1080,Michele,Pammenter,Male,23,Health,High Net Worth,No,2,37 Mesta Road,3198,VIC,8,948,38.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+1081,Lisette,Davers,Female,59,Health,High Net Worth,No,17,504 Stuart Pass,2130,NSW,11,662,81.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+1082,Chicky,Sinclar,U,43,IT,High Net Worth,Yes,0,5 Red Cloud Place,3222,VIC,4,662,80.0,70+,21.0,Inner Regional Australia,1.0,100.0,Silver
+1083,Essie,Withur,Female,42,Financial Services,High Net Worth,No,19,539 Graceland Pass,3444,VIC,7,668,81.0,70+,21.0,Inner Regional Australia,1.0,100.0,Silver
+1084,Lillis,Eshmade,Female,50,Financial Services,Mass Customer,Yes,22,46057 Harbort Hill,4304,QLD,2,668,47.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+1085,Miran,Runchman,Female,47,Retail,Mass Customer,No,17,6634 Old Gate Parkway,4304,QLD,3,708,46.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+1086,Nixie,Shoesmith,Female,45,Retail,Affluent Customer,No,12,77608 Donald Center,4516,QLD,6,672,65.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Bronze
+1087,Sibylla,Kibble,Female,73,Health,High Net Worth,No,12,3 Ruskin Hill,2122,NSW,9,676,59.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+1088,Lyndell,Jereatt,Female,14,Financial Services,High Net Worth,No,13,58770 Monterey Plaza,2122,NSW,12,954,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+1089,Lizbeth,Garvan,Female,36,Health,Mass Customer,No,4,5 Schurz Street,2141,NSW,9,676,25.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+1090,Alta,Pithcock,Female,64,Financial Services,Mass Customer,No,2,57568 Northview Junction,2141,NSW,7,708,22.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+1091,Aleece,Feige,Female,49,Manufacturing,Mass Customer,No,18,2030 Anderson Lane,2141,NSW,10,904,46.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+1092,Myrtie,Ostrich,Female,70,Property,Affluent Customer,Yes,9,320 Acker Drive,2251,NSW,7,676,25.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+1093,Becky,Lassen,Female,11,Financial Services,Mass Customer,Yes,7,41153 Pond Park,2251,NSW,8,820,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+1094,Sibby,Skinner,Female,25,Manufacturing,Mass Customer,Yes,12,3 Sunbrook Alley,4178,QLD,7,682,40.0,30-39,30.0,Major Cities of Australia,1.0,99.9999999,Platinum
+1095,Leighton,Firbanks,Male,51,Retail,Affluent Customer,No,21,7234 Sycamore Pass,4178,QLD,3,760,48.0,40-49,30.0,Major Cities of Australia,1.0,99.9999999,Platinum
+1096,Andrew,Froment,Male,58,Retail,High Net Worth,No,7,78 Bluestem Road,3860,VIC,2,684,44.0,40-49,21.0,Inner Regional Australia,0.7830824,78.3082446,Silver
+1097,Andrew,Froment,Male,58,Retail,High Net Worth,No,7,78 Bluestem Road,3860,VIC,2,684,44.0,40-49,22.0,Outer Regional Australia,0.2169176,21.6917554,Silver
+1098,Renie,Fiveash,Female,92,Health,High Net Worth,No,16,2 Anniversary Trail,4508,QLD,4,688,29.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Platinum
+1099,Rockie,MacKibbon,Male,42,Financial Services,Mass Customer,Yes,13,8 Bunker Hill Court,2298,NSW,8,691,43.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1100,Harvey,Dwelley,Male,70,Financial Services,Affluent Customer,No,18,59846 2nd Pass,2077,NSW,9,691,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1101,Wilone,Champley,Female,22,Manufacturing,High Net Worth,No,17,9346 Lyons Point,2077,NSW,10,924,38.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+1102,Josepha,Clamp,Female,12,Financial Services,High Net Worth,No,12,2 Harper Junction,2069,NSW,12,698,60.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1103,Jillane,Simion,Female,8,Manufacturing,High Net Worth,No,7,7 Caliangt Street,4209,QLD,3,700,47.0,40-49,30.0,Major Cities of Australia,1.0,99.9999994,Silver
+1104,Jermaine,Bagshawe,Female,60,Property,Mass Customer,Yes,9,260 Briar Crest Drive,4209,QLD,6,988,67.0,60-69,30.0,Major Cities of Australia,1.0,99.9999994,Silver
+1105,Mandie,MacAdie,Female,39,Telecommunications,High Net Worth,No,13,1009 Roxbury Point,2110,NSW,11,700,47.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+1106,Suzy,Bussens,Female,44,Financial Services,Mass Customer,No,13,25 Oneill Alley,4102,QLD,9,700,48.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+1107,Rosabelle,Godsmark,Female,60,Financial Services,Mass Customer,Yes,3,4871 Caliangt Hill,4102,QLD,8,845,26.0,18-29,30.0,Major Cities of Australia,1.0,100.0,Silver
+1108,Emeline,Vezey,Female,37,Health,Affluent Customer,Yes,19,2 Golden Leaf Parkway,3759,VIC,7,700,68.0,60-69,20.0,Major Cities of Australia,0.7279622,72.7962182,Silver
+1109,Emeline,Vezey,Female,37,Health,Affluent Customer,Yes,19,2 Golden Leaf Parkway,3759,VIC,7,700,68.0,60-69,21.0,Inner Regional Australia,0.2720378,27.2037818,Silver
+1110,Roldan,Raybould,Male,27,Financial Services,Mass Customer,No,11,85 Badeau Pass,3158,VIC,8,700,46.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Silver
+1111,Barth,Weare,Male,18,Health,Mass Customer,Yes,8,784 Lotheville Court,2541,NSW,5,708,75.0,70+,11.0,Inner Regional Australia,1.0,100.0,Platinum
+1112,Beatrix,McGivena,Female,26,Health,Mass Customer,Yes,9,6 Sutherland Parkway,4879,QLD,10,715,55.0,50-59,32.0,Outer Regional Australia,1.0,100.0,Bronze
+1113,Nalani,Hallad,Female,15,Health,Affluent Customer,Yes,9,1 Oriole Crossing,3184,VIC,9,719,22.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+1114,Morganica,Bentke,Female,40,IT,Affluent Customer,Yes,21,19453 Ramsey Point,3067,VIC,11,724,45.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Bronze
+1115,Calida,Schaben,Female,54,Financial Services,Mass Customer,Yes,10,1861 Chive Court,2199,NSW,9,725,53.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1116,Hallsy,Voysey,Male,83,Financial Services,Mass Customer,No,16,9 Westerfield Point,3437,VIC,9,725,52.0,50-59,21.0,Inner Regional Australia,1.0,100.0,Bronze
+1117,Halette,Borsi,Female,60,Health,Affluent Customer,Yes,16,356 Pennsylvania Point,2128,NSW,9,725,60.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+1118,Killie,Densie,Male,87,IT,Mass Customer,Yes,11,62 Dryden Junction,2042,NSW,10,731,24.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1119,Therese,Brotherhood,Female,30,Health,Mass Customer,No,10,25044 Bay Avenue,2042,NSW,10,780,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1120,Maurine,Clee,Female,45,Property,High Net Worth,Yes,5,6 Maple Plaza,2042,NSW,10,854,41.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+1121,Yardley,Matten,Male,35,Financial Services,Mass Customer,No,15,74 Everett Court,4408,QLD,2,733,31.0,30-39,32.0,Outer Regional Australia,1.0,100.0,Bronze
+1122,Sinclair,Wark,Male,68,Financial Services,Mass Customer,Yes,11,44 Thompson Center,2134,NSW,9,741,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1123,Gilli,Christophers,Female,70,Property,Affluent Customer,Yes,17,53870 Jay Pass,4575,QLD,9,744,74.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+1124,Burt,Vasechkin,Male,33,Retail,Mass Customer,Yes,20,89100 Rusk Crossing,3338,VIC,2,751,71.0,70+,20.0,Major Cities of Australia,0.8853802,88.5380183,Silver
+1125,Burt,Vasechkin,Male,33,Retail,Mass Customer,Yes,20,89100 Rusk Crossing,3338,VIC,2,751,71.0,70+,21.0,Inner Regional Australia,0.1146198,11.4619817,Silver
+1126,Glenda,Eliet,Female,87,Financial Services,Mass Customer,No,12,1 Fordem Way,3844,VIC,7,755,47.0,40-49,21.0,Inner Regional Australia,0.9986868,99.8686757,Bronze
+1127,Glenda,Eliet,Female,87,Financial Services,Mass Customer,No,12,1 Fordem Way,3844,VIC,7,755,47.0,40-49,22.0,Outer Regional Australia,0.0013132,0.1313243,Bronze
+1128,Shay,Briand,Male,57,IT,Mass Customer,Yes,9,1 Mandrake Way,3844,VIC,1,888,65.0,60-69,21.0,Inner Regional Australia,0.9986868,99.8686757,Silver
+1129,Shay,Briand,Male,57,IT,Mass Customer,Yes,9,1 Mandrake Way,3844,VIC,1,888,65.0,60-69,22.0,Outer Regional Australia,0.0013132,0.1313243,Silver
+1130,Darb,Borsi,Male,80,Health,Affluent Customer,No,10,780 Bonner Pass,4034,QLD,5,755,52.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Bronze
+1131,Stephani,Sidsaff,Female,32,Financial Services,Mass Customer,Yes,6,00 Southridge Avenue,2036,NSW,11,755,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+1132,Simmonds,Bapty,Male,52,Financial Services,Affluent Customer,No,8,47 Susan Park,2025,NSW,12,760,20.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1133,Hagen,MacCarter,Male,93,Entertainment,Affluent Customer,Yes,15,7 Ramsey Trail,3172,VIC,9,760,39.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Platinum
+1134,Cazzie,Stanwix,Male,37,Manufacturing,High Net Worth,Yes,11,6026 Mallory Drive,4561,QLD,7,760,61.0,60-69,30.0,Major Cities of Australia,0.1058272,10.5827179,Silver
+1135,Cazzie,Stanwix,Male,37,Manufacturing,High Net Worth,Yes,11,6026 Mallory Drive,4561,QLD,7,760,61.0,60-69,31.0,Inner Regional Australia,0.8941728,89.4172821,Silver
+1136,Janaye,Eade,Female,23,Health,Affluent Customer,No,4,2782 Northridge Street,2420,NSW,3,760,37.0,30-39,11.0,Inner Regional Australia,0.9386992,93.8699206,Silver
+1137,Janaye,Eade,Female,23,Health,Affluent Customer,No,4,2782 Northridge Street,2420,NSW,3,760,37.0,30-39,12.0,Outer Regional Australia,0.0613008,6.1300794,Silver
+1138,Elvin,Trayhorn,Male,46,Financial Services,High Net Worth,No,10,79 Sheridan Point,2231,NSW,10,774,28.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1139,Francklin,Cross,Male,51,Property,Mass Customer,Yes,3,24593 Jackson Parkway,2231,NSW,10,921,40.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1140,Dmitri,Viant,U,62,Financial Services,Affluent Customer,No,5,95960 Warner Parkway,3842,VIC,1,774,80.0,70+,21.0,Inner Regional Australia,1.0,100.0,Silver
+1141,Reinaldos,Simmig,Male,55,Manufacturing,High Net Worth,No,8,6112 Mariners Cove Park,3147,VIC,10,782,67.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+1142,Fey,Borsi,Female,48,Health,High Net Worth,Yes,11,77 Paget Park,3147,VIC,12,786,64.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+1143,Verne,Loalday,Male,1,IT,High Net Worth,No,7,598 Memorial Place,2082,NSW,10,788,39.0,30-39,10.0,Major Cities of Australia,0.9749861,97.498608,Silver
+1144,Verne,Loalday,Male,1,IT,High Net Worth,No,7,598 Memorial Place,2082,NSW,10,788,39.0,30-39,11.0,Inner Regional Australia,0.0250139,2.501392,Silver
+1145,Fayre,Brannigan,Female,32,Manufacturing,Mass Customer,Yes,9,31351 Sunbrook Place,2234,NSW,10,788,29.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+1146,Eachelle,Noirel,Female,93,Health,Affluent Customer,Yes,11,80 Schiller Center,2292,NSW,6,791,48.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Silver
+1147,Cordie,Brankley,Female,79,Entertainment,High Net Worth,No,18,46 Westerfield Place,2195,NSW,6,793,67.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1148,Jackie,Pays,Male,21,Health,Mass Customer,No,9,75024 Ronald Regan Hill,2135,NSW,12,794,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+1149,Rosene,Beckey,Female,25,Health,Mass Customer,Yes,14,02463 Portage Center,2107,NSW,11,801,47.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1150,Sherwin,Minocchi,Male,71,Financial Services,Mass Customer,Yes,11,1 Alpine Crossing,2536,NSW,8,804,74.0,70+,11.0,Inner Regional Australia,1.0,100.0,Bronze
+1151,Luci,Dyter,Female,12,Manufacturing,High Net Worth,No,20,2 Namekagon Trail,3981,VIC,7,804,69.0,60-69,21.0,Inner Regional Australia,1.0,100.0,Silver
+1152,Sloan,Pudney,Male,83,Financial Services,Affluent Customer,No,16,6771 Pleasure Terrace,4557,QLD,9,804,57.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+1153,Meade,McReedy,Female,94,Financial Services,Affluent Customer,Yes,9,04153 Johnson Point,2193,NSW,10,810,53.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1154,Kellen,Pawelski,Female,83,Manufacturing,High Net Worth,Yes,11,125 Manufacturers Parkway,2193,NSW,8,988,76.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1155,Rikki,Chaffey,Male,69,Manufacturing,Mass Customer,No,20,9 Spohn Way,4127,QLD,1,810,76.0,70+,30.0,Major Cities of Australia,1.0,100.0,Silver
+1156,Boothe,Hayselden,Male,42,Health,Mass Customer,Yes,17,33 Pond Point,2291,NSW,10,817,81.0,70+,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1157,Andriana,Gosnoll,Female,53,Manufacturing,Mass Customer,No,8,900 Brown Junction,2291,NSW,10,899,57.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1158,Noak,Sleany,Male,1,Financial Services,Affluent Customer,No,17,1 Roth Plaza,3121,VIC,10,817,56.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Bronze
+1159,Brod,Attrey,Male,46,Financial Services,Mass Customer,Yes,14,180 Lakewood Park,2194,NSW,8,820,55.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+1160,Tessa,Heakey,Female,43,Financial Services,Mass Customer,No,9,6233 Fulton Point,3337,VIC,6,820,50.0,40-49,20.0,Major Cities of Australia,0.9882971,98.8297055,Platinum
+1161,Tessa,Heakey,Female,43,Financial Services,Mass Customer,No,9,6233 Fulton Point,3337,VIC,6,820,50.0,40-49,21.0,Inner Regional Australia,0.0117029,1.1702945,Platinum
+1162,Maximilien,Bourget,Male,12,Financial Services,Mass Customer,Yes,6,2941 Loftsgordon Hill,3337,VIC,7,956,52.0,50-59,20.0,Major Cities of Australia,0.9882971,98.8297055,Silver
+1163,Maximilien,Bourget,Male,12,Financial Services,Mass Customer,Yes,6,2941 Loftsgordon Hill,3337,VIC,7,956,52.0,50-59,21.0,Inner Regional Australia,0.0117029,1.1702945,Silver
+1164,Ellie,Toope,Female,29,Property,High Net Worth,Yes,4,8734 Fulton Hill,2156,NSW,11,832,48.0,40-49,10.0,Major Cities of Australia,0.9095007,90.9500672,Bronze
+1165,Ellie,Toope,Female,29,Property,High Net Worth,Yes,4,8734 Fulton Hill,2156,NSW,11,832,48.0,40-49,11.0,Inner Regional Australia,0.0904993,9.0499328,Bronze
+1166,Porty,Hansed,U,88,IT,Mass Customer,No,13,768 Southridge Drive,2112,NSW,11,832,80.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+1167,Monty,Thomazin,Male,7,Financial Services,Mass Customer,Yes,13,30738 Muir Avenue,3105,VIC,10,838,70.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+1168,Nichols,Devinn,Male,47,Financial Services,Affluent Customer,No,11,5280 Waxwing Point,2071,NSW,12,842,42.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1169,Rubia,Evetts,Female,59,Health,Mass Customer,No,16,64213 Miller Point,2071,NSW,9,921,31.0,30-39,10.0,Major Cities of Australia,1.0,100.0,Silver
+1170,Maris,Leete,Female,21,Retail,Mass Customer,No,7,06 Main Alley,4300,QLD,4,845,48.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+1171,Gerta,Porrett,Female,46,Health,High Net Worth,No,12,074 Badeau Crossing,3250,VIC,2,851,62.0,60-69,21.0,Inner Regional Australia,1.0,100.0,Silver
+1172,Piper,Issacov,Female,67,Health,Affluent Customer,Yes,22,52201 Tony Avenue,2088,NSW,9,856,82.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1173,Mycah,Beaston,Male,11,Financial Services,High Net Worth,Yes,12,2 Mandrake Street,2221,NSW,11,865,60.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1174,Donica,Humby,Female,47,Financial Services,Mass Customer,No,4,488 Briar Crest Court,2101,NSW,12,871,54.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1175,Babara,Sissel,Female,50,IT,Mass Customer,Yes,21,5 Ohio Road,3169,VIC,10,871,47.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+1176,Paulina,Iannuzzelli,Female,57,Manufacturing,Mass Customer,No,19,097 Hollow Ridge Alley,2118,NSW,11,877,66.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+1177,Ricki,Padefield,Male,43,Manufacturing,Affluent Customer,Yes,13,860 Barby Lane,4275,QLD,9,877,73.0,70+,31.0,Inner Regional Australia,1.0,100.0,Bronze
+1178,Lizette,McKeaveney,Female,30,Health,High Net Worth,Yes,13,6412 Butternut Road,2050,NSW,10,879,27.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1179,Pauline,Dallosso,U,82,IT,Affluent Customer,Yes,0,9594 Badeau Street,2050,NSW,10,985,80.0,70+,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1180,Judi,Cazereau,Female,22,Financial Services,Affluent Customer,Yes,13,22 Farmco Avenue,3851,VIC,3,883,25.0,18-29,21.0,Inner Regional Australia,0.6191183,61.9118312,Silver
+1181,Judi,Cazereau,Female,22,Financial Services,Affluent Customer,Yes,13,22 Farmco Avenue,3851,VIC,3,883,25.0,18-29,22.0,Outer Regional Australia,0.3808817,38.0881688,Silver
+1182,Raleigh,Pont,Male,48,Entertainment,Mass Customer,No,14,7650 Gulseth Parkway,3139,VIC,7,883,57.0,50-59,20.0,Major Cities of Australia,0.4593999,45.9399901,Silver
+1183,Raleigh,Pont,Male,48,Entertainment,Mass Customer,No,14,7650 Gulseth Parkway,3139,VIC,7,883,57.0,50-59,21.0,Inner Regional Australia,0.5406001,54.0600099,Silver
+1184,Zachariah,Meininking,Male,40,Financial Services,Affluent Customer,Yes,20,24815 Lindbergh Avenue,2749,NSW,7,883,83.0,70+,10.0,Major Cities of Australia,1.0,100.0,Silver
+1185,Antoinette,Borsi,Female,72,Financial Services,Affluent Customer,No,5,9 Derek Alley,3058,VIC,9,888,41.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Bronze
+1186,Karney,Burstow,Male,51,Property,Mass Customer,Yes,6,4011 Prairieview Court,2031,NSW,12,888,49.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Bronze
+1187,Latrena,Yetts,Female,11,Manufacturing,High Net Worth,Yes,15,53877 Dakota Crossing,2871,NSW,3,893,22.0,18-29,12.0,Outer Regional Australia,1.0,100.0,Silver
+1188,Heall,Andrioli,Male,46,IT,Affluent Customer,Yes,7,370 Eastwood Road,4133,QLD,5,896,80.0,70+,30.0,Major Cities of Australia,0.9766541,97.6654096,Silver
+1189,Heall,Andrioli,Male,46,IT,Affluent Customer,Yes,7,370 Eastwood Road,4133,QLD,5,896,80.0,70+,31.0,Inner Regional Australia,0.0233459,2.3345904,Silver
+1190,Nilson,Wiggam,Male,48,Financial Services,Mass Customer,No,9,8845 Spaight Way,3049,VIC,6,903,26.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+1191,Roth,Crum,U,0,IT,Mass Customer,No,2,276 Anthes Court,2450,NSW,6,904,80.0,70+,11.0,Inner Regional Australia,0.9341908,93.4190842,Silver
+1192,Roth,Crum,U,0,IT,Mass Customer,No,2,276 Anthes Court,2450,NSW,6,904,80.0,70+,12.0,Outer Regional Australia,0.0658092,6.5809158,Silver
+1193,Shaw,MacEvilly,Male,10,Health,Affluent Customer,No,16,34020 Sheridan Park,2768,NSW,9,904,21.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+1194,Brook,Eade,Female,65,Retail,Mass Customer,Yes,8,58 Meadow Valley Court,2330,NSW,5,904,64.0,60-69,11.0,Inner Regional Australia,0.9798542,97.9854185,Platinum
+1195,Brook,Eade,Female,65,Retail,Mass Customer,Yes,8,58 Meadow Valley Court,2330,NSW,5,904,64.0,60-69,12.0,Outer Regional Australia,0.0201458,2.0145815,Platinum
+1196,Harman,A'field,Male,39,Manufacturing,Affluent Customer,Yes,6,31815 Vermont Drive,4227,QLD,5,913,61.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+1197,Hildegarde,Bamb,Female,16,Financial Services,High Net Worth,Yes,10,5070 Division Parkway,3910,VIC,9,913,61.0,60-69,20.0,Major Cities of Australia,1.0,100.0,Silver
+1198,Keely,Bointon,Female,71,Telecommunications,High Net Worth,No,3,55 Dorton Point,4154,QLD,9,913,33.0,30-39,30.0,Major Cities of Australia,1.0,100.0,Silver
+1199,Poul,Gaskin,Male,78,Telecommunications,High Net Worth,No,17,9 Killdeer Circle,2643,NSW,2,920,71.0,70+,11.0,Inner Regional Australia,1.0,100.0,Bronze
+1200,Dulce,Bradwell,Female,61,Manufacturing,Mass Customer,No,20,30 Lukken Point,4159,QLD,9,926,64.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
+1201,Kizzee,Agget,Female,98,Manufacturing,Affluent Customer,No,8,122 Marcy Park,2213,NSW,10,930,45.0,40-49,10.0,Major Cities of Australia,1.0,100.0,Platinum
+1202,Martino,Scoles,Male,18,Financial Services,Mass Customer,No,14,47 Scofield Junction,3620,VIC,4,930,47.0,40-49,21.0,Inner Regional Australia,1.0,100.0,Platinum
+1203,Morgen,Newport,Female,5,Manufacturing,Mass Customer,No,6,9 Washington Center,3340,VIC,4,930,61.0,60-69,20.0,Major Cities of Australia,0.8743255,87.4325534,Silver
+1204,Morgen,Newport,Female,5,Manufacturing,Mass Customer,No,6,9 Washington Center,3340,VIC,4,930,61.0,60-69,21.0,Inner Regional Australia,0.1256745,12.5674466,Silver
+1205,Claudetta,Ricciardiello,Female,61,Financial Services,Mass Customer,Yes,21,31 Schurz Parkway,3181,VIC,8,939,47.0,40-49,20.0,Major Cities of Australia,1.0,100.0,Platinum
+1206,Cicily,Hast,Female,63,Health,Affluent Customer,Yes,8,955 Burning Wood Way,2478,NSW,3,939,50.0,40-49,11.0,Inner Regional Australia,1.0,99.9999999,Silver
+1207,Shanon,Rolfe,Female,63,Retail,High Net Worth,No,8,10 Cottonwood Point,2530,NSW,7,944,80.0,70+,10.0,Major Cities of Australia,0.9887034,98.8703383,Silver
+1208,Shanon,Rolfe,Female,63,Retail,High Net Worth,No,8,10 Cottonwood Point,2530,NSW,7,944,80.0,70+,11.0,Inner Regional Australia,0.0112966,1.1296617,Silver
+1209,Edin,Patinkin,Female,35,Health,Mass Customer,No,17,6 Milwaukee Hill,3015,VIC,4,948,29.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+1210,Noami,Cokly,Female,74,Manufacturing,Mass Customer,Yes,15,2886 Buena Vista Terrace,2038,NSW,11,954,59.0,50-59,10.0,Major Cities of Australia,1.0,100.0,Silver
+1211,Blondell,Dibdall,Female,62,Financial Services,Mass Customer,No,4,34 Bunting Pass,3048,VIC,4,960,55.0,50-59,20.0,Major Cities of Australia,1.0,100.0,Silver
+1212,Benedikt,Adamou,Male,15,Health,Mass Customer,No,11,4 Bluestem Pass,3564,VIC,3,960,35.0,30-39,21.0,Inner Regional Australia,1.0,100.0,Bronze
+1213,Moll,Ogilby,Female,25,Manufacturing,Mass Customer,Yes,13,6 Hansons Crossing,4123,QLD,6,963,41.0,40-49,30.0,Major Cities of Australia,1.0,100.0,Silver
+1214,Clarabelle,Broschek,Female,6,Manufacturing,Mass Customer,No,18,8491 Pennsylvania Crossing,4035,QLD,6,967,58.0,50-59,30.0,Major Cities of Australia,1.0,100.0,Silver
+1215,Tillie,Bisseker,Female,74,Manufacturing,High Net Worth,No,14,59208 Barnett Avenue,2104,NSW,12,967,61.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+1216,Ellwood,Budden,Male,82,Health,Mass Customer,Yes,11,79907 Randy Center,2192,NSW,10,972,23.0,18-29,10.0,Major Cities of Australia,1.0,100.0,Silver
+1217,Aundrea,Outridge,Female,77,Financial Services,Affluent Customer,Yes,10,1530 Columbus Lane,3186,VIC,12,974,21.0,18-29,20.0,Major Cities of Australia,1.0,100.0,Silver
+1218,Esme,Pilipets,Male,15,Health,Mass Customer,Yes,5,9 Ruskin Way,3228,VIC,9,977,54.0,50-59,21.0,Inner Regional Australia,1.0,100.0,Silver
+1219,Leona,Shorrock,Female,83,Financial Services,Affluent Customer,Yes,22,1560 Grim Avenue,4720,QLD,1,979,70.0,60-69,32.0,Outer Regional Australia,0.996875,99.6875,Silver
+1220,Leona,Shorrock,Female,83,Financial Services,Affluent Customer,Yes,22,1560 Grim Avenue,4720,QLD,1,979,70.0,60-69,33.0,Remote Australia,0.003125,0.3125,Silver
+1221,Augusta,Munns,Female,5,Financial Services,Mass Customer,No,21,607 Memorial Avenue,2074,NSW,11,983,70.0,60-69,10.0,Major Cities of Australia,1.0,100.0,Silver
+1222,Lauralee,Fudge,Female,83,Health,Mass Customer,No,15,9460 Monument Park,3277,VIC,4,985,34.0,30-39,21.0,Inner Regional Australia,1.0,100.0,Gold
+1223,Weidar,Etheridge,Male,38,Financial Services,Mass Customer,Yes,6,0535 Jay Point,2422,NSW,4,994,62.0,60-69,11.0,Inner Regional Australia,0.7364775,73.6477542,Bronze
+1224,Weidar,Etheridge,Male,38,Financial Services,Mass Customer,Yes,6,0535 Jay Point,2422,NSW,4,994,62.0,60-69,12.0,Outer Regional Australia,0.2635225,26.3522458,Bronze
+1225,Datha,Fishburn,Female,15,Retail,Mass Customer,No,3,6 Caliangt Way,3079,VIC,12,994,31.0,30-39,20.0,Major Cities of Australia,1.0,100.0,Silver
+1226,Melloney,Temby,Female,17,Financial Services,Affluent Customer,Yes,15,33475 Fair Oaks Junction,4702,QLD,2,997,67.0,60-69,31.0,Inner Regional Australia,0.7241277,72.4127749,Bronze
+1227,Melloney,Temby,Female,17,Financial Services,Affluent Customer,Yes,15,33475 Fair Oaks Junction,4702,QLD,2,997,67.0,60-69,32.0,Outer Regional Australia,0.1739316,17.3931618,Bronze
+1228,Melloney,Temby,Female,17,Financial Services,Affluent Customer,Yes,15,33475 Fair Oaks Junction,4702,QLD,2,997,67.0,60-69,33.0,Remote Australia,0.1019406,10.1940609,Bronze
+1229,Dickie,Cubbini,Male,30,Financial Services,Mass Customer,Yes,19,57666 Victoria Way,4215,QLD,2,997,69.0,60-69,30.0,Major Cities of Australia,1.0,100.0,Silver
